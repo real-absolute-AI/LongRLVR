@@ -72,6 +72,66 @@ Our training dataset containing 46K high-quality synthetic QA pairs is available
 
 ## 🛠️ Quickstart 
 
+### Using the Models (Hugging Face)
+
+The LongRLVR models are explicitly trained to identify useful context chunks before answering. You can use standard Hugging Face `transformers` to interact with them. For the best results, you must chunk your document using the same strategy as our data pipeline (see `split_into_chunks` in [`data_gen/clustering.py`](data_gen/clustering.py)) and prompt the model to output the `<think>`, `<useful chunks>`, and `<answer>` tags. Note that `<think>` has been already added into the chat template of the released models.
+
+```python
+import torch
+from transformers import AutoModelForCausalLM, AutoTokenizer
+
+model_name = "Guanzheng/Qwen2.5-7B-LongRLVR"
+
+tokenizer = AutoTokenizer.from_pretrained(model_name)
+model = AutoModelForCausalLM.from_pretrained(
+    model_name,
+    torch_dtype=torch.bfloat16,
+    device_map="auto",
+)
+
+# Example document that has been split into chunks
+document_chunks = [
+    "[Chunk 0] Marie Curie was born in Warsaw, Poland...",
+    "[Chunk 1] The Curies' early research was inspired by Henri Becquerel's 1896 discovery...",
+    # ... more chunks ...
+    "[Chunk 5] In December 1898, they announced the discovery of a second element, 'radium'..."
+]
+context = "\n".join(document_chunks)
+
+prompt = f"""{context}
+
+Question: Where was Marie Curie born and what was the second radioactive element she co-discovered?
+
+Output:
+"""
+
+messages = [
+    {"role": "user", "content": prompt}
+]
+
+text = tokenizer.apply_chat_template(
+    messages,
+    tokenize=False,
+    add_generation_prompt=True
+)
+
+inputs = tokenizer([text], return_tensors="pt").to(model.device)
+generated_ids = model.generate(
+    **inputs,
+    max_new_tokens=1024,
+    temperature=0.6,
+    top_p=0.9
+)
+
+# The model will output something like:
+# <think> Let me find where she was born and the second element... </think>
+# <useful chunks> <CHUNK 0>, <CHUNK 5> </useful chunks>
+# <answer> Marie Curie was born in Warsaw, Poland, and the second radioactive element she co-discovered was radium. </answer>
+
+response = tokenizer.batch_decode(generated_ids[:, inputs.input_ids.shape[1]:], skip_special_tokens=True)[0]
+print(response)
+```
+
 ### Data Generation Pipeline
 We provide a comprehensive pipeline to synthesize the verifiable context-grounded dataset. 
 For a step-by-step tutorial on generating your own data, please see the [data_gen/README.md](data_gen/README.md).
