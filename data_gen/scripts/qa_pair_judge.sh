@@ -1,0 +1,1 @@
+python3 qa_pairs_judge.py --input_data_path generate_data_v3/generated_questions_all_64k_128k_organized_filtered.json --output_data_path generate_data_v3/generated_questions_all_64k_128k_organized_filtered_with_qa_ratings.json

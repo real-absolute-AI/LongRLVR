@@ -1,0 +1,36 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+dist/
+build/
+
+# Envs
+.env/
+.venv/
+venv/
+
+# Logs / outputs
+*.log
+wandb/
+
+# Large artifacts (not for GitHub)
+ckpts/
+checkpoints/
+outputs/
+*.safetensors
+*.bin
+*.pt
+*.pth
+*.ckpt
+*.parquet
+*.arrow
+*.npz
+*.npy
+

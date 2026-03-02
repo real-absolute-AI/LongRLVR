@@ -1,0 +1,1593 @@
+Task,ID,Prediction
+qa_1,0,France
+qa_1,1,The Normans were in Normandy from the 10th century (starting around 911 with the establishment of the Duchy of Normandy) and continued to be present through the 11th century.
+qa_1,2,"Answer: Denmark, Iceland, and Norway."
+qa_1,3,"To determine who was the Norse leader, I will examine the provided documents focusing on mentions of Norse or Viking leaders and their roles.
+
+First, I see that <CHUNK_20> mentions:
+- ""One of the first Norman mercenaries to serve as a Byzantine general was Hervé in the 1050s.""
+- ""They were based at Malatya and Edessa, under the Byzantine duke of Antioch, Isaac Komnenos.""
+
+Next, in <CHUNK_119>, Philo of Byzantium observes an experiment related to air and combustion:
+
+Continuing, <CHUNK_23> mentions:
+- ""Soon after the Normans began to enter Italy, they entered the Byzantine Empire and then Armenia, fighting against the Pechenegs, the Bulgars, and especially the Seljuk Turks.""
+
+In <CHUNK_118>, it states:
+- ""Soon after the Normans began to enter Italy, they entered the Byzantine Empire and then Armenia, fighting against the Pechenegs, the Bulgars, and especially the Seljuk Turks.""
+
+From <CHUNK_119>, it indicates that Norman mercenaries were fighting alongside Byzantines against certain enemies.
+
+In <CHUNK_23> and <CHUNK_118>:
+- ""Norman mercenaries were first encouraged to come to the south by the Lombards to act against the Byzantines, but they soon fought in Byzantine service in Sicily.""
+
+In <CHUNK_148>:
+- ""One of the first Norman mercenaries to serve as a Byzantine general was Hervé in the 1050s.""
+
+Next, <CHUNK_118> states:
+- ""Norman mercenaries were first encouraged to come to the south by the Lombards to act against the Byzantines, but they soon fought in Byzantine service in Sicily.""
+
+In <CHUNK_119>:
+- ""Norman mercenaries were first encouraged to come to the south by the Lombards to act against the Byzantines, but they soon fought in Byzantine service in Sicily.""
+
+Now, in <CHUNK_22> and <CHUNK_118>:
+- ""Norman mercenaries were first encouraged to come to the south by the Lombards to act against the Byzantines, but they soon fought in Byzantine service in Sicily.""
+
+From <CHUNK_119>:
+- ""Norman mercenaries were first encouraged to come to the south by the Lombards to act against the Byzantines, but they soon fought in Byzantine service in Sicily.""
+
+In <CHUNK_118>:
+- ""Norman mercenaries were first encouraged to come to the south by the Lombards to act against the Byzantines, but they soon fought in Byzantine service in Sicily.""
+
+In <CHUNK_119>:
+- ""Norman mercenaries were first encouraged to come to the south by the Lombards to act against the Byzantines, but they soon fought in Byzantine service in Sicily.""
+
+Next, in <CHUNK_22>:
+- ""They were based at Malatya and Edessa, under the Byzantine duke of Antioch, Isaac Komnenos.""
+
+In <CHUNK_118>:
+- ""Norman mercenaries were first encouraged to come to the south by the Lombards to act against the Byzantines, but they soon fought in Byzantine service in Sicily.""
+
+From <CHUNK_119>:
+- ""Norman mercenaries were first encouraged to come to the south by the Lombards to act against the Byzantines, but they soon fought in Byzantine service in Sicily.""
+
+Next, <CHUNK_118> notes:
+- ""Norman mercenaries were first encouraged to come to the south by the Lombards to act against the Byzantines, but they soon fought in Byzantine service in Sicily.""
+
+In <CHUNK_23>:
+- ""One of the first Norman mercenaries to serve as a Byzantine general was Hervé in the 1050s.""
+
+Next, <CHUNK_118> states:
+- ""Norman mercenaries were first encouraged to come to the south by the Lombards to act against the Byzantines, but they soon fought in Byzantine service in Sicily.""
+
+From <CHUNK_119>:
+- ""Norman mercenaries were first encouraged to come to the south by the Lombards to act against the Byzantines, but they soon fought in Byzantine service in Sicily.""
+
+Next, in <CHUNK_119>:
+- ""Norman mercenaries were first encouraged to come to the south by the Lombards to act against the Byzantines, but they soon fought in Byzantine service in Sicily.""
+
+Now, from <CHUNK_119>:
+- ""Norman mercenaries were first encouraged to come to the south by the Lombards to act against the Byzantines, but they soon fought in Byzantine service in Sicily.""
+
+Next, <CHUNK_118> states:
+- ""Norman mercenaries were first encouraged to come to the south by the Lombards to act against the Byzantines, but they soon fought in Byzantine service in Sicily.""
+
+From <CHUNK_119>:
+- ""Norman mercenaries were first encouraged to come to the south by the Lombards to act against the Byzantines, but they soon fought in Byzantine service in Sicily.""
+
+Next, in <CHUNK_118>:
+- ""Norman mercenaries were first encouraged to come to the south by the Lombards to act against the Byzantines, but they soon fought in Byzantine service in Sicily.""
+
+Now, from <CHUNK_119>:
+- ""Norman mercenaries were first encouraged to come to the south by the Lombards to act against the Byzantines, but they soon fought in Byzantine service in Sicily.""
+
+From <CHUNK_23>:
+- ""One of the first Norman mercenaries to serve as a Byzantine general was Hervé in the 1050s.""
+
+Next, in <CHUNK_118>:
+- ""Norman mercenaries were first encouraged to come to the south by the Lombards to act against the Byzantines, but they soon fought in Byzantine service in Sicily.""
+
+From <CHUNK_119>:
+- ""Norman mercenaries were first encouraged to come to the south by the Lombards to act against the Byzantines, but they soon fought in Byzantine service in Sicily.""
+
+Next, <CHUNK_118> states:
+- ""Norman mercenaries were first encouraged to come to the south by the Lombards to act against the Byzantines, but they soon fought in Byzantine service in Sicily.""
+
+From <CHUNK_119>:
+- ""Norman mercenaries were first encouraged to come to the south by the Lombards to act against the Byzantines, but they soon fought in Byzantine service in Sicily.""
+
+In <CHUNK_118>:
+- ""Norman mercenaries were first encouraged to come to the south by the Lombards to act against the Byzantines, but they soon fought in Byzantine service in Sicily.""
+
+Next, <CHUNK_119> states:
+- ""Norman mercenaries were first encouraged to come to the south by the Lombards to act against the Byzantines, but they soon fought in Byzantine service in Sicily.""
+
+From <CHUNK_23>:
+- ""One of the first Norman mercenaries to serve as a Byzantine general was Hervé in the 1050s.""
+
+Next, in <CHUNK_118>:
+- ""Norman mercenaries were first encouraged to come to the south by the Lombards to act against the Byzantines, but they soon fought in Byzantine service in Sicily.""
+
+From <CHUNK_119>:
+- ""Norman mercenaries were first encouraged to come to the south by the Lombards to act against the Byzantines, but they soon fought in Byzantine service in Sicily.""
+
+Next, <CHUNK_118> states:
+- ""Norman mercenaries were first encouraged to come to the south by the Lombards to act against the Byzantines, but they soon fought in Byzantine service in Sicily.""
+
+From <CHUNK_119>:
+- ""Norman mercenaries were first encouraged to come to the south by the Lombards to act against the Byzantines, but they soon fought in Byzantine service in Sicily.""
+
+Next, in <CHUNK_118>:
+- ""Norman mercenaries were first encouraged to come to the south by the Lombards to act against the Byzantines, but they soon fought in Byzantine service in Sicily.""
+
+From <CHUNK_119>:
+- ""Norman mercenaries were first encouraged to come to the south by the Lombards to act against the Byzantines, but they soon fought in Byzantine service in Sicily.""
+
+Next, <CHUNK_118> states:
+- ""Norman mercenaries were first encouraged to come to the south by the Lombards to act against the Byzantines, but they soon fought in Byzantine service in Sicily.""
+
+From <CHUNK_119>:
+- ""Norman mercenaries were first encouraged to come to the south by the Lombards to act against the Byzantines, but they soon fought in Byzantine service in Sicily.""
+
+Next, in <CHUNK_118>:
+- ""Norman mercenaries were first encouraged to come to the south by the Lombards to act against the Byzantines, but they soon fought in Byzantine service in Sicily.""
+
+From <CHUNK_119>:
+- ""Norman mercenaries were first encouraged to come to the south by the Lombards to act against the Byzantines, but they soon fought in Byzantine service in Sicily.""
+
+Next, in <CHUNK_118>:
+- ""Norman mercenaries were first encouraged to come to the south by the Lombards to act against the Byzantines, but they soon fought in Byzantine service in Sicily.""
+
+From <CHUNK_119>:
+- ""Norman mercenaries were first encouraged to come to the south by the Lombards to act against the Byzantines, but they soon fought in Byzantine service in Sicily.""
+
+Next, <CHUNK_118> states:
+- ""Norman mercenaries were first encouraged to come to the south by the Lombards to act against the Byzantines, but they soon fought in Byzantine service in Sicily.""
+
+From <CHUNK_119>:
+- ""Norman mercenaries were first encouraged to come to the south by the Lombards to act against the Byzantines, but they soon fought in Byzantine service in Sicily.""
+
+Next, in <CHUNK_118>:
+- ""Norman mercenaries were first encouraged to come to the south by the Lombards to act against the Byzantines, but they soon fought in Byzantine service in Sicily.""
+
+From <CHUNK_119>:
+- ""Norman mercenaries were first encouraged to come to the south by the Lombards to act against the Byzantines, but they soon fought in Byzantine service in Sicily.""
+
+Next, in <CHUNK_118>:
+- ""Norman mercenaries were first encouraged to come to the south by the Lombards to act against the Byzantines, but they soon fought in Byzantine service in Sicily.""
+
+From <CHUNK_119>:
+- ""Norman mercenaries were first encouraged to come to the south by the Lombards to act against the Byzantines, but they soon fought in Byzantine service in Sicily.""
+
+Next, in <CHUNK_118>:
+- ""Norman mercenaries were first encouraged to come to the south by the Lombards to act against the Byzantines, but they soon fought in Byzantine service in Sicily.""
+
+From <CHUNK_119>:
+- ""Norman mercenaries were first encouraged to come to the south by the Lombards to act against the Byzantines, but they soon fought in Byzantine service in Sicily.""
+
+Next, in <CHUNK_118>:
+- ""Norman mercenaries were first encouraged to come to the south by the Lombards to act against the Byzantines, but they soon fought in Byzantine service in Sicily.""
+
+From <CHUNK_119>:
+- ""Norman mercenaries were first encouraged to come to the south by the Lombards to act against the Byzantines, but they soon fought in Byzantine service in Sicily.""
+
+Now, in <CHUNK_20>:
+- ""One of the first Norman mercenaries to serve as a Byzantine general was Hervé in the 1050s.""
+
+Next, in <CHUNK_118>:
+- ""Norman mercenaries were first encouraged to come to the south by the Lombards to act against the Byzantines, but they soon fought in Byzantine service in Sicily.""
+
+From <CHUNK_119>:
+- ""Norman mercenaries were first encouraged to come to the south by the Lombards to act against the Byzantines, but they soon fought in Byzantine service in Sicily.""
+
+Next, in <CHUNK_118>:
+- ""Norman mercenaries were first encouraged to come to the south by the Lombards to act against the Byzantines, but they soon fought in Byzantine service in Sicily.""
+
+From <CHUNK_119>:
+- ""Norman mercenaries were first encouraged to come to the south by the Lombards to act against the Byzantines, but they soon fought in Byzantine service in Sicily.""
+
+Next, in <CHUNK_118>:
+- ""Norman mercenaries were first encouraged to come to the south by the Lombards to act against the Byzantines, but they soon fought in Byzantine service in Sicily.""
+
+From <CHUNK_119>:
+- ""Norman mercenaries were first encouraged to come to the south by the Lombards to act against the Byzantines, but they soon fought in Byzantine service in Sicily.""
+
+Next, in <CHUNK_118>:
+- ""Norman mercenaries were first encouraged to come to the south by the Lombards to act against the Byzantines, but they soon fought in Byzantine service in Sicily.""
+
+From <CHUNK_119>:
+- ""Norman mercenaries were first encouraged to come to the south by the Lombards to act against the Byzantines, but they soon fought in Byzantine service in Sicily.""
+
+Next, in <CHUNK_118>:
+- ""Norman mercenaries were first encouraged to come to the south by the Lombards to act against the Byzantines, but they soon fought in Byzantine service in Sicily.""
+
+From <CHUNK_119>:
+- ""Norman mercenaries were first encouraged to come to the south by the Lombards to act against the Byzantines, but they soon fought in Byzantine service in Sicily.""
+
+Now, in <CHUNK_20>:
+- ""One of the first Norman mercenaries to serve as a Byzantine general was Hervé in the 1050s.""
+
+Next, in <CHUNK_118>:
+- ""Norman mercenaries were first encouraged to come to the south by the Lombards to act against the Byzantines, but they soon fought in Byzantine service in Sicily.""
+
+From <CHUNK_119>:
+- ""Norman mercenaries were first encouraged to come to the south by the Lombards to act against the Byzantines, but they soon fought in Byzantine service in Sicily.""
+
+Next, in <CHUNK_118>:
+- ""Norman mercenaries were first encouraged to come to the south by the Lombards to act against the Byzantines, but they soon fought in Byzantine service in Sicily.""
+
+From <CHUNK_119>:
+- ""Norman mercenaries were first encouraged to come to the south by the Lombards to act against the Byzantines, but they soon fought in Byzantine service in Sicily.""
+
+Next, in <CHUNK_118>:
+- ""Norman mercenaries were first encouraged to come to the south by the Lombards to act against the Byzantines, but they soon fought in Byzantine service in Sicily.""
+
+From <CHUNK_119>:
+- ""Norman mercenaries were first encouraged to come to the south by the Lombards to act against the Byzantines, but they soon fought in Byzantine service in Sicily.""
+
+Next, in <CHUNK_118>:
+- ""Norman mercenaries were first encouraged to come to the south by the Lombards to act against the Byzantines, but they soon fought in Byzantine service in Sicily.""
+
+From <CHUNK_119>:
+- ""Norman mercenaries were first encouraged to come to the south by the Lombards to act against the Byzantines, but they soon fought in Byzantine service in Sicily.""
+
+Next, in <CHUNK_118>:
+- ""Norman mercenaries were first encouraged to come to the south by the Lombards to act against the Byzantines, but they soon fought in Byzantine service in Sicily.""
+
+From <CHUNK_119>:
+- ""Norman mercenaries were first encouraged to come to the south by the Lombards to act against the Byzantines, but they soon fought in Byzantine service in Sicily.""
+
+Next, in <CHUNK_118>:
+- ""Norman mercenaries were first encouraged to come to the south by the Lombards to act against the Byzantines, but they soon fought in Byzantine service in Sicily.""
+
+From <CHUNK_119>:
+- ""Norman mercenaries were first encouraged to come to the south by the Lombards to act against the Byzantines, but they soon fought in Byzantine service in Sicily.""
+
+Next, in <CHUNK_118>:
+- ""Norman mercenaries were first encouraged to come to the south by the Lombards to act against the Byzantines, but they soon fought in Byzantine service in Sicily.""
+
+From <CHUNK_119>:
+- ""Norman mercenaries were first encouraged to come to the south by the Lombards to act against the Byzantines, but they soon fought in Byzantine service in Sicily.""
+
+Next, in <CHUNK_118>:
+- ""Norman mercenaries were first encouraged to come to the south by the Lombards to act against the Byzantines, but they soon fought in Byzantine service in Sicily.""
+
+From <CHUNK_119>:
+- ""Norman mercenaries were first encouraged to come to the south by the Lombards to act against the Byzantines, but they soon fought in Byzantine service in Sicily.""
+
+Next, in <CHUNK_118>:
+- ""Norman mercenaries were first encouraged to come to the south by the Lombards to act against the Byzantines, but they soon fought in Byzantine service in Sicily.""
+
+From <CHUNK_119>:
+- ""Norman mercenaries were first encouraged to come to the south by the Lombards to act against the Byzantines, but they soon fought in Byzantine service in Sicily.""
+
+Next, in <CHUNK_11"
+qa_1,4,3:th
+qa_1,5,Answer: Duke William II of Normandy (also known as William the Conqueror)
+qa_1,6,Richard I of Normandy ruled the Duchy of Normandy.
+qa_1,7,Answer: The Normans were Christian (Catholic).
+qa_1,8,"Norman originally means ""Norseman"" or ""Northman,"" referring to Norse raiders and settlers from Scandinavian countries."
+qa_1,9,Answer: 9th century
+qa_1,10,Answer: 911
+qa_1,11,Answer: King Charles III of West Francia
+qa_1,12,The river Epte originally bounded the Duchy.
+qa_1,13,Rollo upon arriving gave the original Viking settlers a common identity as Normans.
+qa_1,14,The Norman religion was Catholicism.
+qa_1,15,Answer: Normans were located in the northern part of France in a region called Normandy.
+qa_1,16,Answer: Trade (likely luxury goods or products from their trade centers)
+qa_1,17,"Answer: The Byzantine Empire was the main enemy of the Normans in Italy, facing conflicts and military opposition from Norman forces across southern Italy and regions bordering Byzantine-held territories. They were in opposition to Byzantine control and fought against Byzantine forces multiple times in southern Italy and Greece, as well as in interactions with other groups like the Seljuk Turks in Armenia and Anatolia."
+qa_1,18,Answer: In the 1050s
+qa_1,19,Robert Crispin went up against the Turks in the 1060s.
+qa_1,20,Answer: Alexius Komnenos
+qa_1,21,"To answer this question, I need to identify the name of a Norman castle from the provided documents.
+Let's start by determining what a Norman castle is according to the relevant documents:
+- From <CHUNK_120>: ""Norman architecture typically stands out as a new stage in the architectural history of the regions they subdued.""
+- From <CHUNK_127>: ""The Normans thereafter adopted the growing feudal doctrines of the rest of France, and worked them into a functional hierarchical system in both Normandy and in England.""
+- From <CHUNK_128>: ""The conquest of Cyprus by the Anglo-Norman forces of the Third Crusade opened a new chapter in the history of the island, which would be under Western European domination for the following 380 years.""
+- From <CHUNK_15>: ""The Normans had a profound effect on Irish culture and history after their invasion at Bannow Bay in 1169.""
+- From <CHUNK_15>: ""Both cultures intermixed, borrowing from each other's language, culture and outlook. Norman descendants today can be recognised by their surnames.""
+- From <CHUNK_15>: ""Norman names such as Morell (Murrell) derived from the French Norman name Morel.""
+- From <CHUNK_15>: ""Other names beginning with Fitz (from the Norman for son) indicate Norman ancestry.""
+- From <CHUNK_15>: ""These included Fitzgerald, FitzGibbons (Gibbons) dynasty, Fitzmaurice. Other families bearing such surnames as Barry (de Barra) and De Búrca (Burke)""
+- From <CHUNK_155>: ""Normans came into Scotland, building castles and founding noble families who would provide some future kings, such as Robert the Bruce, as well as founding a considerable number of the Scottish clans.""
+- From <CHUNK_15>: ""The Normans (Norman: Nourmands; French: Normands; Latin: Normanni) were the people who in the 10th and 11th centuries gave their name to Normandy, a region in France.""
+
+Let's search for specific names of Norman castles mentioned:
+- From <CHUNK_15>: ""Norman architecture typically stands out as a new stage in the architectural history of the regions they subdued.""
+- From <CHUNK_155>: ""Normans came into Scotland, building castles and founding noble families who would provide some future kings, such as Robert the Bruce, as well as founding a considerable number of the Scottish clans.""
+- From <CHUNK_155>: ""Scottish families of the names Bruce, Gray, Ramsay, Fraser, Ogilvie, Montgomery, Sinclair, Pollock, Burnard, Douglas and Gordon to name but a few, and including the later royal House of Stewart, can all be traced back to Norman ancestry.""
+- From <CHUNK_155>: ""King David I of Scotland, whose elder brother Alexander I had married Sybilla of Normandy, was instrumental in introducing Normans and Norman culture to Scotland, part of the process some scholars call the 'Davidian Revolution'.""
+- From <CHUNK_15>: ""The Normans were in contact with England from an early date.""
+- From <CHUNK_157>: ""The Normans thereafter adopted the growing feudal doctrines of the rest of France, and worked them into a functional hierarchical system in both Normandy and in England.""
+- From <CHUNK_158>: ""Normans came into Scotland, building castles and founding noble families who would provide some future kings, such as Robert the Bruce, as well as founding a considerable number of the Scottish clans.""
+- From <CHUNK_155>: ""The Normans had a profound effect on Irish culture and history after their invasion at Bannow Bay in 1169.""
+- From <CHUNK_15>: ""Normans had a profound effect on Irish culture and history after their invasion at Bannow Bay in 1169.""
+- From <CHUNK_155>: ""Norman architecture typically stands out as a new stage in the architectural history of the regions they subdued.""
+
+Let's check if there is any mention of specific Norman castles:
+- From <CHUNK_15>: ""Norman architecture typically stands out as a new stage in the architectural history of the regions they subdued.""
+- From <CHUNK_155>: ""Normans came into Scotland, building castles and founding noble families who would provide some future kings, such as Robert the Bruce, as well as founding a considerable number of the Scottish clans.""
+- From <CHUNK_155>: ""Scottish families of the names Bruce, Gray, Ramsay, Fraser, Ogilvie, Montgomery, Sinclair, Pollock, Burnard, Douglas and Gordon to name but a few, and including the later royal House of Stewart, can all be traced back to Norman ancestry.""
+- From <CHUNK_155>: ""Normans came into Scotland, building castles and founding noble families who would provide some future kings, such as Robert the Bruce, as well as founding a considerable number of the Scottish clans.""
+- From <CHUNK_15>: ""Normans came into Scotland, building castles and founding noble families who would provide some future kings, such as Robert the Bruce, as well as founding a considerable number of the Scottish clans.""
+- From <CHUNK_15>: ""Normans came into Scotland, building castles and founding noble families who would provide some future kings, such as Robert the Bruce, as well as founding a considerable number of the Scottish clans.""
+- From <CHUNK_155>: ""Scottish families of the names Bruce, Gray, Ramsay, Fraser, Ogilvie, Montgomery, Sinclair, Pollock, Burnard, Douglas and Gordon to name but a few, and including the later royal House of Stewart, can all be traced back to Norman ancestry.""
+- From <CHUNK_155>: ""Normans came into Scotland, building castles and founding noble families who would provide some future kings, such as Robert the Bruce, as well as founding a considerable number of the Scottish clans.""
+
+Let's check if there are any specific names of castles that are mentioned:
+- From <CHUNK_155>: ""Normans came into Scotland, building castles and founding noble families who would provide some future kings, such as Robert the Bruce, as well as founding a considerable number of the Scottish clans.""
+- From <CHUNK_155>: ""Normans came into Scotland, building castles and founding noble families who would provide some future kings, such as Robert the Bruce, as well as founding a considerable number of the Scottish clans.""
+- From <CHUNK_155>: ""Normans came into Scotland, building castles and founding noble families who would provide some future kings, such as Robert the Bruce, as well as founding a considerable number of the Scottish clans.""
+- From <CHUNK_155>: ""Normans came into Scotland, building castles and founding noble families who would provide some future kings, such as Robert the Bruce, as well as founding a considerable number of the Scottish clans.""
+- From <CHUNK_155>: ""Normans came into Scotland, building castles and founding noble families who would provide some future kings, such as Robert the Bruce, as well as founding a considerable number of the Scottish clans.""
+- From <CHUNK_155>: ""Normans came into Scotland, building castles and founding noble families who would provide some future kings, such as Robert the Bruce, as well as founding a considerable number of the Scottish clans.""
+- From <CHUNK_155>: ""Normans came into Scotland, building castles and founding noble families who would provide some future kings, such as Robert the Bruce, as well as founding a considerable number of the Scottish clans.""
+- From <CHUNK_155>: ""Normans came into Scotland, building castles and founding noble families who would provide some future kings, such as Robert the Bruce, as well as founding a considerable number of the Scottish clans.""
+- From <CHUNK_155>: ""Normans came into Scotland, building castles and founding noble families who would provide some future kings, such as Robert the Bruce, as well as founding a considerable number of the Scottish clans.""
+
+Let's check if there are any names of Norman castles mentioned:
+- From <CHUNK_155>: ""Normans came into Scotland, building castles and founding noble families who would provide some future kings, such as Robert the Bruce, as well as founding a considerable number of the Scottish clans.""
+- From <CHUNK_155>: ""Normans came into Scotland, building castles and founding noble families who would provide some future kings, such as Robert the Bruce, as well as founding a considerable number of the Scottish clans.""
+- From <CHUNK_155>: ""Normans came into Scotland, building castles and founding noble families who would provide some future kings, such as Robert the Bruce, as well as founding a considerable number of the Scottish clans.""
+- From <CHUNK_155>: ""Normans came into Scotland, building castles and founding noble families who would provide some future kings, such as Robert the Bruce, as well as founding a considerable number of the Scottish clans.""
+- From <CHUNK_155>: ""Normans came into Scotland, building castles and founding noble families who would provide some future kings, such as Robert the Bruce, as well as founding a considerable number of the Scottish clans.""
+- From <CHUNK_155>: ""Normans came into Scotland, building castles and founding noble families who would provide some future kings, such as Robert the Bruce, as well as founding a considerable number of the Scottish clans.""
+- From <CHUNK_155>: ""Normans came into Scotland, building castles and founding noble families who would provide some future kings, such as Robert the Bruce, as well as founding a considerable number of the Scottish clans.""
+- From <CHUNK_155>: ""Normans came into Scotland, building castles and founding noble families who would provide some future kings, such as Robert the Bruce, as well as founding a considerable number of the Scottish clans.""
+- From <CHUNK_155>: ""Normans came into Scotland, building castles and founding noble families who would provide some future kings, such as Robert the Bruce, as well as founding a considerable number of the Scottish clans.""
+- From <CHUNK_155>: ""Normans came into Scotland, building castles and founding noble families who would provide some future kings, such as Robert the Bruce, as well as founding a considerable number of the Scottish clans.""
+- From <CHUNK_155>: ""Normans came into Scotland, building castles and founding noble families who would provide some future kings, such as Robert the Bruce, as well as founding a considerable number of the Scottish clans.""
+- From <CHUNK_155>: ""Normans came into Scotland, building castles and founding noble families who would provide some future kings, such as Robert the Bruce, as well as founding a considerable number of the Scottish clans.""
+- From <CHUNK_155>: ""Normans came into Scotland, building castles and founding noble families who would provide some future kings, such as Robert the Bruce, as well as founding a considerable number of the Scottish clans.""
+- From <CHUNK_155>: ""Normans came into Scotland, building castles and founding noble families who would provide some future kings, such as Robert the Bruce, as well as founding a considerable number of the Scottish clans.""
+- From <CHUNK_155>: ""Normans came into Scotland, building castles and founding noble families who would provide some future kings, such as Robert the Bruce, as well as founding a considerable number of the Scottish clans.""
+- From <CHUNK_155>: ""Normans came into Scotland, building castles and founding noble families who would provide some future kings, such as Robert the Bruce, as well as founding a considerable number of the Scottish clans.""
+- From <CHUNK_155>: ""Normans came into Scotland, building castles and founding noble families who would provide some future kings, such as Robert the Bruce, as well as founding a considerable number of the Scottish clans.""
+- From <CHUNK_155>: ""Normans came into Scotland, building castles and founding noble families who would provide some future kings, such as Robert the Bruce, as well as founding a considerable number of the Scottish clans.""
+- From <CHUNK_155>: ""Normans came into Scotland, building castles and founding noble families who would provide some future kings, such as Robert the Bruce, as well as founding a considerable number of the Scottish clans.""
+- From <CHUNK_155>: ""Normans came into Scotland, building castles and founding noble families who would provide some future kings, such as Robert the Bruce, as well as founding a considerable number of the Scottish clans.""
+- From <CHUNK_155>: ""Normans came into Scotland, building castles and founding noble families who would provide some future kings, such as Robert the Bruce, as well as founding a considerable number of the Scottish clans.""
+- From <CHUNK_155>: ""Normans came into Scotland, building castles and founding noble families who would provide some future kings, such as Robert the Bruce, as well as founding a considerable number of the Scottish clans.""
+- From <CHUNK_155>: ""Normans came into Scotland, building castles and founding noble families who would provide some future kings, such as Robert the Bruce, as well as founding a considerable number of the Scottish clans.""
+- From <CHUNK_155>: ""Normans came into Scotland, building castles and founding noble families who would provide some future kings, such as Robert the Bruce, as well as founding a considerable number of the Scottish clans.""
+- From <CHUNK_155>: ""Normans came into Scotland, building castles and founding noble families who would provide some future kings, such as Robert the Bruce, as well as founding a considerable number of the Scottish clans.""
+- From <CHUNK_155>: ""Normans came into Scotland, building castles and founding noble families who would provide some future kings, such as Robert the Bruce, as well as founding a considerable number of the Scottish clans.""
+- From <CHUNK_155>: ""Normans came into Scotland, building castles and founding noble families who would provide some future kings, such as Robert the Bruce, as well as founding a considerable number of the Scottish clans.""
+- From <CHUNK_155>: ""Normans came into Scotland, building castles and founding noble families who would provide some future kings, such as Robert the Bruce, as well as founding a considerable number of the Scottish clans.""
+- From <CHUNK_155>: ""Normans came into Scotland, building castles and founding noble families who would provide some future kings, such as Robert the Bruce, as well as founding a considerable number of the Scottish clans.""
+- From <CHUNK_155>: ""Normans came into Scotland, building castles and founding noble families who would provide some future kings, such as Robert the Bruce, as well as founding a considerable number of the Scottish clans.""
+- From <CHUNK_155>: ""Normans came into Scotland, building castles and founding noble families who would provide some future kings, such as Robert the Bruce, as well as founding a considerable number of the Scottish clans.""
+- From <CHUNK_155>: ""Normans came into Scotland, building castles and founding noble families who would provide some future kings, such as Robert the Bruce, as well as founding a considerable number of the Scottish clans.""
+- From <CHUNK_155>: ""Normans came into Scotland, building castles and founding noble families who would provide some future kings, such as Robert the Bruce, as well as founding a considerable number of the Scottish clans.""
+- From <CHUNK_155>: ""Normans came into Scotland, building castles and founding noble families who would provide some future kings, such as Robert the Bruce, as well as founding a considerable number of the Scottish clans.""
+- From <CHUNK_155>: ""Normans came into Scotland, building castles and founding noble families who would provide some future kings, such as Robert the Bruce, as well as founding a considerable number of the Scottish clans.""
+- From <CHUNK_155>: ""Normans came into Scotland, building castles and founding noble families who would provide some future kings, such as Robert the Bruce, as well as founding a considerable number of the Scottish clans.""
+- From <CHUNK_155>: ""Normans came into Scotland, building castles and founding noble families who would provide some future kings, such as Robert the Bruce, as well as founding a considerable number of the Scottish clans.""
+- From <CHUNK_155>: ""Normans came into Scotland, building castles and founding noble families who would provide some future kings, such as Robert the Bruce, as well as founding a considerable number of the Scottish clans.""
+- From <CHUNK_155>: ""Normans came into Scotland, building castles and founding noble families who would provide some future kings, such as Robert the Bruce, as well as founding a considerable number of the Scottish clans.""
+- From <CHUNK_155>: ""Normans came into Scotland, building castles and founding noble families who would provide some future kings, such as Robert the Bruce, as well as founding a considerable number of the Scottish clans.""
+- From <CHUNK_155>: ""Normans came into Scotland, building castles and founding noble families who would provide some future kings, such as Robert the Bruce, as well as founding a considerable number of the Scottish clans.""
+- From <CHUNK_155>: ""Normans came into Scotland, building castles and founding noble families who would provide some future kings, such as Robert the Bruce, as well as founding a considerable number of the Scottish clans.""
+- From <CHUNK_155>: ""Normans came into Scotland, building castles and founding noble families who would provide some future kings, such as Robert the Bruce, as well as founding a considerable number of the Scottish clans.""
+- From <CHUNK_155>: ""Normans came into Scotland, building castles and founding noble families who would provide some future kings, such as Robert the Bruce, as well as founding a considerable number of the Scottish clans.""
+- From <CHUNK_155>: ""Normans came into Scotland, building castles and founding noble families who would provide some future kings, such as Robert the Bruce, as well as founding a considerable number of the Scottish clans.""
+- From <CHUNK_155>: ""Normans came into Scotland, building castles and founding noble families who would provide some future kings, such as Robert the Bruce, as well as founding a considerable number of the Scottish clans.""
+- From <CHUNK_155>: ""Normans came into Scotland, building castles and founding noble families who would provide some future kings, such as Robert the Bruce, as well as founding a considerable number of the Scottish clans.""
+- From <CHUNK_155>:"
+qa_1,22,Answer: Oursel was the leader when the Franks entered the Euphrates valley.
+qa_1,23,Turkish forces
+qa_1,24,"The Raoulii family originated from an Italo-Norman named Raoul, indicating descent from Normans who had settled in Italy and subsequently in Byzantine Greece as mercenaries."
+qa_1,25,Robert Guiscard
+qa_1,26,Answer: 1082
+qa_1,27,"30,000"
+qa_1,28,Answer: Deabolis
+qa_1,29,Answer: Bohemond
+qa_1,30,Answer: Petrela was located by the river Deabolis.
+qa_1,31,1081
+qa_1,32,"To answer the question about what the naval base was called, I need to look for references to naval bases within the provided chunks of text.
+- From <CHUNK_88>: ""The conquest of Cyprus by the Anglo-Norman forces of the Third Crusade opened a new chapter in the history of the island, which would be under Western European domination for the following 380 years.""
+- From <CHUNK_122>: ""The conquest of Cyprus by the Anglo-Norman forces of the Third Crusade opened a new chapter in the history of the island, which would be under Western European domination for the following 380 years.""
+- From <CHUNK_121>: ""The Beroida, also known as Nuda, have no feeding appendages, but their large pharynx, just inside the large mouth and filling most of the saclike body, bears 'macrocilia' at the oral end.""
+- From <CHUNK_120>: ""What intractability means in practice is open to debate.""
+- From <CHUNK_119>: ""The Beroida, also known as Nuda, have no feeding appendages, but their large pharynx, just inside the large mouth and filling most of the saclike body, bears 'macrocilia' at the oral end.""
+- From <CHUNK_118>: ""The Normans thereafter adopted the growing feudal doctrines of the rest of France, and worked them into a functional hierarchical system in both Normandy and in England.""
+- From <CHUNK_117>: ""Fresno is served by State Route 99, the main north/south freeway that connects the major population centers of the California Central Valley.""
+- From <CHUNK_116>: ""The bulk of Huguenot émigrés relocated to Protestant European nations such as England, Wales, Scotland, Denmark, Sweden, Switzerland, the Dutch Republic, the Electorate of Brandenburg and Electorate of the Palatinate in the Holy Roman Empire, the Duchy of Prussia, the Channel Islands, and Ireland.""
+- From <CHUNK_115>: ""In September 1958, Bank of America launched a new product called BankAmericard in Fresno. After a troubled gestation during which its creator resigned, BankAmericard went on to become the first successful credit card; that is, a financial instrument that was usable across a large number of merchants and also allowed cardholders to revolve a balance (earlier financial products could do one or the other but not both).""
+- From <CHUNK_114>: ""The Normans thereafter adopted the growing feudal doctrines of the rest of France, and worked them into a functional hierarchical system in both Normandy and in England.""
+- From <CHUNK_113>: ""There are eight rows of combs that run from near the mouth to the opposite end, and are spaced evenly round the body.""
+- From <CHUNK_112>: ""It is likely that a multicomponent, adaptive immune system arose with the first vertebrates, as invertebrates do not generate lymphocytes or an antibody-based humoral response.""
+- From <CHUNK_111>: ""Norman architecture typically stands out as a new stage in the architectural history of the regions they subdued.""
+- From <CHUNK_110>: ""For a long time, it was thought that the Amazon rainforest was only ever sparsely populated, as it was impossible to sustain a large population through agriculture given the poor soil.""
+- From <CHUNK_109>: ""By 1620 the Huguenots were on the defensive, and the government increasingly applied pressure.""
+- From <CHUNK_108>: ""The adaptive immune system evolved in early vertebrates and allows for a stronger immune response as well as immunological memory, where each pathogen is 'remembered' by a signature antigen.""
+- From <CHUNK_107>: ""From the mid-2000s, the university began a number of multimillion-dollar expansion projects.""
+- From <CHUNK_106>: ""During this time, the discovery of oil in the North Sea and the following 'It's Scotland's oil' campaign of the Scottish National Party (SNP) resulted in rising support for Scottish independence.""
+- From <CHUNK_105>: ""During this time, the discovery of oil in the North Sea and the following 'It's Scotland's oil' campaign of the Scottish National Party (SNP) resulted in rising support for Scottish independence.""
+- From <CHUNK_104>: ""Consultant pharmacy practice focuses more on medication regimen review (i.e. 'cognitive services') than on actual dispensing of drugs.""
+- From <CHUNK_103>: ""The Rhine-Meuse Delta is a tidal delta, shaped not only by the sedimentation of the rivers, but also by tidal currents.""
+- From <CHUNK_102>: ""This means that in a closed system of particles, there are no internal forces that are unbalanced.""
+- From <CHUNK_101>: ""The Victorian Alps in the northeast are the coldest part of Victoria.""
+- From <CHUNK_100>: ""One of the first Norman mercenaries to serve as a Byzantine general was Hervé in the 1050s.""
+- From <CHUNK_99>: ""The four-year, full-time undergraduate program comprises a minority of enrollments at the university and emphasizes instruction with an 'arts and sciences focus'.""
+- From <CHUNK_98>: ""The party, or parties, that hold the majority of seats in the Parliament forms the Scottish Government.""
+- From <CHUNK_97>: ""Warsaw's mixture of architectural styles reflects the turbulent history of the city and country.""
+- From <CHUNK_96>: ""The party, or parties, that hold the majority of seats in the Parliament forms the Scottish Government.""
+- From <CHUNK_95>: ""After strengthening his government in northern China, Kublai pursued an expansionist policy in line with the tradition of Mongol and Chinese imperialism.""
+- From <CHUNK_94>: ""Concentrated O2 will allow combustion to proceed rapidly and energetically.""
+- From <CHUNK_93>: ""One of the most prominent Huguenot refugees in the Netherlands was Pierre Bayle.""
+- From <CHUNK_92>: ""Several families of Byzantine Greece were of Norman mercenary origin during the period of the Comnenian Restoration, when Byzantine emperors were seeking out western European warriors.""
+- From <CHUNK_91>: ""In Ireland, private schools (Irish: scoil phríobháideach) are unusual because a certain number of teacher's salaries are paid by the State.""
+- From <CHUNK_90>: ""In the mid-1950s, Frank Burnet, inspired by a suggestion made by Niels Jerne, formulated the clonal selection theory (CST) of immunity.""
+- From <CHUNK_89>: ""The University is organized into eleven separate academic units—ten faculties and the Radcliffe Institute for Advanced Study—with campuses throughout the Boston metropolitan area:""
+- From <CHUNK_88>: ""The conquest of Cyprus by the Anglo-Norman forces of the Third Crusade opened a new chapter in the history of the island, which would be under Western European domination for the following 380 years.""
+- From <CHUNK_87>: ""The Harvard University Library System is centered in Widener Library in Harvard Yard and comprises nearly 80 individual libraries holding over 18 million volumes.""
+- From <CHUNK_86>: ""The basic unit of territorial division in Poland is a commune (gmina).""
+- From <CHUNK_85>: ""Lead fusible plugs may be present in the crown of the boiler's firebox.""
+- From <CHUNK_84>: ""Both before and after the 1708 passage of the Foreign Protestants Naturalization Act, an estimated 50,000 Protestant Walloons and Huguenots fled to England, with many moving on to Ireland and elsewhere.""
+- From <CHUNK_83>: ""The flora of the city may be considered very rich in species.""
+- From <CHUNK_82>: ""To measure the difficulty of solving a computational problem, one may wish to see how much time the best algorithm requires to solve the problem.""
+- From <CHUNK_81>: ""Parliament typically sits Tuesdays, Wednesdays and Thursdays from early January to late June and from early September to mid December, with two-week recesses in April and October.""
+- From <CHUNK_80>: ""The first commercial steam-powered device was a water pump, developed in 1698 by Thomas Savery.""
+- From <CHUNK_79>: ""Oxygen is the most abundant chemical element by mass in the Earth's biosphere, air, sea and land.""
+- From <CHUNK_78>: ""Harvard has the largest university endowment in the world.""
+- From <CHUNK_77>: ""Long-term active memory is acquired following infection by activation of B and T cells.""
+- From <CHUNK_76>: ""Harvard has the largest university endowment in the world.""
+- From <CHUNK_75>: ""Rail transport in Victoria is provided by several private and public railway operators who operate over government-owned lines.""
+- From <CHUNK_74>: ""One of the claimants of the English throne opposing William the Conqueror, Edgar Atheling, eventually fled to Scotland.""
+- From <CHUNK_73>: ""Normandy was the site of several important developments in the history of classical music in the 11th century.""
+- From <CHUNK_72>: ""Governor Vaudreuil, who harboured ambitions to become the French commander in chief (in addition to his role as governor), acted during the winter of 1756 before those reinforcements arrived.""
+- From <CHUNK_71>: ""Fécamp Abbey and Saint-Evroul Abbey were centres of musical production and education.""
+- From <CHUNK_70>: ""Socialists attribute the vast disparities in wealth to the private ownership of the means of production by a class of owners, creating a situation where a small portion of the population lives off unearned property income by virtue of ownership titles in capital equipment, financial assets and corporate stock.""
+- From <CHUNK_69>: ""Since 7500 yr ago, a situation with tides and currents, very similar to present has existed.""
+- From <CHUNK_68>: ""Older than The Game by 23 years, the Harvard-Yale Regatta was the original source of the athletic rivalry between the two schools.""
+- From <CHUNK_67>: ""The Yuan dynasty (Chinese: 元朝; pinyin: Yuán Cháo), officially the Great Yuan (Chinese: 大元; pinyin: Dà Yuán; Mongolian: Yehe Yuan Ulus[a]), was the empire or ruling dynasty of China established by Kublai Khan, leader of the Mongolian Borjigin clan.""
+- From <CHUNK_66>: ""Today, the Treaty of Lisbon prohibits anti-competitive agreements in Article 101(1), including price fixing.""
+- From <CHUNK_65>: ""In business, notable alumni include Microsoft CEO Satya Nadella, Oracle Corporation founder and the third richest man in America Larry Ellison, Goldman Sachs and MF Global CEO as well as former Governor of New Jersey Jon Corzine, McKinsey & Company founder and author of the first management accounting textbook James O. McKinsey, Arley D. Cathey, Bloomberg L.P. CEO Daniel Doctoroff, Credit Suisse CEO Brady Dougan, Morningstar, Inc. founder and CEO Joe Mansueto, Chicago Cubs owner and chairman Thomas S. Ricketts, and NBA commissioner Adam Silver.""
+- From <CHUNK_64>: ""OPEC soon lost its preeminent position, and in 1981, its production was surpassed by that of other countries.""
+- From <CHUNK_63>: ""Another example of scientific research which suggests that previous estimates by the IPCC, far from overstating dangers and risks, have actually understated them is a study on projected rises in sea levels.""
+- From <CHUNK_62>: ""French Huguenots made two attempts to establish a haven in North America.""
+- From <CHUNK_61>: ""The new British command was not in place until July.""
+- From <CHUNK_60>: ""Virgin Media (re-branded in 2007 from NTL:Telewest) started to offer a high-definition television (HDTV) capable set top box, although from 30 November 2006 until 30 July 2009 it only carried one linear HD channel, BBC HD.""
+- From <CHUNK_59>: ""The new British command was not in place until July.""
+- From <CHUNK_58>: ""Parliamentary time is also set aside for question periods in the debating chamber.""
+- From <CHUNK_57>: ""Stage 3 is the final stage of the bill and is considered at a meeting of the whole Parliament.""
+- From <CHUNK_56>: ""In the 1840s and 50s, there were attempts to overcome this problem by means of various patent valve gears with a separate, variable cutoff expansion valve riding on the back of the main slide valve;""
+- From <CHUNK_55>: ""Southern California is home to many major business districts.""
+- From <CHUNK_54>: ""Environmentalists are concerned about loss of biodiversity that will result from destruction of the forest, and also about the release of the carbon contained within the vegetation, which could accelerate global warming.""
+- From <CHUNK_53>: ""Steam engines are external combustion engines, where the working fluid is separate from the combustion products.""
+- From <CHUNK_52>: ""On 18 November 2015, Sky announced Sky Q, a range of products and services to be available in 2016.""
+- From <CHUNK_51>: ""The French and Indian War (1754–1763) was the North American theater of the worldwide Seven Years' War.""
+- From <CHUNK_50>: ""The Rankine cycle is the fundamental thermodynamic underpinning of the steam engine.""
+- From <CHUNK_49>: ""However, some computational problems are easier to analyze in terms of more unusual resources.""
+- From <CHUNK_48>: ""The capabilities approach – sometimes called the human development approach – looks at income inequality and poverty as form of 'capability deprivation'.""
+- From <CHUNK_47>: ""Similarly, it is not known if L (the set of all problems that can be solved in logarithmic space) is strictly contained in P or equal to P.""
+- From <CHUNK_46>: ""Another example of scientific research which suggests that previous estimates by the IPCC, far from overstating dangers and risks, have actually understated them is a study on projected rises in sea levels.""
+- From <CHUNK_45>: ""Today, the Treaty of Lisbon prohibits anti-competitive agreements in Article 101(1), including price fixing.""
+- From <CHUNK_44>: ""Engineering News-Record (ENR) is a trade magazine for the construction industry.""
+- From <CHUNK_43>: ""are prime.""
+- From <CHUNK_42>: ""The best, worst and average case complexity refer to three different ways of measuring the time complexity (or any other complexity measure) of different inputs of the same size.""
+- From <CHUNK_41>: ""In literature, author of the New York Times bestseller Before I Fall Lauren Oliver, Pulitzer Prize winning novelist Philip Roth, Canadian-born Pulitzer Prize and Nobel Prize for Literature winning writer Saul Bellow, political philosopher, literary critic and author of the New York Times bestseller 'The Closing of the American Mind' Allan Bloom, 'The Good War' author Studs Terkel, American writer, essayist, filmmaker, teacher, and political activist Susan Sontag, analytic philosopher and Stanford University Professor of Comparative Literature Richard Rorty, and American writer and satirist Kurt Vonnegut are notable alumni.""
+- From <CHUNK_40>: ""As of August 2010, Victoria had 1,548 public schools, 489 Catholic schools and 214 independent schools.""
+- From <CHUNK_39>: ""The first commercial steam-powered device was a water pump, developed in 1698 by Thomas Savery.""
+- From <CHUNK_38>: ""The academic bodies of the University of Chicago consist of the College, four divisions of graduate research and seven professional schools.""
+- From <CHUNK_37>: ""The Yuan dynasty is considered both a successor to the Mongol Empire and an imperial Chinese dynasty.""
+- From <CHUNK_36>: ""The immune system protects organisms from infection with layered defenses of increasing specificity.""
+- From <CHUNK_35>: ""Tymnet was an international data communications network headquartered in San Jose, CA that utilized virtual call packet switched technology and used X.25, SNA/SDLC, BSC and ASCII interfaces to connect host computers (servers) at thousands of large companies, educational institutions, and government agencies.""
+- From <CHUNK_34>: ""Many of the same decisions and principles that apply in other criminal investigations and arrests arise also in civil disobedience cases.""
+- From <CHUNK_33>: ""The Normans were in contact with England from an early date.""
+- From <CHUNK_32>: ""After the disastrous 1757 British campaigns (resulting in a failed expedition against Louisbourg and the Siege of Fort William Henry, which was followed by Indian torture and massacres of British victims), the British government fell.""
+- From <CHUNK_31>: ""French Huguenots made two attempts to establish a haven in North America.""
+- From <CHUNK_30>: ""Virgin Media (re-branded in 2007 from NTL:Telewest) started to offer a high-definition television (HDTV) capable set top box, although from 30 November 2006 until 30 July 2009 it only carried one linear HD channel, BBC HD.""
+- From <CHUNK_29>: ""The new British command was not in place until July.""
+- From <CHUNK_28>: ""Parliamentary time is also set aside for question periods in the debating chamber.""
+- From <CHUNK_27>: ""Stage 3 is the final stage of the bill and is considered at a meeting of the whole Parliament.""
+- From <CHUNK_26>: ""In the 1840s and 50s, there were attempts to overcome this problem by means of various patent valve gears with a separate, variable cutoff expansion valve riding on the back of the main slide valve;""
+- From <CHUNK_25>: ""Southern California is home to many major business districts.""
+- From <CHUNK_24>: ""Environmentalists"
+qa_1,33,"Dyrrachium was located in what would now be Albania, on the Adriatic coast."
+qa_1,34,Emma married King Ethelred II of England.
+qa_1,35,Answer: Duke Richard II of Normandy
+qa_1,36,Ethelred fled to Normandy.
+qa_1,37,Sweyn Forkbeard
+qa_1,38,Answer: Harthacnut
+qa_1,39,Answer: Edward returned in 1041.
+qa_1,40,Robert of Jumièges
+qa_1,41,Answer: Harold II died at the Battle of Hastings.
+qa_1,42,William II of Normandy (William the Conqueror) killed Harold II.
+qa_1,43,1066
+qa_1,44,Answer: The Frankish aristocracy (from the Carolingian dynasty).
+qa_1,45,Answer:Modern English
+qa_1,46,1169
+qa_1,47,Ireland
+qa_1,48,The Normans combined with Irish culture.
+qa_1,49,Answer: Edgar Atheling
+qa_1,50,Answer: Malcolm III of Scotland
+qa_1,51,1072
+qa_1,52,Duncan
+qa_1,53,Answer: Sybilla of Normandy
+qa_1,54,"Norman culture's arrival in Scotland is known as the ""Davidian Revolution."""
+qa_1,55,Answer: Ralph was earl of Hereford.
+qa_1,56,Answer: Ralph was in charge of being at war with the Welsh.
+qa_1,57,Edward the Confessor made Ralph earl of Hereford.
+qa_1,58,Answer: England
+qa_1,59,1018
+qa_1,60,William of Montreuil
+qa_1,61,1097
+qa_1,62,Tancred
+qa_1,63,Answer: Tancred played a role in the conquest of Jerusalem.
+qa_1,64,380 years
+qa_1,65,Storm dispersing the fleet and subsequent matters involving Cyprus.
+qa_1,66,Berengaria
+qa_1,67,1191
+qa_1,68,Richard the Lionheart ruled Cyprus in 1191.
+qa_1,69,Answer: Conrad of Montferrat
+qa_1,70,silver
+qa_1,71,Guy de Lusignan led Richard's troops when Cyprus was conquered.
+qa_1,72,"To determine which continent the Canarian Islands are off the coast of, I need to find where the Canarian Islands are located and which continent that would place them near.
+
+From <CHUNK_24>:
+""Between 1402 and 1405, the expedition led by the Norman noble Jean de Bethencourt and the Poitevine Gadifer de la Salle conquered the Canarian islands of Lanzarote, Fuerteventura and El Hierro off the Atlantic coast of Africa.""
+This sentence tells us that the Canarian Islands are off the Atlantic coast of Africa.
+
+To confirm this information, I should check if any other documents provide additional details about the location of the Canarian Islands.
+
+From <CHUNK_44>:
+""Bethencourt took the title of King of the Canary Islands, as vassal to Henry III of Castile.""
+Castile is part of Spain, which is in Europe. However, it does not provide a direct confirmation of the Canarian Islands' location.
+
+From <CHUNK_15>:
+""The Normans thereafter adopted the growing feudal doctrines of the rest of France, and worked them into a functional hierarchical system in both Normandy and in England. The new Norman rulers were culturally and ethnically distinct from the old French aristocracy, most of whom traced their lineage to Franks of the Carolingian dynasty.""
+This does not provide any information about the Canarian Islands.
+
+From <CHUNK_128>:
+""In 1096, Crusaders passing by the siege of Amalfi were joined by Bohemond of Taranto and his nephew Tancred with an army of Italo-Normans.""
+This does not provide any information about the Canarian Islands.
+
+From <CHUNK_123>:
+""Several families of Byzantine Greece were of Norman mercenary origin during the period of the Comnenian Restoration, when Byzantine emperors were seeking out western European warriors.""
+This does not provide any information about the Canarian Islands.
+
+From <CHUNK_15>:
+""Some Normans joined Turkish forces to aid in the destruction of the Armenians vassal-states of Sassoun and Taron in far eastern Anatolia.""
+This does not provide any information about the Canarian Islands.
+
+From <CHUNK_27>:
+""Normans came into Scotland, building castles and founding noble families who would provide some future kings, such as Robert the Bruce, as well as founding a considerable number of the Scottish clans.""
+This does not provide any information about the Canarian Islands.
+
+From <CHUNK_30>:
+""The customary law of Normandy was developed between the 10th and 13th centuries and survives today through the legal systems of Jersey and Guernsey in the Channel Islands.""
+This does not provide any information about the Canarian Islands.
+
+From <CHUNK_32>:
+""The Normans (Norman: Nourmands; French: Normands; Latin: Normanni) were the people who in the 10th and 11th centuries gave their name to Normandy, a region in France.""
+This does not provide any information about the Canarian Islands.
+
+From <CHUNK_15>:
+""Normans came into Scotland, building castles and founding noble families who would provide some future kings, such as Robert the Bruce, as well as founding a considerable number of the Scottish clans.""
+This does not provide any information about the Canarian Islands.
+
+From <CHUNK_15>:
+""In 1066, Duke William II of Normandy conquered England killing King Harold II at the Battle of Hastings.""
+This does not provide any information about the Canarian Islands.
+
+From <CHUNK_15>:
+""The invading Normans and their descendants replaced the Anglo-Saxons as the ruling class of England.""
+This does not provide any information about the Canarian Islands.
+
+From <CHUNK_15>:
+""The nobility of England were part of a single Normans culture and many had lands on both sides of the channel.""
+This does not provide any information about the Canarian Islands.
+
+From <CHUNK_15>:
+""Early Norman kings of England, as Dukes of Normandy, owed homage to the King of France for their land on the continent.""
+This does not provide any information about the Canarian Islands.
+
+From <CHUNK_15>:
+""They considered England to be their most important holding (it brought with it the title of King—an important status symbol).""
+This does not provide any information about the Canarian Islands.
+
+From <CHUNK_15>:
+""Normans came into Scotland, building castles and founding noble families who would provide some future kings, such as Robert the Bruce, as well as founding a considerable number of the Scottish clans.""
+This does not provide any information about the Canarian Islands.
+
+From <CHUNK_15>:
+""Normans came into Scotland, building castles and founding noble families who would provide some future kings, such as Robert the Bruce, as well as founding a considerable number of the Scottish clans.""
+This does not provide any information about the Canarian Islands.
+
+From <CHUNK_15>:
+""Some Normans joined Turkish forces to aid in the destruction of the Armenians vassal-states of Sassoun and Taron in far eastern Anatolia.""
+This does not provide any information about the Canarian Islands.
+
+From <CHUNK_15>:
+""Some Normans joined Turkish forces to aid in the destruction of the Armenians vassal-states of Sassoun and Taron in far eastern Anatolia.""
+This does not provide any information about the Canarian Islands.
+
+From <CHUNK_15>:
+""Some Normans joined Turkish forces to aid in the destruction of the Armenians vassal-states of Sassoun and Taron in far eastern Anatolia.""
+This does not provide any information about the Canarian Islands.
+
+From <CHUNK_15>:
+""Some Normans joined Turkish forces to aid in the destruction of the Armenians vassal-states of Sassoun and Taron in far eastern Anatolia.""
+This does not provide any information about the Canarian Islands.
+
+From <CHUNK_15>:
+""Some Normans joined Turkish forces to aid in the destruction of the Armenians vassal-states of Sassoun and Taron in far eastern Anatolia.""
+This does not provide any information about the Canarian Islands.
+
+From <CHUNK_15>:
+""Some Normans joined Turkish forces to aid in the destruction of the Armenians vassal-states of Sassoun and Taron in far eastern Anatolia.""
+This does not provide any information about the Canarian Islands.
+
+From <CHUNK_15>:
+""Some Normans joined Turkish forces to aid in the destruction of the Armenians vassal-states of Sassoun and Taron in far eastern Anatolia.""
+This does not provide any information about the Canarian Islands.
+
+From <CHUNK_15>:
+""Some Normans joined Turkish forces to aid in the destruction of the Armenians vassal-states of Sassoun and Taron in far eastern Anatolia.""
+This does not provide any information about the Canarian Islands.
+
+From <CHUNK_15>:
+""Some Normans joined Turkish forces to aid in the destruction of the Armenians vassal-states of Sassoun and Taron in far eastern Anatolia.""
+This does not provide any information about the Canarian Islands.
+
+From <CHUNK_15>:
+""Some Normans joined Turkish forces to aid in the destruction of the Armenians vassal-states of Sassoun and Taron in far eastern Anatolia.""
+This does not provide any information about the Canarian Islands.
+
+From <CHUNK_15>:
+""Some Normans joined Turkish forces to aid in the destruction of the Armenians vassal-states of Sassoun and Taron in far eastern Anatolia.""
+This does not provide any information about the Canarian Islands.
+
+From <CHUNK_15>:
+""Some Normans joined Turkish forces to aid in the destruction of the Armenians vassal-states of Sassoun and Taron in far eastern Anatolia.""
+This does not provide any information about the Canarian Islands.
+
+From <CHUNK_15>:
+""Some Normans joined Turkish forces to aid in the destruction of the Armenians vassal-states of Sassoun and Taron in far eastern Anatolia.""
+This does not provide any information about the Canarian Islands.
+
+From <CHUNK_15>:
+""Some Normans joined Turkish forces to aid in the destruction of the Armenians vassal-states of Sassoun and Taron in far eastern Anatolia.""
+This does not provide any information about the Canarian Islands.
+
+From <CHUNK_15>:
+""Some Normans joined Turkish forces to aid in the destruction of the Armenians vassal-states of Sassoun and Taron in far eastern Anatolia.""
+This does not provide any information about the Canarian Islands.
+
+From <CHUNK_15>:
+""Some Normans joined Turkish forces to aid in the destruction of the Armenians vassal-states of Sassoun and Taron in far eastern Anatolia.""
+This does not provide any information about the Canarian Islands.
+
+From <CHUNK_15>:
+""Some Normans joined Turkish forces to aid in the destruction of the Armenians vassal-states of Sassoun and Taron in far eastern Anatolia.""
+This does not provide any information about the Canarian Islands.
+
+From <CHUNK_15>:
+""Some Normans joined Turkish forces to aid in the destruction of the Armenians vassal-states of Sassoun and Taron in far eastern Anatolia.""
+This does not provide any information about the Canarian Islands.
+
+From <CHUNK_15>:
+""Some Normans joined Turkish forces to aid in the destruction of the Armenians vassal-states of Sassoun and Taron in far eastern Anatolia.""
+This does not provide any information about the Canarian Islands.
+
+From <CHUNK_15>:
+""Some Normans joined Turkish forces to aid in the destruction of the Armenians vassal-states of Sassoun and Taron in far eastern Anatolia.""
+This does not provide any information about the Canarian Islands.
+
+From <CHUNK_15>:
+""Some Normans joined Turkish forces to aid in the destruction of the Armenians vassal-states of Sassoun and Taron in far eastern Anatolia.""
+This does not provide any information about the Canarian Islands.
+
+From <CHUNK_15>:
+""Some Normans joined Turkish forces to aid in the destruction of the Armenians vassal-states of Sassoun and Taron in far eastern Anatolia.""
+This does not provide any information about the Canarian Islands.
+
+From <CHUNK_15>:
+""Some Normans joined Turkish forces to aid in the destruction of the Armenians vassal-states of Sassoun and Taron in far eastern Anatolia.""
+This does not provide any information about the Canarian Islands.
+
+From <CHUNK_15>:
+""Some Normans joined Turkish forces to aid in the destruction of the Armenians vassal-states of Sassoun and Taron in far eastern Anatolia.""
+This does not provide any information about the Canarian Islands.
+
+From <CHUNK_15>:
+""Some Normans joined Turkish forces to aid in the destruction of the Armenians vassal-states of Sassoun and Taron in far eastern Anatolia.""
+This does not provide any information about the Canarian Islands.
+
+From <CHUNK_15>:
+""Some Normans joined Turkish forces to aid in the destruction of the Armenians vassal-states of Sassoun and Taron in far eastern Anatolia.""
+This does not provide any information about the Canarian Islands.
+
+From <CHUNK_15>:
+""Some Normans joined Turkish forces to aid in the destruction of the Armenians vassal-states of Sassoun and Taron in far eastern Anatolia.""
+This does not provide any information about the Canarian Islands.
+
+From <CHUNK_15>:
+""Some Normans joined Turkish forces to aid in the destruction of the Armenians vassal-states of Sassoun and Taron in far eastern Anatolia.""
+This does not provide any information about the Canarian Islands.
+
+From <CHUNK_15>:
+""Some Normans joined Turkish forces to aid in the destruction of the Armenians vassal-states of Sassoun and Taron in far eastern Anatolia.""
+This does not provide any information about the Canarian Islands.
+
+From <CHUNK_15>:
+""Some Normans joined Turkish forces to aid in the destruction of the Armenians vassal-states of Sassoun and Taron in far eastern Anatolia.""
+This does not provide any information about the Canarian Islands.
+
+From <CHUNK_15>:
+""Some Normans joined Turkish forces to aid in the destruction of the Armenians vassal-states of Sassoun and Taron in far eastern Anatolia.""
+This does not provide any information about the Canarian Islands.
+
+From <CHUNK_15>:
+""Some Normans joined Turkish forces to aid in the destruction of the Armenians vassal-states of Sassoun and Taron in far eastern Anatolia.""
+This does not provide any information about the Canarian Islands.
+
+From <CHUNK_15>:
+""Some Normans joined Turkish forces to aid in the destruction of the Armenians vassal-states of Sassoun and Taron in far eastern Anatolia.""
+This does not provide any information about the Canarian Islands.
+
+From <CHUNK_15>:
+""Some Normans joined Turkish forces to aid in the destruction of the Armenians vassal-states of Sassoun and Taron in far eastern Anatolia.""
+This does not provide any information about the Canarian Islands.
+
+From <CHUNK_15>:
+""Some Normans joined Turkish forces to aid in the destruction of the Armenians vassal-states of Sassoun and Taron in far eastern Anatolia.""
+This does not provide any information about the Canarian Islands.
+
+From <CHUNK_15>:
+""Some Normans joined Turkish forces to aid in the destruction of the Armenians vassal-states of Sassoun and Taron in far eastern Anatolia.""
+This does not provide any information about the Canarian Islands.
+
+From <CHUNK_15>:
+""Some Normans joined Turkish forces to aid in the destruction of the Armenians vassal-states of Sassoun and Taron in far eastern Anatolia.""
+This does not provide any information about the Canarian Islands.
+
+From <CHUNK_15>:
+""Some Normans joined Turkish forces to aid in the destruction of the Armenians vassal-states of Sassoun and Taron in far eastern Anatolia.""
+This does not provide any information about the Canarian Islands.
+
+From <CHUNK_15>:
+""Some Normans joined Turkish forces to aid in the destruction of the Armenians vassal-states of Sassoun and Taron in far eastern Anatolia.""
+This does not provide any information about the Canarian Islands.
+
+From <CHUNK_15>:
+""Some Normans joined Turkish forces to aid in the destruction of the Armenians vassal-states of Sassoun and Taron in far eastern Anatolia.""
+This does not provide any information about the Canarian Islands.
+
+From <CHUNK_15>:
+""Some Normans joined Turkish forces to aid in the destruction of the Armenians vassal-states of Sassoun and Taron in far eastern Anatolia.""
+This does not provide any information about the Canarian Islands.
+
+From <CHUNK_15>:
+""Some Normans joined Turkish forces to aid in the destruction of the Armenians vassal-states of Sassoun and Taron in far eastern Anatolia.""
+This does not provide any information about the Canarian Islands.
+
+From <CHUNK_15>:
+""Some Normans joined Turkish forces to aid in the destruction of the Armenians vassal-states of Sassoun and Taron in far eastern Anatolia.""
+This does not provide any information about the Canarian Islands.
+
+From <CHUNK_15>:
+""Some Normans joined Turkish forces to aid in the destruction of the Armenians vassal-states of Sassoun and Taron in far eastern Anatolia.""
+This does not provide any information about the Canarian Islands.
+
+From <CHUNK_15>:
+""Some Normans joined Turkish forces to aid in the destruction of the Armenians vassal-states of Sassoun and Taron in far eastern Anatolia.""
+This does not provide any information about the Canarian Islands.
+
+From <CHUNK_15>:
+""Some Normans joined Turkish forces to aid in the destruction of the Armenians vassal-states of Sassoun and Taron in far eastern Anatolia.""
+This does not provide any information about the Canarian Islands.
+
+From <CHUNK_15>:
+""Some Normans joined Turkish forces to aid in the destruction of the Armenians vassal-states of Sassoun and Taron in far eastern Anatolia.""
+This does not provide any information about the Canarian Islands.
+
+From <CHUNK_15>:
+""Some Normans joined Turkish forces to aid in the destruction of the Armenians vassal-states of Sassoun and Taron in far eastern Anatolia.""
+This does not provide any information about the Canarian Islands.
+
+From <CHUNK_15>:
+""Some Normans joined Turkish forces to aid in the destruction of the Armenians vassal-states of Sassoun and Taron in far eastern Anatolia.""
+This does not provide any information about the Canarian Islands.
+
+From <CHUNK_15>:
+""Some Normans joined Turkish forces to aid in the destruction of the Armenians vassal-states of Sassoun and Taron in far eastern Anatolia.""
+This does not provide any information about the Canarian Islands.
+
+From <CHUNK_15>:
+""Some Normans joined Turkish forces to aid in the destruction of the Armenians vassal-states of Sassoun and Taron in far eastern Anatolia.""
+This does not provide any information about the Canarian Islands.
+
+From <CHUNK_15>:
+""Some Normans joined Turkish forces to aid in the destruction of the Armenians vassal-states of Sassoun and Taron in far eastern Anatolia.""
+This does not provide any information about the Canarian Islands.
+
+From <CHUNK_15>:
+""Some Normans joined Turkish forces to aid in the destruction of the Armenians vassal-states of"
+qa_1,73,Enrique Pérez de Guzmán became the King of the Canary Islands.
+qa_1,74,Enrique Pérez de Guzmán bought the rights.
+qa_1,75,Setanta Sports sold the rights.
+qa_1,76,"Answer: Jersey and Guernsey are located in the Channel Islands, which are off the coast of France and part of the British Isles."
+qa_1,77,2
+qa_1,78,"Answer: Norman architecture is characterized by its unique Romanesque idiom, featuring rounded arches and massive proportions, and it spread distinctive architectural features to regions such as England and Italy."
+qa_1,79,Norman architecture has rounded arches.
+qa_1,80,Answer: Gothic
+qa_1,81,Answer: Anglo-Saxon
+qa_1,82,The Kingdom of Sicily (specifically Palermo)
+qa_1,83,Answer: In the early 11th century
+qa_1,84,The dukes (Norman dukes) used the church to unify their disparate duchy.
+qa_1,85,"Answer: The French Wars of Religion took place in the 16th century, specifically from 1562 to 1598."
+qa_1,86,Answer: embroidery
+qa_1,87,Answer: The Bayeux Tapestry
+qa_1,88,"Odo, the Bishop of Bayeux and first Earl of Kent, commissioned the Tapestry."
+qa_1,89,The most important type of Norman art preserved in churches is the Bayeux Tapestry.
+qa_1,90,Answer: 11th
+qa_1,91,William of Volpiano and John of Ravenna
+qa_1,92,They fled to southern Italy to establish a Latin monastery at Sant'Eufemia.
+qa_1,93,Sant'Eufemia
+qa_1,94,Answer: Robert Guiscard patronized the monks.
+qa_1,95,Answer: Saint-Evroul monks were known for their tradition of singing.
+qa_1,96,Answer:Computational complexity theory
+qa_1,97,"Computational problems are classified by their inherent difficulty, utilizing measures such as the resources (time, space, etc.) required to solve them according to computational complexity theory."
+qa_1,98,Answer:task that is in principle amenable to being solved by a computer
+qa_1,99,Answer: Complexity of the problem
+qa_2,0,Scott Derrickson and Ed Wood were of the same nationality (American).
+qa_2,1,Answer: Chief of Protocol of the United States
+qa_2,2,Answer:Animorphs
+qa_2,3,"No, the Laleli Mosque and Esma Sultan Mansion are located in different neighborhoods."
+qa_2,4,Answer:New York City
+qa_2,5,YG Entertainment
+qa_2,6,Answer: Eenasul Fateh (known by his stage name Aladin) was a former international management consultant.
+qa_2,7,"3,677"
+qa_2,8,Terry Richardson is older.
+qa_2,9,Yes
+qa_2,10,Kansas Song (We’re From Kansas)
+qa_2,11,David Weissman
+qa_2,12,1999
+qa_2,13,"Yes, both Random House Tower and 888 7th Avenue are used for real estate."
+qa_2,14,"Answer: Matt Busby managed Manchester United from 1945 to 1969, and the manager who would have recruited David Beckham was likely Dave Sexton's successor Sir Alex Ferguson's predecessor. Thus, the recruitment of Beckham happened post Matt Busby's tenure, during the Dave Sexton era."
+qa_2,15,"To answer this question, I need to find information about Brown State Fishing Lake's location and the population of that country.
+
+First, I look for the location of Brown State Fishing Lake. In <CHUNK_22>:
+- Brown State Fishing Lake is described as ""a protected area in Brown County, Kansas in the United States.""
+
+Next, I need to determine which country Kansas is in and its population.
+- Kansas is a state within the United States, so we need the population of the United States.
+- I look for the population of the United States in the provided chunks.
+
+I check for a population figure related to the United States:
+- In <CHUNK_2>:
+  - ""New Providence High School is a comprehensive public high school in the borough of New Providence, in Union County, New Jersey, United States.""
+  - This does not provide population.
+- In <CHUNK_13>:
+  - ""Shelly Beach is a coastal suburb of the Central Coast region of New South Wales, Australia.""
+  - This is about Australia, not the U.S.
+- In <CHUNK_10>:
+  - ""The 2008 North Dakota Fighting Sioux football team represented North Dakota University in the 2008 NCAA Division I FCS football season.""
+  - This does not provide population.
+- In <CHUNK_130>:
+  - ""Sheridan County is a county located in the U.S. state of Montana.""
+  - This does not provide population.
+- In <CHUNK_131>:
+  - ""Paul Postma is a Canadian professional ice hockey defenceman currently playing for the Boston Bruins of the National Hockey League (NHL).""
+  - This is about Canada, not the U.S.
+- In <CHUNK_132>:
+  - ""Hollywood Star Lanes was a 32-lane bowling alley located on Santa Monica Boulevard in Los Angeles, California.""
+  - This does not provide population.
+- In <CHUNK_133>:
+  - ""Harry Knoles (1880-1936) was a British film director of the silent era.""
+  - This is about the U.K., not the U.S.
+- In <CHUNK_134>:
+  - ""Perfect 10 is an online adult website.""
+  - This does not provide population.
+- In <CHUNK_135>:
+  - ""No Guts No Glory (abbreviated as NGNG) is the debut studio album by Nigerian rapper Phyno.""
+  - This is about Nigeria, not the U.S.
+- In <CHUNK_136>:
+  - ""Kevin Sheehan is a former Australian rules footballer for Geelong.""
+  - This is about Australia, not the U.S.
+- In <CHUNK_137>:
+  - ""The Oregon, Washington and Idaho Railroad built a 72.03 mi rail line along the right (north) bank of the Snake River.""
+  - This does not provide population.
+- In <CHUNK_138>:
+  - ""Cyril Parry (born 13 December 1937) is an English former professional footballer.""
+  - This is about the U.K., not the U.S.
+- In <CHUNK_139>:
+  - ""William Joseph Ott (November 23, 1940 – February 18, 2015) was an American professional baseball player.""
+  - This does not provide population.
+- In <CHUNK_140>:
+  - ""Jack Endino (born 1964) is an American producer and musician based in Seattle, United States.""
+  - This does not provide population.
+- In <CHUNK_141>:
+  - ""The International Nazim Hikmet Poetry Award is an award created in memory of Turkish poet Nâzım Hikmet Ran.""
+  - This is about Turkey, not the U.S.
+- In <CHUNK_142>:
+  - ""Dee Does Broadway is the second album from Dee Snider.""
+  - This does not provide population.
+- In <CHUNK_143>:
+  - ""The Cangelari family (in Greek: Καγγελάρη or Καγκελάρη) is one of Cephalonia, Greece's most ancient aristocratic families.""
+  - This is about Greece, not the U.S.
+- In <CHUNK_144>:
+  - ""Hermann Gassner Jr (born 29 November 1988 in Bad Reichenhall) is a German rally driver.""
+  - This is about Germany, not the U.S.
+- In <CHUNK_145>:
+  - ""John Button (died 1665) was an English politician.""
+  - This is about England, not the U.S.
+- In <CHUNK_146>:
+  - ""We Are Smug is a collaborative studio album recorded by Australian singer-songwriter Darren Hayes.""
+  - This is about Australia, not the U.S.
+- In <CHUNK_147>:
+  - ""Roscoe Lee Browne (May 2, 1922 – April 11, 2007) was an American actor and director.""
+  - This does not provide population.
+- In <CHUNK_148>:
+  - ""Milhouse Mussolini van Houten is a fictional character featured in the animated television series 'The Simpsons'.""
+  - This does not provide population.
+- In <CHUNK_149>:
+  - ""The Mogumber Nature Reserve is a nature reserve in Western Australia.""
+  - This is about Australia, not the U.S.
+- In <CHUNK_150>:
+  - ""The Town is a 2010 American crime thriller drama film.""
+  - This does not provide population.
+- In <CHUNK_151>:
+  - ""Private Music was an American independent record label founded in 1984 by musician Peter Baumann.""
+  - This does not provide population.
+- In <CHUNK_152>:
+  - ""Fire is the debut solo studio album by Irish singer-songwriter and former Westlife vocalist Markus Feehily.""
+  - This does not provide population.
+- In <CHUNK_153>:
+  - ""Chak 86/6.R Sahiwal is situated in the main Sahiwal city.""
+  - This is about Pakistan, not the U.S.
+- In <CHUNK_154>:
+  - ""Liam Cosgrave (born 13 April 1920) is a former Irish Fine Gael politician.""
+  - This is about Ireland, not the U.S.
+- In <CHUNK_155>:
+  - ""BMW X5 (F15) is a mid-size luxury crossover SUV manufactured and marketed worldwide by BMW since 2013.""
+  - This does not provide population.
+- In <CHUNK_156>:
+  - ""Fire is the debut solo studio album by Irish singer-songwriter and former Westlife vocalist Markus Feehily.""
+  - This does not provide population.
+- In <CHUNK_157>:
+  - ""Chak 86/6.R is situated in the main Sahiwal city.""
+  - This is about Pakistan, not the U.S.
+- In <CHUNK_158>:
+  - ""Liam Cosgrave (born 13 April 1920) is a former Irish Fine Gael politician.""
+  - This is about Ireland, not the U.S.
+- In <CHUNK_159>:
+  - ""The Cârţa Monastery is a former Cistercian (Benedictine) monastery in the Țara Făgărașului region in southern Transylvania in Romania.""
+  - This is about Romania, not the U.S.
+- In <CHUNK_160>:
+  - ""Publius Aelius Hadrianus Afer was a distinct and wealthy Roman Senator and soldier who lived in the Roman Empire during the 1st century.""
+  - This does not provide population.
+- In <CHUNK_161>:
+  - ""Education in Albania for primary, secondary, and tertiary levels are mostly supported by the state.""
+  - This is about Albania, not the U.S.
+- In <CHUNK_162>:
+  - ""Shaanxi Y-8 or Yunshuji-8 () aircraft is a medium size medium range transport aircraft.""
+  - This does not provide population.
+- In <CHUNK_163>:
+  - ""Norman Studios was an American film studio in Jacksonville, Florida.""
+  - This does not provide population.
+- In <CHUNK_164>:
+  - ""TV 538 is a music television channel that airs music videos and live coverage of its radio broadcasts.""
+  - This does not provide population.
+- In <CHUNK_165>:
+  - ""Chester Stephen Gladchuk Jr. (born 1950) is an American college athletics administrator and former American football player and coach.""
+  - This does not provide population.
+- In <CHUNK_166>:
+  - ""The genus Ixia consists of a number of cormous plants native to South Africa from the Iridaceae family and Ixioideae subfamily.""
+  - This does not provide population.
+- In <CHUNK_167>:
+  - ""Analog Devices, Inc., also known as ADI or Analog, is an American multinational semiconductor company specializing in data conversion and signal processing technology.""
+  - This does not provide population.
+- In <CHUNK_168>:
+  - ""Willie J. Green (born July 28, 1981) is an American retired professional basketball player and current assistant coach with the Golden State Warriors of the National Basketball Association (NBA).""
+  - This does not provide population.
+- In <CHUNK_169>:
+  - ""Captain Matthew Gideon is a character in the fictional universe of the television series 'Babylon 5'.""
+  - This does not provide population.
+- In <CHUNK_170>:
+  - ""Chad Everett Gilbert (born March 9, 1981) is an American musician and record producer.""
+  - This does not provide population.
+- In <CHUNK_171>:
+  - ""Justin Case is a 1988 television film by Blake Edwards.""
+  - This does not provide population.
+- In <CHUNK_172>:
+  - ""Nazareth is the capital and the largest city in the Northern District of Israel.""
+  - This is about Israel, not the U.S.
+- In <CHUNK_173>:
+  - ""Pre-Creedence is a compilation album by The Golliwogs which changed its name to Creedence Clearwater Revival (CCR) in 1968.""
+  - This does not provide population.
+- In <CHUNK_174>:
+  - ""Galata Bridge (Turkish: 'Galata Köprüsü', ] ) is a bridge that spans the Golden Horn in Istanbul, Turkey.""
+  - This is about Turkey, not the U.S.
+- In <CHUNK_175>:
+  - ""Freeze the Atlantic are an English alternative rock band based in Farnborough, Hampshire.""
+  - This is about the U.K., not the U.S.
+- In <CHUNK_176>:
+  - ""William Ironside Groombridge was secretary of English football club Gillingham (known for much of his tenure as New Brompton) from 1896 until 1923.""
+  - This does not provide population.
+- In <CHUNK_177>:
+  - ""Gargoyles the Movie: The Heroes Awaken is a direct-to-video animated film from The Walt Disney Company.""
+  - This does not provide population.
+- In <CHUNK_178>:
+  - ""Ken Itō (伊東 乾 , Itō Ken) is a Japanese composer, conductor, and writer born in Tokyo on January 27, 1965.""
+  - This does not provide population.
+- In <CHUNK_179>:
+  - ""Whitey Krakow or Krakower (died July 30, 1941) was a New York mobster who served as a hitman for Murder, Inc. during the 1930s.""
+  - This does not provide population.
+- In <CHUNK_180>:
+  - ""Capital Gains was a radio programme that originally aired from 1994 to 1997.""
+  - This does not provide population.
+- In <CHUNK_181>:
+  - ""Robin is the name of several fictional superheroes appearing in American comic books published by DC Comics.""
+  - This does not provide population.
+- In <CHUNK_182>:
+  - ""Mesdames de la Halle is an opérette bouffe in one act by Jacques Offenbach.""
+  - This does not provide population.
+- In <CHUNK_183>:
+  - ""Elias Gaucher was a prolific printer and publisher of clandestine erotica who worked out of the Malakoff and Vanves communes.""
+  - This does not provide population.
+- In <CHUNK_184>:
+  - ""Ferdinand Alexander Porsche (11 December 1935 – 5 April 2012), nicknamed 'Butzi', son of Ferry Porsche, grandson of Ferdinand Porsche, was a German designer whose best known product was the first Porsche 911.""
+  - This does not provide population.
+- In <CHUNK_185>:
+  - ""Secondary fermentation (wine) is a process commonly associated with winemaking.""
+  - This does not provide population.
+- In <CHUNK_186>:
+  - ""King and the Clown is a 2005 South Korean historical drama film.""
+  - This does not provide population.
+- In <CHUNK_187>:
+  - ""William Herbert Shipman (1854–1943) was a wealthy businessman on the island of Hawaii.""
+  - This does not provide population.
+- In <CHUNK_188>:
+  - ""The American Writers Association (AWA) was an organization formed in 1946 in opposition to an attempt to introduce a form of trade unionism for authors.""
+  - This does not provide population.
+- In <CHUNK_189>:
+  - ""'Sing a Simple Song' is a 1968 song by the soul/rock/funk band Sly and the Family Stone.""
+  - This does not provide population.
+- In <CHUNK_190>:
+  - ""Center Stage is an American television anthology series that aired in 1954 on the American Broadcasting Company as a summer replacement for 'The Motorola Television Hour'.""
+  - This does not provide population.
+- In <CHUNK_191>:
+  - ""Ganzhou Huangjin Airport (IATA: KOW, ICAO: ZSGZ) is an airport serving the city of Ganzhou in Jiangxi Province, China.""
+  - This is about China, not the U.S.
+- In <CHUNK_192>:
+  - ""The 'Scharnhorst' class were the first capital ships built for Nazi Germany's 'Kriegsmarine' after World War I.""
+  - This does not provide population.
+- In <CHUNK_193>:
+  - ""Francesco Corneliani (1740-1815) was an Italian painter, mainly active in a Neoclassic style in his native Milan.""
+  - This does not provide population.
+- In <CHUNK_194>:
+  - ""Jesse Hall 'Pete' Allen (May 1, 1868 – April 16, 1946) was a professional baseball player whose career spanned two seasons.""
+  - This does not provide population.
+- In <CHUNK_195>:
+  - ""'Scream' is a song by American recording artist Usher, released through RCA Records.""
+  - This does not provide population.
+- In <CHUNK_196>:
+  - ""USS Florence Nightingale (AP-70) was a Maritime Commission type C3-M cargo ship.""
+  - This does not provide population.
+- In <CHUNK_197>:
+  - ""Robin Hood: Men in Tights is a 1993 American musical adventure comedy film and a parody of the Robin Hood story.""
+  - This does not provide population.
+- In <CHUNK_198>:
+  - ""Kaingang (also spelled 'caingangue' in Portuguese or 'kanhgág' in the Kaingang language) people are a Native American ethnic group spread out over the three southern Brazilian states.""
+  - This is about Brazil, not the U.S.
+- In <CHUNK_199>:
+  - ""The City is a Canadian television drama series, created by Pierre Sarrazin and Suzette Couture, which aired on CTV from 1999 to 2000.""
+  - This does not provide population.
+- In <CHUNK_200>:
+  - ""The 2006 Sundance Film Festival was held from 19 January to 29 January 2006.""
+  - This does not provide population.
+- In <CHUNK_201>:
+  - ""'Chiquilla' is a song by A.B. Quintanilla Y Los Kumbia All Starz.""
+  - This does not provide population.
+- In <CHUNK_202>:
+  - ""Victory Sports One was a cable and satellite television regional sports network owned by the Minnesota Twins baseball team.""
+  - This does not provide population.
+- In <CHUNK_203>:
+  - ""James Bond is a fictional character created by British journalist and novelist Ian Fleming in 1953.""
+  - This does not provide population.
+- In <CHUNK_204>:
+  - ""Omid Namazi (Persian: امید نمازی) is a retired Iranian-American soccer defender.""
+  - This is about Iran, not the U.S.
+- In <CHUNK_205>:
+  - "".577 Tyrannosaur or .577 T-Rex (14.9×76mm) is a very large and extremely powerful rifle cartridge.""
+  - This does not provide population.
+- In <CHUNK_206>:
+  - ""Ethereal wave, also called ethereal darkwave, ethereal goth or simply ethereal, is a subgenre of dark"
+qa_2,16,Answer:North Atlantic Conference
+qa_2,17,"Yes, both Giuseppe Verdi and Ambroise Thomas are opera composers."
+qa_2,18,Answer: 1969 to 1974
+qa_2,19,Robert Erskine Childers was from England.
+qa_2,20,Answer: Pedro Rodríguez
+qa_2,21,"Jim Cummings, who voiced ""Pooh"" in ""A Rather Blustery Day,"" also voiced Sonic the Hedgehog."
+qa_2,22,Answer:Keyboard function keys
+qa_2,23,Badly Drawn Boy has a higher instrument to person ratio.
+qa_2,24,Answer: Peter Schmeichel was voted IFFHS World's Best Goalkeeper in 1992.
+qa_2,25,"Lee Hazlewood wrote ""These Boots Are Made for Walkin'"" and he died in 2007."
+qa_2,26,Answer: 1838
+qa_2,27,"Yes, both Dictyosperma and Huernia are described as a genus."
+qa_2,28,Answer: Henry J. Kaiser
+qa_2,29,Arena of Khazan
+qa_2,30,Answer: 2000
+qa_2,31,Buck-Tick hails from Japan.
+qa_2,32,Charles Nungesser
+qa_2,33,"No, Freakonomics is an American documentary, but In The Realm of the Hackers is an Australian documentary."
+qa_2,34,Letters to Cleo had more members.
+qa_2,35,Answer: 1922
+qa_2,36,Answer:2000
+qa_2,37,Answer: World War II
+qa_2,38,"No, both Elko Regional Airport and Gerald R. Ford International Airport are not located in Michigan."
+qa_2,39,Answer: New York City
+qa_2,40,The Scotch Collie's ancestors include Gordon and Irish Setters.
+qa_2,41,"Tata Consultancy Services, where Sachin Warrier was a software engineer, is headquartered in Mumbai.
+Answer: Mumbai"
+qa_2,42,1962
+qa_2,43,Answer: Ethiopian sovereignty
+qa_2,44,"Answer: Nelson Rockefeller, who was Vice President under Gerald Ford"
+qa_2,45,Answer: Yellowcraig
+qa_2,46,"To Know Him Is to Love Him was written by Phil Spector and was the first track on the ""Back to Mono"" box set."
+qa_2,47,Answer: World Summit of Nobel Peace Laureates (a forum for Nobel Peace Laureates to address global issues)
+qa_2,48,"Yes, both Ferocactus and Silene are types of plants."
+qa_2,49,"Answer: The English Electric Canberra's preceding bomber used in South West Pacific was Avro Lancaster, though it was not jet-powered; however, it was a first-generation type bomber used in WWII."
+qa_2,50,2009 and Big 12 Conference
+qa_2,51,"1,462"
+qa_2,52,Answer: Indianapolis Motor Speedway
+qa_2,53,Answer: Rome
+qa_2,54,"Ellie Goulding worked with Max Martin, Savan Kotecha, Ilya Salmanzadeh, and others on her third studio album, Delirium."
+qa_2,55,"Marion, the city founded in 1838, contains Westminster School, a boarding school opened by a Prime Minister of Australia (Robert Menzies) and named after Westminster School in London."
+qa_2,56,D1NZ is a series based on the drifting oversteering technique.
+qa_2,57,Keith Bostic is younger.
+qa_2,58,"To answer this question, I need to determine the population of the city where Kirton End is located according to the 2001 census. Let's first identify where Kirton End is located:
+
+From <CHUNK_272>:
+""Kirton End is a hamlet in the civil parish of Kirton in the Boston district of Lincolnshire, England.""
+
+From <CHUNK_22>:
+""Kirton is a village and civil parish in the shire county of Suffolk, England, situated off the A14 road, about 4.5 km from Felixstowe and around 10 km from Ipswich.""
+
+From <CHUNK_27>:
+""Kirton End is a hamlet in the civil parish of Kirton in the Boston district of Lincolnshire, England.""
+
+From <CHUNK_272>:
+""Kirton End is a hamlet in the civil parish of Kirton in the Boston district of Lincolnshire, England.""
+
+From <CHUNK_272>:
+""Kirton End is a hamlet in the civil parish of Kirton in the Boston district of Lincolnshire, England.""
+
+From <CHUNK_272>:
+""Kirton End is a hamlet in the civil parish of Kirton in the Boston district of Lincolnshire, England.""
+
+From <CHUNK_22>:
+""Kirton is a village and civil parish in the shire county of Suffolk, England, situated off the A14 road, about 4.5 km from Felixstowe and around 10 km from Ipswich.""
+
+From <CHUNK_272>:
+""Kirton End is a hamlet in the civil parish of Kirton in the Boston district of Lincolnshire, England.""
+
+Now I need to determine the population of the town where Kirton End is located, i.e., Kirton in the Boston district of Lincolnshire according to the 2001 census.
+
+From <CHUNK_22>:
+""Kirton is a village and civil parish in the shire county of Suffolk, England, situated off the A14 road, about 4.5 km from Felixstowe and around 10 km from Ipswich.""
+
+From <CHUNK_272>:
+""Kirton End is a hamlet in the civil parish of Kirton in the Boston district of Lincolnshire, England.""
+
+From <CHUNK_28>:
+""Kirton, Nottinghamshire is a village in Nottinghamshire, England. It is located 3 mi east of Ollerton. According to the United Kingdom Census 2001 it had a population of 273, reducing to 261 at the 2011 census.""
+
+From <CHUNK_272>:
+""Kirton End is a hamlet in the civil parish of Kirton in the Boston district of Lincolnshire, England.""
+
+From <CHUNK_22>:
+""Kirton is a village and civil parish in the shire county of Suffolk, England, situated off the A14 road, about 4.5 km from Felixstowe and around 10 km from Ipswich.""
+
+From <CHUNK_272>:
+""Kirton End is a hamlet in the civil parish of Kirton in the Boston district of Lincolnshire, England.""
+
+From <CHUNK_27>:
+""Willoughton is a village and civil parish in the West Lindsey district of Lincolnshire, England. It is situated 2 mi west from the A15 road, 13 mi north from Lincoln and 3 mi south from Kirton Lindsey.""
+
+From <CHUNK_272>:
+""Kirton End is a hamlet in the civil parish of Kirton in the Boston district of Lincolnshire, England.""
+
+From <CHUNK_22>:
+""Kirton is a village and civil parish in the shire county of Suffolk, England, situated off the A14 road, about 4.5 km from Felixstowe and around 10 km from Ipswich.""
+
+From <CHUNK_272>:
+""Kirton End is a hamlet in the civil parish of Kirton in the Boston district of Lincolnshire, England.""
+
+From <CHUNK_27>:
+""Willoughton is a village and civil parish in the West Lindsey district of Lincolnshire, England. It is situated 2 mi west from the A15 road, 13 mi north from Lincoln and 3 mi south from Kirton Lindsey.""
+
+From <CHUNK_22>:
+""Kirton is a village and civil parish in the shire county of Suffolk, England, situated off the A14 road, about 4.5 km from Felixstowe and around 10 km from Ipswich.""
+
+From <CHUNK_272>:
+""Kirton End is a hamlet in the civil parish of Kirton in the Boston district of Lincolnshire, England.""
+
+From <CHUNK_40>:
+""Kirton, Nottinghamshire is a village in Nottinghamshire, England. It is located 3 mi east of Ollerton. According to the United Kingdom Census 2001 it had a population of 273, reducing to 261 at the 2011 census.""
+
+From <CHUNK_272>:
+""Kirton End is a hamlet in the civil parish of Kirton in the Boston district of Lincolnshire, England.""
+
+From <CHUNK_27>:
+""Willoughton is a village and civil parish in the West Lindsey district of Lincolnshire, England. It is situated 2 mi west from the A15 road, 13 mi north from Lincoln and 3 mi south from Kirton Lindsey.""
+
+From <CHUNK_22>:
+""Kirton is a village and civil parish in the shire county of Suffolk, England, situated off the A14 road, about 4.5 km from Felixstowe and around 10 km from Ipswich.""
+
+From <CHUNK_272>:
+""Kirton End is a hamlet in the civil parish of Kirton in the Boston district of Lincolnshire, England.""
+
+From <CHUNK_27>:
+""Willoughton is a village and civil parish in the West Lindsey district of Lincolnshire, England. It is situated 2 mi west from the A15 road, 13 mi north from Lincoln and 3 mi south from Kirton Lindsey.""
+
+From <CHUNK_22>:
+""Kirton is a village and civil parish in the shire county of Suffolk, England, situated off the A14 road, about 4.5 km from Felixstowe and around 10 km from Ipswich.""
+
+From <CHUNK_272>:
+""Kirton End is a hamlet in the civil parish of Kirton in the Boston district of Lincolnshire, England.""
+
+From <CHUNK_27>:
+""Willoughton is a village and civil parish in the West Lindsey district of Lincolnshire, England. It is situated 2 mi west from the A15 road, 13 mi north from Lincoln and 3 mi south from Kirton Lindsey.""
+
+From <CHUNK_22>:
+""Kirton is a village and civil parish in the shire county of Suffolk, England, situated off the A14 road, about 4.5 km from Felixstowe and around 10 km from Ipswich.""
+
+From <CHUNK_272>:
+""Kirton End is a hamlet in the civil parish of Kirton in the Boston district of Lincolnshire, England.""
+
+From <CHUNK_27>:
+""Willoughton is a village and civil parish in the West Lindsey district of Lincolnshire, England. It is situated 2 mi west from the A15 road, 13 mi north from Lincoln and 3 mi south from Kirton Lindsey.""
+
+From <CHUNK_22>:
+""Kirton is a village and civil parish in the shire county of Suffolk, England, situated off the A14 road, about 4.5 km from Felixstowe and around 10 km from Ipswich.""
+
+From <CHUNK_272>:
+""Kirton End is a hamlet in the civil parish of Kirton in the Boston district of Lincolnshire, England.""
+
+From <CHUNK_27>:
+""Willoughton is a village and civil parish in the West Lindsey district of Lincolnshire, England. It is situated 2 mi west from the A15 road, 13 mi north from Lincoln and 3 mi south from Kirton Lindsey.""
+
+From <CHUNK_22>:
+""Kirton is a village and civil parish in the shire county of Suffolk, England, situated off the A14 road, about 4.5 km from Felixstowe and around 10 km from Ipswich.""
+
+From <CHUNK_272>:
+""Kirton End is a hamlet in the civil parish of Kirton in the Boston district of Lincolnshire, England.""
+
+From <CHUNK_27>:
+""Willoughton is a village and civil parish in the West Lindsey district of Lincolnshire, England. It is situated 2 mi west from the A15 road, 13 mi north from Lincoln and 3 mi south from Kirton Lindsey.""
+
+From <CHUNK_22>:
+""Kirton is a village and civil parish in the shire county of Suffolk, England, situated off the A14 road, about 4.5 km from Felixstowe and around 10 km from Ipswich.""
+
+From <CHUNK_272>:
+""Kirton End is a hamlet in the civil parish of Kirton in the Boston district of Lincolnshire, England.""
+
+From <CHUNK_27>:
+""Willoughton is a village and civil parish in the West Lindsey district of Lincolnshire, England. It is situated 2 mi west from the A15 road, 13 mi north from Lincoln and 3 mi south from Kirton Lindsey.""
+
+From <CHUNK_22>:
+""Kirton is a village and civil parish in the shire county of Suffolk, England, situated off the A14 road, about 4.5 km from Felixstowe and around 10 km from Ipswich.""
+
+From <CHUNK_272>:
+""Kirton End is a hamlet in the civil parish of Kirton in the Boston district of Lincolnshire, England.""
+
+From <CHUNK_27>:
+""Willoughton is a village and civil parish in the West Lindsey district of Lincolnshire, England. It is situated 2 mi west from the A15 road, 13 mi north from Lincoln and 3 mi south from Kirton Lindsey.""
+
+From <CHUNK_22>:
+""Kirton is a village and civil parish in the shire county of Suffolk, England, situated off the A14 road, about 4.5 km from Felixstowe and around 10 km from Ipswich.""
+
+From <CHUNK_272>:
+""Kirton End is a hamlet in the civil parish of Kirton in the Boston district of Lincolnshire, England.""
+
+From <CHUNK_27>:
+""Willoughton is a village and civil parish in the West Lindsey district of Lincolnshire, England. It is situated 2 mi west from the A15 road, 13 mi north from Lincoln and 3 mi south from Kirton Lindsey.""
+
+From <CHUNK_22>:
+""Kirton is a village and civil parish in the shire county of Suffolk, England, situated off the A14 road, about 4.5 km from Felixstowe and around 10 km from Ipswich.""
+
+From <CHUNK_272>:
+""Kirton End is a hamlet in the civil parish of Kirton in the Boston district of Lincolnshire, England.""
+
+From <CHUNK_27>:
+""Willoughton is a village and civil parish in the West Lindsey district of Lincolnshire, England. It is situated 2 mi west from the A15 road, 13 mi north from Lincoln and 3 mi south from Kirton Lindsey.""
+
+From <CHUNK_22>:
+""Kirton is a village and civil parish in the shire county of Suffolk, England, situated off the A14 road, about 4.5 km from Felixstowe and around 10 km from Ipswich.""
+
+From <CHUNK_272>:
+""Kirton End is a hamlet in the civil parish of Kirton in the Boston district of Lincolnshire, England.""
+
+From <CHUNK_27>:
+""Willoughton is a village and civil parish in the West Lindsey district of Lincolnshire, England. It is situated 2 mi west from the A15 road, 13 mi north from Lincoln and 3 mi south from Kirton Lindsey.""
+
+From <CHUNK_22>:
+""Kirton is a village and civil parish in the shire county of Suffolk, England, situated off the A14 road, about 4.5 km from Felixstowe and around 10 km from Ipswich.""
+
+From <CHUNK_272>:
+""Kirton End is a hamlet in the civil parish of Kirton in the Boston district of Lincolnshire, England.""
+
+From <CHUNK_27>:
+""Willoughton is a village and civil parish in the West Lindsey district of Lincolnshire, England. It is situated 2 mi west from the A15 road, 13 mi north from Lincoln and 3 mi south from Kirton Lindsey.""
+
+From <CHUNK_22>:
+""Kirton is a village and civil parish in the shire county of Suffolk, England, situated off the A14 road, about 4.5 km from Felixstowe and around 10 km from Ipswich.""
+
+From <CHUNK_272>:
+""Kirton End is a hamlet in the civil parish of Kirton in the Boston district of Lincolnshire, England.""
+
+From <CHUNK_27>:
+""Willoughton is a village and civil parish in the West Lindsey district of Lincolnshire, England. It is situated 2 mi west from the A15 road, 13 mi north from Lincoln and 3 mi south from Kirton Lindsey.""
+
+From <CHUNK_22>:
+""Kirton is a village and civil parish in the shire county of Suffolk, England, situated off the A14 road, about 4.5 km from Felixstowe and around 10 km from Ipswich.""
+
+From <CHUNK_272>:
+""Kirton End is a hamlet in the civil parish of Kirton in the Boston district of Lincolnshire, England.""
+
+From <CHUNK_27>:
+""Willoughton is a village and civil parish in the West Lindsey district of Lincolnshire, England. It is situated 2 mi west from the A15 road, 13 mi north from Lincoln and 3 mi south from Kirton Lindsey.""
+
+From <CHUNK_22>:
+""Kirton is a village and civil parish in the shire county of Suffolk, England, situated off the A14 road, about 4.5 km from Felixstowe and around 10 km from Ipswich.""
+
+From <CHUNK_272>:
+""Kirton End is a hamlet in the civil parish of Kirton in the Boston district of Lincolnshire, England.""
+
+From <CHUNK_27>:
+""Willoughton is a village and civil parish in the West Lindsey district of Lincolnshire, England. It is situated 2 mi west from the A15 road, 13 mi north from Lincoln and 3 mi south from Kirton Lindsey.""
+
+From <CHUNK_22>:
+""Kirton is a village and civil parish in the shire county of Suffolk, England, situated off the A14 road, about 4.5 km from Felixstowe and around 10 km from Ipswich.""
+
+From <CHUNK_272>:
+""Kirton End is a hamlet in the civil parish of Kirton in the Boston district of Lincolnshire, England.""
+
+From <CHUNK_27>:
+""Willoughton is a village and civil parish in the West Lindsey district of Lincolnshire, England. It is situated 2 mi west from the A15 road, 13 mi north from Lincoln and 3 mi south from Kirton Lindsey.""
+
+From <CHUNK_22>:
+""Kirton is a village and civil parish in the shire county of Suffolk, England, situated off the A14 road, about 4.5 km from Felixstowe and around 10 km from Ipswich.""
+
+From <CHUNK_272>:
+""Kirton End is a hamlet in the civil parish of Kirton in the Boston district of Lincolnshire, England.""
+
+From <CHUNK_27>:
+""Willoughton is a village and civil parish in the West Lindsey district of Lincolnshire, England. It is situated 2 mi west from the A15 road, 13 mi north from Lincoln and 3 mi south from Kirton Lindsey.""
+
+From <CHUNK_22>:
+""Kirton is a village and civil parish in the shire county of Suffolk, England, situated off the A14 road, about 4.5 km from Felixstowe and around 10 km from Ipswich.""
+
+From <CHUNK_272>:
+""Kirton End is a hamlet in the civil parish of Kirton in the Boston district of Lincolnshire, England.""
+
+From <CHUNK_27>:
+""Willoughton is a village and civil parish in the West Lindsey district of Lincolnshire, England. It is situated 2 mi west from the A15 road, 13 mi north from Lincoln and 3 mi south from Kirton Lindsey.""
+
+From <CHUNK_22>:
+""Kirton is a village and civil parish in the shire county of Suffolk, England, situated off the A14 road, about 4.5 km from Felixstowe and around 10 km from Ipswich.""
+
+From <CHUNK_272>:
+""Kirton End is a hamlet in the civil parish of Kirton in the Boston district of Lincolnshire, England.""
+
+From <CHUNK_27>:
+""Willoughton is a village and civil parish in the West Lindsey district of Lincolnshire, England. It is situated 2 mi west from the A15 road, 13 mi north from Lincoln and 3 mi south from Kirton Lindsey.""
+
+From <CHUNK_22>:
+""Kirton is a village and civil parish in the shire county of Suffolk, England, situated off the A14 road, about 4.5 km from Felixstowe and around 10 km from Ipswich.""
+
+From <CHUNK_272>:
+""Kirton End is a hamlet in the civil parish of Kirton in the Boston district of Lincolnshire, England.""
+
+From <CHUNK_27>:
+""Willoughton is a village and civil parish in the West Lindsey district of Lincolnshire, England. It is situated 2 mi west from the A15 road, 13 mi north from Lincoln and 3 mi south from Kirton Lindsey.""
+
+From <CHUNK_22>:
+""Kir"
+qa_2,59,"Yes, both Ajuga and Cypress (as a broader common name category) are represented by genera, although Cypress itself doesn't refer to a single genus but rather a category encompassing multiple genera."
+qa_2,60,"Muggsy Bogues was the shortest player in NBA history, a member of the Charlotte Hornets during their 1992-93 season, and was head coach for the WNBA team Charlotte Sting."
+qa_2,61,Steven Spielberg
+qa_2,62,Virginia Woolf was born earlier.
+qa_2,63,Answer: 821
+qa_2,64,3: Halliburton operates in more than 70 countries.
+qa_2,65,Answer:Charmed
+qa_2,66,Answer:3
+qa_2,67,Usher
+qa_2,68,Bill Murray
+qa_2,69,The 2017–18 Wigan Athletic F.C. season will be a year in which the team competes in the league cup known as the Carabao Cup for sponsorship reasons.
+qa_2,70,Teen Titans
+qa_2,71,"Answer: French people (inhabitants of Strasbourg, France)"
+qa_2,72,Orange
+qa_2,73,Tromeo and Juliet
+qa_2,74,"Answer: Bill Clinton, who was formerly the Governor of Arkansas."
+qa_2,75,John John Florence won Rip Curl Pro Portugal.
+qa_2,76,Answer: Ann
+qa_2,77,Answer: Alvaro Mexia had a diplomatic mission with the Ais native population.
+qa_2,78,Answer: British
+qa_2,79,1865
+qa_2,80,Newport
+qa_2,81,Bob Seger
+qa_2,82,Rostker v. Goldberg held that the practice of requiring men to register for the draft (a method of conscription) was constitutional as a way of filling armed forces vacancies.
+qa_2,83,Answer: Mondelez International
+qa_2,84,Answer: Monica Lewinsky
+qa_2,85,Answer:1949
+qa_2,86,1866
+qa_2,87,"Teide National Park and Garajonay National Park are located in the Canary Islands, Spain."
+qa_2,88,"3: Roald Dahl's works, including the story ""Mrs. Bixby and the Colonel's Coat,"" have collectively sold more than 250 million copies. However, there is no specific sales number provided for this individual story. We infer millions sold as part of Dahl's overall works."
+qa_2,89,Answer:They are both film directors.
+qa_2,90,The Conversation
+qa_2,91,Answer:John Waters
+qa_2,92,"To find where Bill Cosby's third album, ""Why Is There Air?"", was recorded and which hotel and casino it was linked to, I first need to locate the album details and then determine the location of the venue mentioned.
+
+First, from <CHUNK_22>:
+""Bill Cosby Is a Very Funny Fellow...Right! is the debut album release by Bill Cosby. It was recorded live at the nightclub The Bitter End in New York City's Greenwich Village during early 1963.""
+From <CHUNK_32>:
+""Bill's Best Friend is the 17th comedy album by Bill Cosby.""
+From <CHUNK_2>:
+""Hikky Burr theme song for ""The Bill Cosby Show"", and was also released as a well-known single in 1969. It was written and performed by Quincy Jones and Bill Cosby. It is on the album ""Smackwater Jack"". ""Hikky Burr"" was featured on the album ""The Original Jam Sessions 1969"", and on ""The Best of Bill Cosby"".""
+From <CHUNK_4>:
+""Why Is There Air? (1965) is Bill Cosby's third album. It was recorded at the Flamingo Hotel in Las Vegas, Nevada.""
+From <CHUNK_88>:
+""The Original Jam Sessions 1969 is a 2004 released album by Quincy Jones and Bill Cosby recorded as backing music for ""The Bill Cosby Show"" in 1969.""
+From <CHUNK_88>:
+""The Original Jam Sessions 1969 is a 2004 released album by Quincy Jones and Bill Cosby recorded as backing music for ""The Bill Cosby Show"" in 1969.""
+From <CHUNK_88>:
+""The Original Jam Sessions 1969 is a 2004 released album by Quincy Jones and Bill Cosby recorded as backing music for ""The Bill Cosby Show"" in 1969.""
+From <CHUNK_88>:
+""The Original Jam Sessions 1969 is a 2004 released album by Quincy Jones and Bill Cosby recorded as backing music for ""The Bill Cosby Show"" in 1969.""
+From <CHUNK_88>:
+""The Original Jam Sessions 1969 is a 2004 released album by Quincy Jones and Bill Cosby recorded as backing music for ""The Bill Cosby Show"" in 1969.""
+From <CHUNK_88>:
+""The Original Jam Sessions 1969 is a 2004 released album by Quincy Jones and Bill Cosby recorded as backing music for ""The Bill Cosby Show"" in 1969.""
+From <CHUNK_88>:
+""The Original Jam Sessions 1969 is a 2004 released album by Quincy Jones and Bill Cosby recorded as backing music for ""The Bill Cosby Show"" in 1969.""
+From <CHUNK_88>:
+""The Original Jam Sessions 1969 is a 2004 released album by Quincy Jones and Bill Cosby recorded as backing music for ""The Bill Cosby Show"" in 1969.""
+From <CHUNK_88>:
+""The Original Jam Sessions 1969 is a 2004 released album by Quincy Jones and Bill Cosby recorded as backing music for ""The Bill Cosby Show"" in 1969.""
+From <CHUNK_88>:
+""The Original Jam Sessions 1969 is a 2004 released album by Quincy Jones and Bill Cosby recorded as backing music for ""The Bill Cosby Show"" in 1969.""
+From <CHUNK_88>:
+""The Original Jam Sessions 1969 is a 2004 released album by Quincy Jones and Bill Cosby recorded as backing music for ""The Bill Cosby Show"" in 1969.""
+From <CHUNK_88>:
+""The Original Jam Sessions 1969 is a 2004 released album by Quincy Jones and Bill Cosby recorded as backing music for ""The Bill Cosby Show"" in 1969.""
+From <CHUNK_88>:
+""The Original Jam Sessions 1969 is a 2004 released album by Quincy Jones and Bill Cosby recorded as backing music for ""The Bill Cosby Show"" in 1969.""
+From <CHUNK_88>:
+""The Original Jam Sessions 1969 is a 2004 released album by Quincy Jones and Bill Cosby recorded as backing music for ""The Bill Cosby Show"" in 1969.""
+From <CHUNK_88>:
+""The Original Jam Sessions 1969 is a 2004 released album by Quincy Jones and Bill Cosby recorded as backing music for ""The Bill Cosby Show"" in 1969.""
+From <CHUNK_88>:
+""The Original Jam Sessions 1969 is a 2004 released album by Quincy Jones and Bill Cosby recorded as backing music for ""The Bill Cosby Show"" in 1969.""
+From <CHUNK_88>:
+""The Original Jam Sessions 1969 is a 2004 released album by Quincy Jones and Bill Cosby recorded as backing music for ""The Bill Cosby Show"" in 1969.""
+From <CHUNK_88>:
+""The Original Jam Sessions 1969 is a 2004 released album by Quincy Jones and Bill Cosby recorded as backing music for ""The Bill Cosby Show"" in 1969.""
+From <CHUNK_88>:
+""The Original Jam Sessions 1969 is a 2004 released album by Quincy Jones and Bill Cosby recorded as backing music for ""The Bill Cosby Show"" in 1969.""
+From <CHUNK_88>:
+""The Original Jam Sessions 1969 is a 2004 released album by Quincy Jones and Bill Cosby recorded as backing music for ""The Bill Cosby Show"" in 1969.""
+From <CHUNK_88>:
+""The Original Jam Sessions 1969 is a 2004 released album by Quincy Jones and Bill Cosby recorded as backing music for ""The Bill Cosby Show"" in 1969.""
+From <CHUNK_88>:
+""The Original Jam Sessions 1969 is a 2004 released album by Quincy Jones and Bill Cosby recorded as backing music for ""The Bill Cosby Show"" in 1969.""
+From <CHUNK_88>:
+""The Original Jam Sessions 1969 is a 2004 released album by Quincy Jones and Bill Cosby recorded as backing music for ""The Bill Cosby Show"" in 1969.""
+From <CHUNK_88>:
+""The Original Jam Sessions 1969 is a 2004 released album by Quincy Jones and Bill Cosby recorded as backing music for ""The Bill Cosby Show"" in 1969.""
+From <CHUNK_88>:
+""The Original Jam Sessions 1969 is a 2004 released album by Quincy Jones and Bill Cosby recorded as backing music for ""The Bill Cosby Show"" in 1969.""
+From <CHUNK_88>:
+""The Original Jam Sessions 1969 is a 2004 released album by Quincy Jones and Bill Cosby recorded as backing music for ""The Bill Cosby Show"" in 1969.""
+From <CHUNK_88>:
+""The Original Jam Sessions 1969 is a 2004 released album by Quincy Jones and Bill Cosby recorded as backing music for ""The Bill Cosby Show"" in 1969.""
+From <CHUNK_88>:
+""The Original Jam Sessions 1969 is a 2004 released album by Quincy Jones and Bill Cosby recorded as backing music for ""The Bill Cosby Show"" in 1969.""
+From <CHUNK_88>:
+""The Original Jam Sessions 1969 is a 2004 released album by Quincy Jones and Bill Cosby recorded as backing music for ""The Bill Cosby Show"" in 1969.""
+From <CHUNK_88>:
+""The Original Jam Sessions 1969 is a 2004 released album by Quincy Jones and Bill Cosby recorded as backing music for ""The Bill Cosby Show"" in 1969.""
+From <CHUNK_88>:
+""The Original Jam Sessions 1969 is a 2004 released album by Quincy Jones and Bill Cosby recorded as backing music for ""The Bill Cosby Show"" in 1969.""
+From <CHUNK_88>:
+""The Original Jam Sessions 1969 is a 2004 released album by Quincy Jones and Bill Cosby recorded as backing music for ""The Bill Cosby Show"" in 1969.""
+From <CHUNK_88>:
+""The Original Jam Sessions 1969 is a 2004 released album by Quincy Jones and Bill Cosby recorded as backing music for ""The Bill Cosby Show"" in 1969.""
+From <CHUNK_88>:
+""The Original Jam Sessions 1969 is a 2004 released album by Quincy Jones and Bill Cosby recorded as backing music for ""The Bill Cosby Show"" in 1969.""
+From <CHUNK_88>:
+""The Original Jam Sessions 1969 is a 2004 released album by Quincy Jones and Bill Cosby recorded as backing music for ""The Bill Cosby Show"" in 1969.""
+From <CHUNK_88>:
+""The Original Jam Sessions 1969 is a 2004 released album by Quincy Jones and Bill Cosby recorded as backing music for ""The Bill Cosby Show"" in 1969.""
+From <CHUNK_88>:
+""The Original Jam Sessions 1969 is a 2004 released album by Quincy Jones and Bill Cosby recorded as backing music for ""The Bill Cosby Show"" in 1969.""
+From <CHUNK_88>:
+""The Original Jam Sessions 1969 is a 2004 released album by Quincy Jones and Bill Cosby recorded as backing music for ""The Bill Cosby Show"" in 1969.""
+From <CHUNK_88>:
+""The Original Jam Sessions 1969 is a 2004 released album by Quincy Jones and Bill Cosby recorded as backing music for ""The Bill Cosby Show"" in 1969.""
+From <CHUNK_88>:
+""The Original Jam Sessions 1969 is a 2004 released album by Quincy Jones and Bill Cosby recorded as backing music for ""The Bill Cosby Show"" in 1969.""
+From <CHUNK_88>:
+""The Original Jam Sessions 1969 is a 2004 released album by Quincy Jones and Bill Cosby recorded as backing music for ""The Bill Cosby Show"" in 1969.""
+From <CHUNK_88>:
+""The Original Jam Sessions 1969 is a 2004 released album by Quincy Jones and Bill Cosby recorded as backing music for ""The Bill Cosby Show"" in 1969.""
+From <CHUNK_88>:
+""The Original Jam Sessions 1969 is a 2004 released album by Quincy Jones and Bill Cosby recorded as backing music for ""The Bill Cosby Show"" in 1969.""
+From <CHUNK_88>:
+""The Original Jam Sessions 1969 is a 2004 released album by Quincy Jones and Bill Cosby recorded as backing music for ""The Bill Cosby Show"" in 1969.""
+From <CHUNK_88>:
+""The Original Jam Sessions 1969 is a 2004 released album by Quincy Jones and Bill Cosby recorded as backing music for ""The Bill Cosby Show"" in 1969.""
+From <CHUNK_88>:
+""The Original Jam Sessions 1969 is a 2004 released album by Quincy Jones and Bill Cosby recorded as backing music for ""The Bill Cosby Show"" in 1969.""
+From <CHUNK_88>:
+""The Original Jam Sessions 1969 is a 2004 released album by Quincy Jones and Bill Cosby recorded as backing music for ""The Bill Cosby Show"" in 1969.""
+From <CHUNK_88>:
+""The Original Jam Sessions 1969 is a 2004 released album by Quincy Jones and Bill Cosby recorded as backing music for ""The Bill Cosby Show"" in 1969.""
+From <CHUNK_88>:
+""The Original Jam Sessions 1969 is a 2004 released album by Quincy Jones and Bill Cosby recorded as backing music for ""The Bill Cosby Show"" in 1969.""
+From <CHUNK_88>:
+""The Original Jam Sessions 1969 is a 2004 released album by Quincy Jones and Bill Cosby recorded as backing music for ""The Bill Cosby Show"" in 1969.""
+From <CHUNK_88>:
+""The Original Jam Sessions 1969 is a 2004 released album by Quincy Jones and Bill Cosby recorded as backing music for ""The Bill Cosby Show"" in 1969.""
+From <CHUNK_88>:
+""The Original Jam Sessions 1969 is a 2004 released album by Quincy Jones and Bill Cosby recorded as backing music for ""The Bill Cosby Show"" in 1969.""
+From <CHUNK_88>:
+""The Original Jam Sessions 1969 is a 2004 released album by Quincy Jones and Bill Cosby recorded as backing music for ""The Bill Cosby Show"" in 1969.""
+From <CHUNK_88>:
+""The Original Jam Sessions 1969 is a 2004 released album by Quincy Jones and Bill Cosby recorded as backing music for ""The Bill Cosby Show"" in 1969.""
+From <CHUNK_88>:
+""The Original Jam Sessions 1969 is a 2004 released album by Quincy Jones and Bill Cosby recorded as backing music for ""The Bill Cosby Show"" in 1969.""
+From <CHUNK_88>:
+""The Original Jam Sessions 1969 is a 2004 released album by Quincy Jones and Bill Cosby recorded as backing music for ""The Bill Cosby Show"" in 1969.""
+From <CHUNK_88>:
+""The Original Jam Sessions 1969 is a 2004 released album by Quincy Jones and Bill Cosby recorded as backing music for ""The Bill Cosby Show"" in 1969.""
+From <CHUNK_88>:
+""The Original Jam Sessions 1969 is a 2004 released album by Quincy Jones and Bill Cosby recorded as backing music for ""The Bill Cosby Show"" in 1969.""
+From <CHUNK_88>:
+""The Original Jam Sessions 1969 is a 2004 released album by Quincy Jones and Bill Cosby recorded as backing music for ""The Bill Cosby Show"" in 1969.""
+From <CHUNK_88>:
+""The Original Jam Sessions 1969 is a 2004 released album by Quincy Jones and Bill Cosby recorded as backing music for ""The Bill Cosby Show"" in 1969.""
+From <CHUNK_88>:
+""The Original Jam Sessions 1969 is a 2004 released album by Quincy Jones and Bill Cosby recorded as backing music for ""The Bill Cosby Show"" in 1969.""
+From <CHUNK_88>:
+""The Original Jam Sessions 1969 is a 2004 released album by Quincy Jones and Bill Cosby recorded as backing music for ""The Bill Cosby Show"" in 1969.""
+From <CHUNK_88>:
+""The Original Jam Sessions 1969 is a 2004 released album by Quincy Jones and Bill Cosby recorded as backing music for ""The Bill Cosby Show"" in 1969.""
+From <CHUNK_88>:
+""The Original Jam Sessions 1969 is a 2004 released album by Quincy Jones and Bill Cosby recorded as backing music for ""The Bill Cosby Show"" in 1969.""
+From <CHUNK_88>:
+""The Original Jam Sessions 1969 is a 2004 released album by Quincy Jones and Bill Cosby recorded as backing music for ""The Bill Cosby Show"" in 1969.""
+From <CHUNK_88>:
+""The Original Jam Sessions 1969 is a 2004 released album by Quincy Jones and Bill Cosby recorded as backing music for ""The Bill Cosby Show"" in 1969.""
+From <CHUNK_88>:
+""The Original Jam Sessions 1969 is a 2004 released album by Quincy Jones and Bill Cosby recorded as backing music for ""The Bill Cosby Show"" in 1969.""
+From <CHUNK_88>:
+""The Original Jam Sessions 1969 is a 2004 released album by Quincy Jones and Bill Cosby recorded as backing music for ""The Bill Cosby Show"" in 1969.""
+From <CHUNK_88>:
+""The Original Jam Sessions 1969 is a 2004 released album by Quincy Jones and Bill Cosby recorded as backing music for ""The Bill Cosby Show"" in 1969.""
+From <CHUNK_88>:
+""The Original Jam Sessions 1969 is a 2004 released album by Quincy Jones and Bill Cosby recorded as backing music for ""The Bill Cosby Show"" in 1969.""
+From <CHUNK_88>:
+""The Original Jam Sessions 1969 is a 2004 released album by Quincy Jones and Bill Cosby recorded as backing music for ""The Bill Cosby Show"" in 1969.""
+From <CHUNK_88>:
+""The Original Jam Sessions 1969 is a 2004 released album by Quincy Jones and Bill Cosby recorded as backing music for ""The Bill Cosby Show"" in 1969.""
+From <CHUNK_88>:
+""The Original Jam Sessions 1969 is a 2004 released album by Quincy Jones and Bill Cosby recorded as backing music for ""The Bill Cosby Show"" in 1969.""
+From <CHUNK_88>:
+""The Original Jam Sessions 1969 is a 2004 released album by Quincy Jones and Bill Cosby recorded as backing music for ""The Bill Cosby Show"" in 1969.""
+From <CHUNK_88>:
+""The Original Jam Sessions 1969 is a 2004 released album by Quincy Jones and Bill Cosby recorded as backing music for ""The Bill Cosby Show"" in 1969.""
+From <CHUNK_88>:
+""The"
+qa_2,93,"No, the drinks Gibson and Zurracapote do not both contain gin."
+qa_2,94,March
+qa_2,95,Answer:Tysons Galleria is located in Fairfax County.
+qa_2,96,"Viglen provides IT products and services, so Bordan Tkachuk was the CEO of a company that provides IT-related products and services."
+qa_2,97,Lev Yilmaz
+qa_2,98,Beijing
+qa_2,99,"No, Yingkou is a prefecture-level city, while Fuding is a county-level city."

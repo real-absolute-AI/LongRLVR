@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite our ICLR 2026 paper."
+title: "LongRLVR: Long-Context Reinforcement Learning Requires Verifiable Context Rewards"
+type: software
+authors:
+  - family-names: Chen
+    given-names: Guanzheng
+  - family-names: Shieh
+    given-names: Michael Qizhe
+  - family-names: Bing
+    given-names: Lidong
+preferred-citation:
+  type: conference-paper
+  title: "Long-Context Reinforcement Learning Requires Verifiable Context Rewards"
+  authors:
+    - family-names: Chen
+      given-names: Guanzheng
+    - family-names: Shieh
+      given-names: Michael Qizhe
+    - family-names: Bing
+      given-names: Lidong
+  year: 2026
+  conference:
+    name: "International Conference on Learning Representations (ICLR)"
+

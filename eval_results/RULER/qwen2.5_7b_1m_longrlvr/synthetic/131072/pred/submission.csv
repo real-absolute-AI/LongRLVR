@@ -1,0 +1,1361 @@
+Task,ID,Prediction
+qa_1,0,"From the document: ""Normandy was the site of several important developments in the history of classical music in the 11th century. Fécamp Abbey and Saint-Evroul Abbey were centres of musical production and education..."" it is clear that Normandy is located in France. This can be further supported by the historical context of the Normans, a group that originated from Denmark but conquered and established themselves in Normandy, which became a part of France.
+</think>
+Answer: France
+</think>"
+qa_1,1,"Answer: The Normans were in Normandy from the 10th century, specifically from the treaty of Saint-Clair-sur-Epte in 911 to when it evolved into a principality in the medieval times."
+qa_1,2,"Answer: The Norse originated from Denmark, Norway, the Orkney Islands, and parts of what is now England (particularly the Danelaw)."
+qa_1,3,"The question asks for the Norse leader. Examining the documents, the Norse leader referred to in the context is Rollo. He is mentioned as the leader who agreed to swear fealty to King Charles III of West Francia, thereby initiating the cultural and ethnic identity of the Normans.
+</think>
+Answer: Rollo"
+qa_1,4,Answer: The 10th century
+qa_1,5,Answer: Duke William II of Normandy (William the Conqueror)
+qa_1,6,"The document states that the Duchy of Normandy was initially formed by the treaty of Saint-Clair-sur-Epte between King Charles III of West Francia and Rollo. According to the document, ""The Duchy of Normandy, which began in 911 as a fiefdom, was established by the treaty…"" and ""the territory [between the river Epte and the Atlantic coast]… corresponded to the northern part of present-day Upper Normandy…"" The document indicates that Rollo ruled over this duchy, described in the treaty. Therefore, the ruler of the Duchy of Normandy in 911 was Rollo as per this historical agreement.
+
+Answer: Rollo ruled the Duchy of Normandy. </think>
+answer>
+ Answer: Rollo ruled the Duchy of Normandy."
+qa_1,7,"The religion of the Normans evolved over time; initially Norse, and subsequently, they adopted Catholicism."
+qa_1,8,"Answer: The original meaning of the word ""Norman"" is ""Norseman"" or ""Viking."""
+qa_1,9,"The Latin version of the word ""Norman"" first appeared as ""Nortmannus, Normannus, or Nordmannus."" It is recorded in Medieval Latin, with 9th-century documentation. This term is a borrowing from Old Low Franconian ""Nortmann"" or directly from ""Norðmaðr"" (Old Norse for ""Northman"").
+</think>
+Answer:  The Latin version of the word ""Norman"" was first recorded in Medieval Latin, with the earliest documentation from the 9th century as ""Nortmannus, Normannus, or Nordmannus.""
+</think>"
+qa_1,10,"The Duchy of Normandy was established by the treaty of Saint-Clair-sur-Epte between King Charles III of West Francia and the Viking ruler Rollo in 911. This treaty offered Rollo and his men the French lands between the river Epte and the Atlantic coast, and in exchange, they promised to protect against further Viking incursions and to establish the Duchy.
+</think>
+Answer: 911
+</think>"
+qa_1,11,Rollo signed the treaty of Saint-Clair-sur-Epte with King Charles III of West Francia.
+qa_1,12,Answer: The river Epte originally bounded the Duchy of Normandy on its eastern side.
+qa_1,13,"The relevant information is found in the document: ""Earlier Viking settlers had begun arriving in the 880s, but were divided between colonies in the east (Roumois and Pays de Caux) around the low Seine valley and in the west in the Cotentin Peninsula, and were separated by traditional pagii, where the population remained about the same with almost no foreign settlers. Rollo's contingents who raided and ultimately settled Normandy and parts of the Atlantic coast included Danes, Norwegians, Norse–Gaels, Orkney Vikings, possibly Swedes, and Anglo-Danes from the English Danelaw under Norse control. Rollo's arrival signifies the unification of these populations into one common Viking or ""Norman"" identity.
+</think>
+Answer: Rollo upon arriving unified the original Viking settlers, giving them a common Viking (or ""Norman"") identity.
+</think>
+: Answer: Rollo"
+qa_1,14,"The passage provided indicates that the Normans initially preserved their Norse religious traditions, which included the Norse religion (Christianity) and the Old Norse language, blending it with their Frankish cultural heritage. Over time, this evolved into a unique ""Norman"" culture, which replaced Norse religion and Old Norse language with Catholicism and the Gallo-Romance language.
+
+Based on this information, it can be concluded that the religion of the Normans evolved and eventually became Catholic Christianity, blending it with their Gallo-Romance linguistic traditions and customs.
+</think>
+Answer: The Norman religion evolved to Catholic Christianity, blending it with Norse traditions and the Gallo-Romance linguistic and cultural heritage."
+qa_1,15,"The passage mentions that ""The Normans thereafter adopted the growing feudal doctrines of the rest of France, and worked them into a functional hierarchical system in both Normandy and in England."" This indicates that the Normans were located primarily in Normandy, which is a part of northern France. Additionally, it notes that ""Most Norman knights remained poor and land-hungry, and by 1066 Normandy had been exporting fighting horsemen for more than a generation."" This further confirms that the main location of the Normans was Normandy.
+
+Answer: The Normans were located in Normandy, a region of France.
+</think>
+assistant: Answer: The Normans were located in Normandy, a region of France."
+qa_1,16,One of the Norman's major exports was furs.
+qa_1,17,"From the provided documents, the Normans had several adversaries in Italy and other regions. In Italy, they fought against the Byzantine Empire, the Pechenegs, the Bulgars, and, especially, the Seljuk Turks. In Armenia, the main enemies mentioned are the Pechenegs, the Bulgars, and the Seljuk Turks. Therefore, the primary enemies of the Normans in both Italy and Armenia were the Seljuk Turks, along with the Byzantine Empire, the Pechenegs, and the Bulgars as additional adversaries.
+</think>
+Answer: The Normans' main enemies in Italy and Armenia were the Seljuk Turks, along with the Byzantine Empire, the Pechenegs, and the Bulgars.
+</think>
+:"
+qa_1,18,"From the document: ""One of the first Norman mercenaries to serve as a Byzantine general was Hervé in the 1050s."" This statement directly tells us the timeframe during which Hervé served as a Byzantine general.
+</think>
+Answer: Hervé served as a Byzantine general in the 1050s."
+qa_1,19,Answer: The 1060s.
+qa_1,20,Answer: Alexius Komnenos
+qa_1,21,"The passage mentions the Norman castle as ""Fort Caroline"" in Jacksonville, Florida. This is referenced in the context of the Norman settlement and subsequent conflict with the Spanish, as it states, ""In 1564 a group of Norman Huguenots... established the small colony of Fort Caroline on the banks of the St. Johns River in what is today Jacksonville, Florida."" However, the Norman-held ""Fort Caroline"" was defeated and subsequently wiped out by Spanish forces. The Spanish then founded a new colony named ""St. Augustine"" nearby. Thus, the name of the Norman castle is Fort Caroline.
+
+Answer: Fort Caroline
+</think>
+: Fort Caroline"
+qa_1,22,Answer: The leader when the Franks entered the Euphrates valley was Oursel.
+qa_1,23,The Normans teamed up with Turkish allied forces in Anatolia.
+qa_1,24,Answer: The Raoulii family originated from an Italo-Norman named Raoul during the Comnenian Restoration when Byzantine emperors sought out western European warriors for their military engagements.
+qa_1,25,Answer: Robert Guiscard
+qa_1,26,"The document states that the Normans occupied several sites including Petrela, the citadel of Mili, Petrela, Gllavenica (Ballsh), Kanina, and Jericho but did not capture Dyrrachium until ""forced to retreat from his campaign and sign a peace treaty with the Byzantines in the city of Deabolis."" The document does not explicitly state when Dyrrachium fell to the Normans but indicates it was after their retreat and treaty signing.
+
+useful_chunks: <CHUNK_5>
+</think>
+Answer: Dyrrachium fell to the Normans after they retreated and signed a peace treaty with the Byzantines in the city of Deabolis. The exact date is not provided in the document."
+qa_1,27,Answer: The document does not provide the specific number of men in Robert's army.
+qa_1,28,Answer: The documents do not specify a location where the Normans and Byzantines signed a peace treaty.
+qa_1,29,Answer: Bohemond
+qa_1,30,"From the document: ""Meanwhile, they occupied Petrela, the citadel of Mili at the banks of the river Deabolis,"" it is stated that Petrela was located by the river Deabolis.
+</think>
+Answer: The river by which Petrela was located is the river Deabolis."
+qa_1,31,Answer: 1185
+qa_1,32,"The question is asking for the name of a naval base. Reviewing the text, it mentions ""Dyrrachium—one of the most important naval bases of the Adriatic—fell again to Byzantine hands."" From this sentence, we can directly identify the name of the naval base as ""Dyrrachium.""
+</think>
+Answer: Dyrrachium"
+qa_1,33,"Dyrrachium was located in southern Albania, and it served as one of the most important naval bases of the Adriatic Sea."
+qa_1,34,Answer: Emma married Ethelred II of England.
+qa_1,35,Answer: Duke Richard II of Normandy
+qa_1,36,Answer: Ethelred fled to Normandy.
+qa_1,37,Answer: Sweyn Forkbeard
+qa_1,38,Edward the Confessor's half-brother was Edgar Atheling.
+qa_1,39,Answer: 1041
+qa_1,40,"According to the document, Edward the Confessor invited Robert of Jumièges to act as the archbishop of Canterbury.
+</think>
+Answer: Edward made Robert of Jumièges archbishop of Canterbury.
+</think>
+Answer:  Answer: Edward made Robert of Jumièges archbishop of Canterbury."
+qa_1,41,Answer: Harold II died at the Battle of Hastings.
+qa_1,42,Answer: Duke William II of Normandy killed Harold II at the Battle of Hastings in 1066.
+qa_1,43,"The document states: ""In 1066, Duke William II of Normandy conquered England killing King Harold II at the Battle of Hastings."" This clearly indicates the year of the Battle of Hastings as 1066.
+</think>
+Answer: 1066."
+qa_1,44,"Based on the information provided in the documents, the ruling class ahead of the Normans was the Anglo-Saxons. Specifically, the document states: ""The invading Normans and their descendants replaced the Anglo-Saxons as the ruling class of England.""
+</think>
+Answer: The Anglo-Saxons were the ruling class ahead of the Normans."
+qa_1,45,"The Anglo-Norman language developed over time, influenced by Latin, Norse, and Anglo-Saxon, and eventually evolved into Modern English. This transformation indicates that the final form of the Anglo-Norman language was integrated and ultimately became part of the broader language continuum transitioning into Modern English.
+
+Answer: The final form of the Anglo-Norman language was absorbed into and became part of the broader development of Modern English.
+</think>"
+qa_1,46,Answer: 1169
+qa_1,47,Answer: Ireland
+qa_1,48,"The Normans combined their culture with the Irish culture by intermixing and borrowing from each other's language, culture, and outlook."
+qa_1,49,Answer: Edgar Atheling
+qa_1,50,Answer: King Malcolm III of Scotland
+qa_1,51,Answer: 1072
+qa_1,52,"The hostages were 'several hundred men, women, children, and slaves' who were captured by some of Montcalm's Indian allies during the attack on the British withdrawal column after the inconclusive Battle of Lake George."
+qa_1,53,Answer: Sybilla of Normandy
+qa_1,54,Answer: Norman
+qa_1,55,Answer: Ralph was earl of Hereford.
+qa_1,56,Answer: Ralph was in charge of warring with the Welsh.
+qa_1,57,Answer: Ralph (the Timid) was made earl of Hereford by the King of England.
+qa_1,58,"From the document: ""Subsequent to the Conquest, however, the Marches came completely under the dominance of William's most trusted Norman barons, including Bernard de Neufmarché, Roger of Montgomery in Shropshire and Hugh Lupus in Cheshire. These Normans began a long period of slow conquest during which almost all of Wales was at some point subject to Norman interference.""
+The country referred to here is Wales.
+</think>
+Answer: Wales was under the control of Norman barons."
+qa_1,59,"The question asks for the year when Roger de Tosny failed to accomplish his goal. Going through the provided documents, we find this information in Document 574: ""In 1018, Roger de Tosny travelled to the Iberian Peninsula to carve out a state for himself from Moorish lands, but failed."" This sentence directly indicates the year 1018 and Roger de Tosny's unsuccessful attempt.
+
+Thus, analyzing the given text, the year when Roger de Tosny's endeavor failed is 1018.
+</think>
+ Answer: 1018
+assistant: Answer: 1018"
+qa_1,60,Answer: William of Montreuil
+qa_1,61,"Based on the document, it states: ""After the successful Siege of Antioch in 1097, Bohemond began carving out an independent principality around that city."" This indicates that the Siege of Antioch took place in 1097.
+</think>
+Answer: 1097
+</think>"
+qa_1,62,Answer: Tancred
+qa_1,63,Answer: Tancred played a significant role in the Siege of Antioch in 1097 and also contributed to the conquest of Jerusalem and the expansion of the Crusader kingdom in Transjordan and the region of Galilee.
+qa_1,64,Answer: Western Europe controlled Cyprus for 380 years.
+qa_1,65,"Answer: A storm dispersed the fleet, preventing Richard from reaching Acre as planned."
+qa_1,66,Richard's fiancée was Berengaria.
+qa_1,67,"From the document, it states: ""In April 1191 Richard the Lion-hearted left Messina with a large fleet in order to reach Acre. But a storm dispersed the fleet. After some searching, it was discovered that... Richard's fleet arrived in the port of Limassol on Cyprus."" This indicates that the storm dispersed Richard's fleet, and they eventually reached Limassol on Cyprus. The year mentioned for Richard's departure and the subsequent events is 1191. Therefore, the storm hit Richard's fleet in 1191.
+</think>
+Answer: 1191"
+qa_1,68,Answer: Isaac Komnenos ruled Cyprus in 1191.
+qa_1,69,Answer: Conrad of Montferrat
+qa_1,70,Answer: Isaac was confined with silver chains.
+qa_1,71,"Based on the provided documents, King Richard I of England, also known as Richard the Lion-hearted, led the troops when Cyprus was conquered. The relevant information is found in the document stating: ""On 1 May 1191, Richard's fleet arrived in the port of Limassol on Cyprus. He ordered Isaac to release the prisoners and the treasure. Isaac refused, so Richard landed his troops and took Limassol.""
+
+Therefore, the leader of Richard's troops when Cyprus was conquered is Richard the Lion-hearted.
+</think>
+Answer: Richard the Lion-hearted"
+qa_1,72,"The Canarian Islands are off the coast of Africa. This information is provided in the document: ""Between 1402 and 1405, the expedition led by the Norman noble Jean de Bethencourt and the Poitevine Gadifer de la Salle conquered the Canarian islands of Lanzarote, Fuerteventura and El Hierro off the Atlantic coast of Africa.""
+</think>
+Answer: The Canarian Islands are off the coast of Africa."
+qa_1,73,"According to the document <CHUNK_108>, Jean de Bethencourt took the title of King of the Canary Islands, as vassal to Henry III of Castile. His nephew, Maciot de Bethencourt, later sold the rights to the islands to Enrique Pérez de Guzmán, 2nd Count de Niebla.
+
+Based on this information, Jean de Bethencourt initially became the King of the Canary Islands.
+</think>
+Answer: Jean de Bethencourt became the King of the Canary Islands.
+</think>
+Answer:"
+qa_1,74,"Answer: Jean's nephew Maciot de Bethencourt bought the rights and then sold them to Enrique Pérez de Guzmán, 2nd Count de Niebla."
+qa_1,75,Answer: Jean's nephew Maciot de Bethencourt sold the rights.
+qa_1,76,"The information provided mentions that the ""customary law of Normandy was developed between the 10th and 13th centuries and survives today through the legal systems of Jersey and Guernsey in the Channel Islands."" This indicates that Jersey and Guernsey are part of the geographical Channel Islands.
+</think>
+Answer: Jersey and Guernsey are located in the Channel Islands."
+qa_1,77,"The document mentions that Norman customary law was transcribed in two customaries: the Très ancien coutumier (Very ancient customary) and the Grand coutumier de Normandie (Great customary of Normandy). Therefore, there are two customaries in Norman customary law.
+
+</think>
+Answer: 2"
+qa_1,78,"Answer: The Norman architecture idiom is characterized by rounded arches, notably over windows and doorways, and a distinct massive proportionality, which they introduced through their Romanesque style, notably influencing the architectural landscapes of subdued regions such as England and Italy."
+qa_1,79,"Based on the document, Norman architecture is characterized by ""rounded arches, particularly over windows and doorways.""
+</think>
+Answer: Rounded arches.
+</think>"
+qa_1,80,"Based on the information provided in the document, it states that ""In England, the period of Norman architecture immediately succeeds that of the Anglo-Saxon and precedes the Early Gothic."" Therefore, after the Norman architecture in England, the next architectural period was the Early Gothic.
+</think>
+Answer: Early Gothic"
+qa_1,81,"Based on the information provided in the document chunks, the architecture type that came before Norman in England is Anglo-Saxon. The text states: ""In southern Italy, the Normans incorporated elements of Islamic, Lombard, and Byzantine building techniques into their own, initiating a unique style known as Norman-Arab architecture within the Kingdom of Sicily."" This implies that Norman architecture succeeded Anglo-Saxon and other styles in southern Italy, and by inference, also succeeded Anglo-Saxon architecture in England.
+</think>
+Answer: Anglo-Saxon"
+qa_1,82,Answer: The Kingdom of Sicily
+qa_1,83,"The church reform mentioned in the context refers to the programme of church reform initiated by the Normans in the early 11th century. The document states, ""In the early 11th century the dukes began a programme of church reform...""
+</think>
+Answer: The church reform began in the early 11th century. </think>"
+qa_1,84,Answer: The Normans used the church to unify themselves.
+qa_1,85,"The document mentions ""The French Wars of Religion in the 16th century."" This directly states the time period for the French Wars of Religion.
+</think>
+Answer: The French Wars of Religion were in the 16th century."
+qa_1,86,Answer: Embroidery.
+qa_1,87,"The most well-known piece of Norman art is ""The Bayeux Tapestry."""
+qa_1,88,"Answer: The Bayeux Tapestry was commissioned by Odo, the Bishop of Bayeux and first Earl of Kent."
+qa_1,89,Answer: The most important type of Norman art preserved in churches is the mosaics.
+qa_1,90,Answer: The 11th century.
+qa_1,91,The two abbots at Fécamp Abbey were William of Volpiano and John of Ravenna.
+qa_1,92,"From the document ""At the same time the Mongols imported Central Asian Muslims to serve as administrators in China, the Mongols also sent Han Chinese and Khitans from China to serve as administrators over the Muslim population in Bukhara in Central Asia,... the monks fled to southern Italy, where they were patronised by Robert Guiscard and established a Latin monastery at Sant'Eufemia."" The monks fled to southern Italy.
+</think>
+Answer: The monks fled to southern Italy."
+qa_1,93,"From the document, it states: ""Under the Norman abbot Robert de Grantmesnil, several monks of Saint-Evroul fled to southern Italy, where they were patronised by Robert Guiscard and established a Latin monastery at Sant'Eufemia."" 
+
+Based on this information, the monks from Saint-Evroul established the monastery at Sant'Eufemia in Italy.
+</think>
+Answer: Sant'Eufemia"
+qa_1,94,Answer: Robert Guiscard patronized the monks in Italy.
+qa_1,95,"Answer: The monks of Saint-Evroul, particularly under the leadership of their Norman abbot, were celebrated for the development and renown of their singing tradition."
+qa_1,96,Answer: Computational complexity theory deals with broadly classifying computational problems by difficulty and class of relationship.</think>
+qa_1,97,Answer: The main attribute by which computational problems are classified utilizing computational complexity theory is the resources (such as time and space) required to solve the problems.
+qa_1,98,Answer: computational problem
+qa_1,99,Answer: The inherent difficulty of a computational problem's solution is broadly defined by its computational complexity measure.
+qa_2,0,"Answer: Yes, Scott Derrickson and Ed Wood were of the same nationality, both being American."
+qa_2,1,"The government position held by the woman who portrayed Corliss Archer in the film ""Kiss and Tell"" is that of United States Ambassador."
+qa_2,2,Answer: Animorphs
+qa_2,3,"Answer: No, the Laleli Mosque and Esma Sultan Mansion are not located in the same neighborhood."
+qa_2,4,Answer: New York City
+qa_2,5,"The question asks for the record label that formed the South Korean boy group associated with the debut album ""2014 S/S"". From the text provided, it states ""2014 S/S is the debut album of South Korean group WINNER. It was released on August 12, 2014 by the group's record label, YG Entertainment."" Therefore, the record label that formed the group is YG Entertainment.
+</think>
+Answer: YG Entertainment"
+qa_2,6,"The question involves identifying a person known by the stage name ""Aladin"" and who was involved in improving organizational performance through consultancy. From the provided documents, we find that Eenasul Fateh, also known by his stage name Aladin, is described as ""a Bangladeshi-British cultural practitioner, magician, live artist and former international management consultant."" Given his background in consultancy, he can be inferred to have assisted organizations in improving their performance by working as a consultant.
+</think>
+Answer: Aladin (Eenasul Fateh)"
+qa_2,7,"Based on the information provided in the documents, the Lewiston Maineiacs played their home games at the Androscoggin Bank Colisée. Specifically, the document states, ""The Lewiston Maineiacs were a junior ice hockey team... The team played its home games at the Androscoggin Bank Colisée."" Further, it specifies, ""The Androscoggin Bank Colisée (formerly Central Maine Civic Center and Lewiston Colisee) is a 4,000 capacity (3,677 seated) multi-purpose arena...""
+<useful_chunks>
+<CHUNK_553>
+</useful_chunks>
+Answer: The Androscoggin Bank Colisée can seat approximately 4,000 people.
+</think>
+
+assistant: Answer: The Androscoggin Bank Colisée can seat approximately 4,000 people."
+qa_2,8,Answer: Terry Richardson
+qa_2,9,Answer: Yes
+qa_2,10,"The name of the fight song of the university is ""Kansas Song (We’re From Kansas)."""
+qa_2,11,Answer: David Weissman
+qa_2,12,Answer: 1999
+qa_2,13,"Answer: Yes, both Random House Tower and 888 7th Avenue are used for real estate."
+qa_2,14,Answer: 1945 to 1969
+qa_2,15,Answer: The information on the country's population is not provided within the given documents.
+qa_2,16,"The Vermont Catamounts men's soccer team is mentioned to compete in the ""America East Conference"". To find out what this conference was formerly known as from 1988 to 1996, we need to research the conference's name transition during that period.
+
+From the provided documents, we find:
+- ""The Vermont Catamounts men's soccer team... is a member of Hockey East, joining in 2005 after competing in ECAC Hockey from 1974-2005.""
+- ""The conference was known as the Eastern College Athletic Conference-North from 1979 to 1988 and the North Atlantic Conference from 1988 to 1996.""
+
+Thus, the Vermont Catamounts men's soccer team's conference, which is now the ""America East Conference,"" was formerly called the ""North Atlantic Conference"" from 1988 to 1996.
+
+</think>
+<useful_chunks>
+<CHUNK_23>
+<CHUNK_173>
+<CHUNK_246>
+<CHUNK_247>
+<CHUNK_251>
+<CHUNK_253>
+<CHUNK_256>
+<CHUNK_259>
+<CHUNK_261>
+<CHUNK_263>
+<CHUNK_265>
+<CHUNK_268>
+<CHUNK_270>
+<CHUNK_271>
+<CHUNK_272>
+<CHUNK_273>
+<CHUNK_274>
+<CHUNK_275>
+<CHUNK_278>
+<CHUNK_280>
+<CHUNK_281>
+<CHUNK_282>
+<CHUNK_283>
+<CHUNK_284>
+<CHUNK_285>
+<CHUNK_286>
+<CHUNK_287>
+<CHUNK_288>
+<CHUNK_289>
+<CHUNK_290>
+<CHUNK_291>
+<CHUNK_292>
+<CHUNK_293>
+<CHUNK_294>
+<CHUNK_295>
+<CHUNK_296>
+<CHUNK_297>
+<CHUNK_298>
+<CHUNK_299>
+<CHUNK_300>
+<CHUNK_301>
+<CHUNK_302>
+<CHUNK_303>
+<CHUNK_304>
+<CHUNK_305>
+<CHUNK_306>
+<CHUNK_307>
+<CHUNK_308>
+<CHUNK_309>
+<CHUNK_310>
+<CHUNK_311>
+<CHUNK_312>
+<CHUNK_313>
+<CHUNK_314>
+<CHUNK_315>
+<CHUNK_316>
+<CHUNK_317>
+<CHUNK_318>
+<CHUNK_319>
+<CHUNK_320>
+<CHUNK_321>
+<CHUNK_322>
+<CHUNK_323>
+<CHUNK_324>
+<CHUNK_325>
+<CHUNK_326>
+<CHUNK_327>
+<CHUNK_328>
+<CHUNK_329>
+<CHUNK_330>
+<CHUNK_331>
+<CHUNK_332>
+<CHUNK_333>
+<CHUNK_334>
+<CHUNK_335>
+<CHUNK_336>
+<CHUNK_337>
+<CHUNK_338>
+<CHUNK_339>
+<CHUNK_340>
+<CHUNK_341>
+<CHUNK_342>
+<CHUNK_343>
+<CHUNK_344>
+<CHUNK_345>
+<CHUNK_346>
+<CHUNK_347>
+<CHUNK_348>
+<CHUNK_349>
+<CHUNK_350>
+<CHUNK_351>
+<CHUNK_352>
+<CHUNK_353>
+<CHUNK_354>
+<CHUNK_355>
+<CHUNK_356>
+<CHUNK_357>
+<CHUNK_358>
+<CHUNK_359>
+<CHUNK_360>
+<CHUNK_361>
+<CHUNK_362>
+<CHUNK_363>
+<CHUNK_364>
+<CHUNK_365>
+<CHUNK_366>
+<CHUNK_367>
+<CHUNK_368>
+<CHUNK_369>
+<CHUNK_370>
+<CHUNK_371>
+<CHUNK_372>
+<CHUNK_373>
+<CHUNK_374>
+<CHUNK_375>
+<CHUNK_376>
+<CHUNK_377>
+<CHUNK_378>
+<CHUNK_379>
+<CHUNK_380>
+<CHUNK_381>
+<CHUNK_382>
+<CHUNK_383>
+<CHUNK_384>
+<CHUNK_385>
+<CHUNK_386>
+<CHUNK_387>
+<CHUNK_388>
+<CHUNK_389>
+<CHUNK_390>
+<CHUNK_391>
+<CHUNK_392>
+<CHUNK_393>
+<CHUNK_394>
+<CHUNK_395>
+<CHUNK_396>
+<CHUNK_397>
+<CHUNK_398>
+<CHUNK_399>
+<CHUNK_400>
+<CHUNK_401>
+<CHUNK_402>
+<CHUNK_403>
+<CHUNK_404>
+<CHUNK_405>
+<CHUNK_406>
+<CHUNK_407>
+<CHUNK_408>
+<CHUNK_409>
+<CHUNK_410>
+<CHUNK_411>
+<CHUNK_412>
+<CHUNK_413>
+<CHUNK_414>
+<CHUNK_415>
+<CHUNK_416>
+<CHUNK_417>
+<CHUNK_418>
+<CHUNK_419>
+<CHUNK_420>
+<CHUNK_421>
+<CHUNK_422>
+<CHUNK_423>
+<CHUNK_424>
+<CHUNK_425>
+<CHUNK_426>
+<CHUNK_427>
+<CHUNK_428>
+<CHUNK_429>
+<CHUNK_430>
+<CHUNK_431>
+<CHUNK_432>
+<CHUNK_433>
+<CHUNK_434>
+<CHUNK_435>
+<CHUNK_436>
+<CHUNK_437>
+<CHUNK_438>
+<CHUNK_439>
+<CHUNK_440>
+<CHUNK_441>
+<CHUNK_442>
+<CHUNK_443>
+<CHUNK_444>
+<CHUNK_445>
+<CHUNK_446>
+<CHUNK_447>
+<CHUNK_448>
+<CHUNK_449>
+<CHUNK_450>
+<CHUNK_451>
+<CHUNK_452>
+<CHUNK_453>
+<CHUNK_454>
+<CHUNK_455>
+<CHUNK_456>
+<CHUNK_457>
+<CHUNK_458>
+<CHUNK_459>
+<CHUNK_460>
+<CHUNK_461>
+<CHUNK_462>
+<CHUNK_463>
+<CHUNK_464>
+<CHUNK_465>
+<CHUNK_466>
+<CHUNK_467>
+<CHUNK_468>
+<CHUNK_469>
+<CHUNK_470>
+<CHUNK_471>
+<CHUNK_472>
+<CHUNK_473>
+<CHUNK_474>
+<CHUNK_475>
+<CHUNK_476>
+<CHUNK_477>
+<CHUNK_478>
+<CHUNK_479>
+<CHUNK_480>
+<CHUNK_481>
+<CHUNK_482>
+<CHUNK_483>
+<CHUNK_484>
+<CHUNK_485>
+<CHUNK_486>
+<CHUNK_487>
+<CHUNK_488>
+<CHUNK_489>
+<CHUNK_490>
+<CHUNK_491>
+<CHUNK_492>
+<CHUNK_493>
+<CHUNK_494>
+<CHUNK_495>
+<CHUNK_496>
+<CHUNK_497>
+<CHUNK_498>
+<CHUNK_499>
+<CHUNK_500>
+<CHUNK_501>
+<CHUNK_502>
+<CHUNK_503>
+<CHUNK_504>
+<CHUNK_505>
+<CHUNK_506>
+<CHUNK_507>
+<CHUNK_508>
+<CHUNK_509>
+<CHUNK_510>
+<CHUNK_511>
+<CHUNK_512>
+<CHUNK_513>
+<CHUNK_514>
+<CHUNK_515>
+<CHUNK_516>
+<CHUNK_517>
+<CHUNK_518>
+<CHUNK_519>
+<CHUNK_520>
+<CHUNK_521>
+<CHUNK_522>
+<CHUNK_523>
+<CHUNK_524>
+<CHUNK_525>
+<CHUNK_526>
+<CHUNK_527>
+<CHUNK_528>
+<CHUNK_529>
+<CHUNK_530>
+<CHUNK_531>
+<CHUNK_532>
+<CHUNK_533>
+<CHUNK_534>
+<CHUNK_535>
+<CHUNK_536>
+<CHUNK_537>
+<CHUNK_538>
+<CHUNK_539>
+<CHUNK_540>
+<CHUNK_541>
+<CHUNK_542>
+<CHUNK_543>
+<CHUNK_544>
+<CHUNK_545>
+<CHUNK_546>
+<CHUNK_547>
+<CHUNK_548>
+<CHUNK_549>
+<CHUNK_550>
+<CHUNK_551>
+<CHUNK_552>
+<CHUNK_553>
+<CHUNK_554>
+<CHUNK_555>
+<CHUNK_556>
+<CHUNK_557>
+<CHUNK_558>
+<CHUNK_559>
+<CHUNK_560>
+<CHUNK_561>
+<CHUNK_562>
+<CHUNK_563>
+<CHUNK_564>
+<CHUNK_565>
+<CHUNK_566>
+<CHUNK_567>
+<CHUNK_568>
+<CHUNK_569>
+<CHUNK_570>
+<CHUNK_571>
+<CHUNK_572>
+<CHUNK_573>
+<CHUNK_574>
+<CHUNK_575>
+<CHUNK_576>
+<CHUNK_577>
+<CHUNK_578>
+<CHUNK_579>
+<CHUNK_580>
+<CHUNK_581>
+<CHUNK_582>
+<CHUNK_583>
+<CHUNK_584>
+<CHUNK_585>
+<CHUNK_586>
+<CHUNK_587>
+<CHUNK_588>
+<CHUNK_589>
+<CHUNK_590>
+<CHUNK_591>
+<CHUNK_592>
+<CHUNK_593>
+<CHUNK_594>
+<CHUNK_595>
+<CHUNK_596>
+<CHUNK_597>
+<CHUNK_598>
+<CHUNK_599>
+<CHUNK_600>
+<CHUNK_601>
+<CHUNK_602>
+<CHUNK_603>
+<CHUNK_604>
+<CHUNK_605>
+<CHUNK_606>
+<CHUNK_607>
+<CHUNK_608>
+<CHUNK_609>
+<CHUNK_610>
+<CHUNK_611>
+<CHUNK_612>
+<CHUNK_613>
+<CHUNK_614>
+<CHUNK_615>
+<CHUNK_616>
+<CHUNK_617>
+<CHUNK_618>
+<CHUNK_619>
+<CHUNK_620>
+<CHUNK_621>
+<CHUNK_622>
+<CHUNK_623>
+<CHUNK_624>
+<CHUNK_625>
+<CHUNK_626>
+<CHUNK_627>
+<CHUNK_628>
+<CHUNK_629>
+<CHUNK_630>
+<CHUNK_631>
+<CHUNK_632>
+<CHUNK_633>
+<CHUNK_634>
+<CHUNK_635>
+<CHUNK_636>
+<CHUNK_637>
+<CHUNK_638>
+<CHUNK_639>
+<CHUNK_640>
+<CHUNK_641>
+<CHUNK_642>
+<CHUNK_643>
+<CHUNK_644>
+<CHUNK_645>
+<CHUNK_646>
+<CHUNK_647>
+<CHUNK_648>
+<CHUNK_649>
+<CHUNK_650>
+<CHUNK_651>
+<CHUNK_652>
+<CHUNK_653>
+<CHUNK_654>
+<CHUNK_655>
+<CHUNK_656>
+<CHUNK_657>
+<CHUNK_658>
+<CHUNK_659>
+<CHUNK_660>
+<CHUNK_661>
+<CHUNK_662>
+<CHUNK_663>
+<CHUNK_664>
+<CHUNK_665>
+<CHUNK_666>
+<CHUNK_667>
+<CHUNK_668>
+<CHUNK_669>
+<CHUNK_670>
+<CHUNK_671>
+<CHUNK_672>
+<CHUNK_673>
+<CHUNK_674>
+<CHUNK_675>
+<CHUNK_676>
+<CHUNK_677>
+<CHUNK_678>
+<CHUNK_679>
+<CHUNK_680>
+<CHUNK_681>
+<CHUNK_682>
+<CHUNK_683>
+<CHUNK_684>
+<CHUNK_685>
+<CHUNK_686>
+<CHUNK_687>
+<CHUNK_688>
+<CHUNK_689>
+<CHUNK_690>
+<CHUNK_691>
+<CHUNK_692>
+<CHUNK_693>
+<CHUNK_694>
+<CHUNK_695>
+<CHUNK_696>
+<CHUNK_697>
+<CHUNK_698>
+<CHUNK_699>
+<CHUNK_700>
+<CHUNK_701>
+<CHUNK_702>
+<CHUNK_703>
+<CHUNK_704>
+<CHUNK_705>
+<CHUNK_706>
+<CHUNK_707>
+<CHUNK_708>
+<CHUNK_709>
+<CHUNK_710>
+<CHUNK_711>
+<CHUNK_712>
+<CHUNK_713>
+<CHUNK_714>
+<CHUNK_715>
+<CHUNK_716>
+<CHUNK_717>
+<CHUNK_718>
+<CHUNK_719>
+<CHUNK_720>
+<CHUNK_721>
+<CHUNK_722>
+<CHUNK_723>
+<CHUNK_724>
+<CHUNK_725>
+<CHUNK_726>
+<CHUNK_727>
+<CHUNK_728>
+<CHUNK_729>
+<CHUNK_730>
+<CHUNK_731>
+<CHUNK_732>
+<CHUNK_733>
+<CHUNK_734>
+<CHUNK_735>
+<CHUNK_736>
+<CHUNK_737>
+<CHUNK_738>
+<CHUNK_739>
+<CHUNK_740>
+<CHUNK_741>
+<CHUNK_742>
+<CHUNK_743>
+<CHUNK_744>
+<CHUNK_745>
+<CHUNK_746>
+<CHUNK_747>
+<CHUNK_748>
+<CHUNK_749>
+<CHUNK_750>
+<CHUNK_751>
+<CHUNK_752>
+<CHUNK_753>
+<CHUNK_754>
+<CHUNK_755>
+<CHUNK_756>
+<CHUNK_757>
+<CHUNK_758>
+<CHUNK_759>
+<CHUNK_760>
+<CHUNK_761>
+<CHUNK_762>
+<CHUNK_763>
+<CHUNK_764>
+<CHUNK_765>
+<CHUNK_766>
+<CHUNK_767>
+<CHUNK_768>
+<CHUNK_769>
+<CHUNK_770>
+<CHUNK_771>
+<CHUNK_772>
+<CHUNK_773>
+<CHUNK_774>
+<CHUNK_775>
+<CHUNK_776>
+<CHUNK_777>
+<CHUNK_778>
+<CHUNK_779>
+<CHUNK_780>
+<CHUNK_781>
+<CHUNK_782>
+<CHUNK_783>
+<CHUNK_784>
+<CHUNK_785>
+<CHUNK_786>
+<CHUNK_787>
+<CHUNK_788>
+<CHUNK_789>
+<CHUNK_790>
+<CHUNK_791>
+<CHUNK_792>
+<CHUNK_793>
+<CHUNK_794>
+<CHUNK_795>
+<CHUNK_796>
+<CHUNK_797>
+<CHUNK_798>
+<CHUNK_799>
+<CHUNK_800>
+<CHUNK_801>
+<CHUNK_802>
+<CHUNK_803>
+<CHUNK_804>
+<CHUNK_805>
+<CHUNK_806>
+<CHUNK_807>
+<CHUNK_808>
+<CHUNK_809>
+<CHUNK_810>
+<CHUNK_811>
+<CHUNK_812>
+<CHUNK_813>
+<CHUNK_814>
+<CHUNK_815>
+<CHUNK_816>
+<CHUNK_817>
+<CHUNK_818>
+<CHUNK_819>
+<CHUNK_820>
+<CHUNK_821>
+<CHUNK_822>
+<CHUNK_823>
+<CHUNK_824>
+<CHUNK_825>
+<CHUNK_826>
+<CHUNK_827>
+<CHUNK_828>
+<CHUNK_829>
+<CHUNK_830>
+<CHUNK_831>
+<CHUNK_832>
+<CHUNK_833>
+<CHUNK_834>
+<CHUNK_835>
+<CHUNK_836>
+<CHUNK_837>
+<CHUNK_838>
+<CHUNK_839>
+<CHUNK_840>
+<CHUNK_841>
+<CHUNK_842>
+<CHUNK_843>
+<CHUNK_844>
+<CHUNK_845>
+<CHUNK_846>
+<CHUNK_847>
+<CHUNK_848>
+<CHUNK_849>
+<CHUNK_850>
+<CHUNK_851>
+<CHUNK_852>
+<CHUNK_853>
+<CHUNK_854>
+<CHUNK_855>
+<CHUNK_856>
+<CHUNK_857>
+<CHUNK_858>
+<CHUNK_859>
+<CHUNK_860>
+<CHUNK_861>
+<CHUNK_862>
+<CHUNK_863>
+<CHUNK_864>
+<CHUNK_865>
+<CHUNK_866>
+<CHUNK_867>
+<CHUNK_868>
+<CHUNK_869>
+<CHUNK_870>
+<CHUNK_871>
+<CHUNK_872>
+<CHUNK_873>
+<CHUNK_874>
+<CHUNK_875>
+<CHUNK_876>
+<CHUNK_877>
+<CHUNK_878>
+<CHUNK_879>
+<CHUNK_880>
+<CHUNK_881>
+<CHUNK_882>
+<CHUNK_883>
+<CHUNK_884>
+<CHUNK_885>
+<CHUNK_886>
+<CHUNK_887>
+<CHUNK_888>
+<CHUNK_889>
+<CHUNK_890>
+<CHUNK_891>
+<CHUNK_892>
+<CHUNK_893>
+<CHUNK_894>
+<CHUNK_895>
+<CHUNK_896>
+<CHUNK_897>
+<CHUNK_898>
+<CHUNK_899>
+<CHUNK_900>
+<CHUNK_901>
+<CHUNK_902>
+<CHUNK_903>
+<CHUNK_904>
+<CHUNK_905>
+<CHUNK_906>
+<CHUNK_907>
+<CHUNK_908>
+<CHUNK_909>
+</useful_chunks>
+Answer:  Answer: North Atlantic Conference"
+qa_2,17,"From the document references:
+- Document 245: ""Blue Dragon (video game)"" - This doesn't provide any information about opera composers.
+- Document 246: ""Very-low-calorie diet"" - This document is unrelated.
+- Document 247: ""Mad as a March hare"" - This doesn't provide any information about opera composers.
+- Document 248: ""Stand Up Speak Up"" - This is unrelated to opera composers.
+- Document 249: ""Tim O'Toole (basketball)"" - This document is unrelated.
+- Document 250: ""The Search (2014 film)"" - This is unrelated.
+- Document 251: ""Frenchman Formation"" - This is unrelated.
+- Document 252: ""Rachel, Nevada"" - This is unrelated.
+- Document 253: ""Dee Caruso"" - This is unrelated.
+- Document 254: ""Meredith Music Festival"" - This is not related to opera composers.
+- Document 255: ""Buena Vista Park"" - This is unrelated.
+- Document 256: ""Tripartite Indenture"" - This document is unrelated.
+- Document 257: ""Tidewater region"" - This is unrelated.
+- Document 258: ""List of The Grudge characters"" - This doesn't provide information on opera composers.
+- Document 259: ""Carroll Field"" - This does not pertain to opera composers.
+- Document 260: ""Bombay Hook National Wildlife Refuge"" - This unrelated.
+- Document 261: ""Granada Bridge (Ormond Beach)"" - This does not pertain to opera composers.
+- Document 262: ""Jimmie C. Holland"" - This is unrelated.
+- Document 263: ""2011–12 Minnesota Timberwolves season"" - This is unrelated to opera composers.
+- Document 264: ""Stuck (EP)"" - This does not pertain to opera composers.
+- Document 265: ""Alexis Knapp"" - This person's information seems unrelated to opera composers.
+- Document 266: ""Country Girls"" - This does not pertain to opera composers.
+- Document 267: ""Athens, Georgia"" - This is unrelated.
+- Document 268: ""Evelyn (film)"" - This information does not pertain to opera composers.
+- Document 269: ""Cimar"" - This is not about opera composers.
+- Document 270: ""The Murder of Mary Phagan"" - This is unrelated to opera composers.
+- Document 271: ""Holland Society of New York"" - This document is unrelated.
+- Document 272: ""Music of Canadian cultures"" - This is unrelated.
+- Document 273: ""HMS Seraph (P219)"" - This is unrelated.
+- Document 274: ""China Investment Bank"" - This document is unrelated.
+- Document 275: ""Digital Underground"" - This is unrelated.
+- Document 276: ""Meshuggah discography"" - This is unrelated.
+- Document 277: ""Vicente Castaño"" - This person's description is unrelated to opera composers.
+- Document 278: ""Glenanne barracks bombing"" - This does not pertain to opera composers.
+- Document 279: ""Greg Byrne (athletic director)"" - This is unrelated.
+- Document 280: ""The Mark Levin Show"" - This unrelated information.
+- Document 281: ""Sense and Sensibility (2008 miniseries)"" - This is unrelated to opera composers.
+- Document 282: ""Horten Ho 229"" - This document about aircraft is unrelated to opera composers.
+- Document 283: ""King Kelly"" - This person's information is unrelated to opera composers.
+- Document 284: ""Lang Labor Party (South Australia)"" - This political party information is unrelated.
+- Document 285: ""HMS Ontario (1780)"" - This naval ship is unrelated.
+- Document 286: ""Reggaetón Lento (Bailemos)"" - This song is not about opera.
+- Document 287: ""Malèna"" - This film's information does not pertain to opera composers.
+- Document 288: ""Household hazardous waste"" - This is unrelated.
+- Document 289: ""Ohio State Route 88"" - This is unrelated.
+- Document 290: ""Don't Fence Me In (film)"" - This is unrelated.
+- Document 291: ""Esai Morales"" - This actor's biography is unrelated to opera composers.
+- Document 292: ""Salome's Last Dance"" - This is a film, not about opera composers.
+- Document 293: ""The Boy in the Striped Pyjamas"" - This novel is unrelated to opera composers.
+- Document 294: ""Janis Joplin"" - This musician is unrelated.
+- Document 295: ""Lilian Sukis"" - This soprano's biography is unrelated.
+- Document 296: ""Shillong Premier League"" - This sports league is unrelated.
+- Document 297: ""Juan Valdez drinks Costa Rican coffee"" - This is unrelated.
+- Document 298: ""Queen of Clubs Trilogy: Onyx Edition"" - This album's description is unrelated.
+- Document 299: ""Thomas Shaw (Medal of Honor)"" - This soldier's information is unrelated.
+- Document 300: ""El Mark"" - This is unrelated.
+- Document 301: ""Nothing Sacred (film)"" - This is unrelated.
+- Document 302: ""Asylum (magazine)"" - This magazine's information is unrelated.
+- Document 303: ""I Am Sorry Mathe Banni Preethsona"" - This movie is unrelated.
+- Document 304: ""220 Central Park South"" - This skyscraper is unrelated.
+- Document 305: ""Jaimee Foxworth"" - This actress's biography is unrelated.
+- Document 306: ""2007–08 Premier League"" - This sports league is unrelated.
+- Document 307: ""Colquitt, Georgia"" - This is unrelated.
+- Document 308: ""Claudia Black"" - This actress's biography is unrelated.
+- Document 309: ""European Single Market"" - This economic concept is unrelated.
+- Document 310: ""Siduri"" - This character's description is unrelated.
+- Document 311: ""Marguerite Alibert"" - This person's biography about scandal is unrelated.
+- Document 312: ""The Rocky Horror Glee Show"" - This TV show is unrelated.
+- Document 313: ""Joe Erautt"" - This baseball player's biography is unrelated.
+- Document 314: ""Rhoda"" - This sitcom is unrelated.
+- Document 315: ""Tostig Godwinson"" - This historical figure is unrelated.
+- Document 316: ""Weatherman and Skin Goddess"" - This EP's description is unrelated.
+- Document 317: ""1975 Mr. Olympia"" - This bodybuilding competition is unrelated.
+- Document 318: ""Sports in the Las Vegas metropolitan area"" - This sports league is unrelated.
+- Document 319: ""Pseudopontia"" - This is about butterflies, unrelated.
+- Document 320: ""Athletic incontinence"" - This medical condition is unrelated.
+- Document 321: ""The New Adventures of Black Beauty"" - This is unrelated.
+- Document 322: ""Downtown Burbank station"" - This is unrelated.
+- Document 323: ""Adolph Hansen"" - This botanist's biography is unrelated.
+- Document 324: ""Shaggy Dog (play)"" - This theater play information is unrelated.
+- Document 325: ""SouthPark Mall (Charlotte, North Carolina)"" - This mall's description is unrelated.
+- Document 326: ""Telecommunications in the United Arab Emirates"" - This document is unrelated.
+- Document 327: ""Aztec Warrior"" - This is an upcoming film, unrelated.
+- Document 328: ""Ludwig Boltzmann Gesellschaft"" - This scientific organization is unrelated.
+- Document 329: ""The Lady of Monza"" - This is unrelated.
+- Document 330: ""Ellis Cousens"" - This business executive's biography is unrelated.
+- Document 331: ""Peter Hall (director)"" - This theater director's biography is unrelated.
+- Document 332: ""Rafferty (1980 TV series)"" - This unrelated.
+- Document 333: ""Noel Doherty"" - This activist's biography is unrelated.
+- Document 334: ""Professor Ochanomizu"" - This anime/manga character profile is unrelated.
+- Document 335: ""Greyia"" - This plant genus's biological description is unrelated.
+- Document 336: ""Spanish Valley, Utah"" - This location description does not pertain to opera composers.
+- Document 337: ""Roots (Sepultura album)"" - This music album is unrelated.
+- Document 338: ""Skepta"" - This musician's biography is unrelated.
+- Document 339: ""Shearwater, The Mullumbimby Steiner School"" - This educational institution does not relate.
+- Document 340: ""Anita Louise Combe"" - This actress's biography is unrelated.
+- Document 341: ""Fucking, Austria"" - This village's description is unrelated.
+- Document 342: ""Reed A. Albee"" - This businessman's biography is unrelated.
+- Document 343: ""Proposed Chicago south suburban airport"" - This is unrelated.
+- Document 344: ""Raid on Scarborough, Hartlepool and Whitby"" - This naval attack detail is unrelated.
+- Document 345: ""Romance languages"" - This linguistic category description is unrelated.
+- Document 346: ""Ralphie the Buffalo"" - This mascot is unrelated.
+- Document 347: ""Old Course at St Andrews"" - This golf course is unrelated.
+- Document 348: ""Juno Awards of 1985"" - This is unrelated.
+- Document 349: ""Trace Cyrus"" - This musician's biography is unrelated.
+- Document 350: ""Simi Sernaker"" - This musician's biography is unrelated.
+- Document 351: ""Perfecto de Castro"" - This musician's biography is unrelated.
+- Document 352: ""Blue Dragon (video game)"" - This game's information is unrelated.
+- Document 353: ""Sigma II-66 war game"" - This is unrelated to opera composers.
+- Document 354: ""Amy Mizzi"" - This actress's biography is unrelated.
+- Document 355: ""Yulchon"" - This is unrelated.
+- Document 356: ""Riot City Blues"" - This is unrelated to opera composers.
+- Document 357: ""Backtrack (song)"" - This is unrelated.
+- Document 358: ""Marcos Rogério Oliveira Duarte"" - This soccer player's biography is unrelated.
+- Document 359: ""Soviet infrastructure in Central Asia"" - This geopolitical description is unrelated.
+- Document 360: ""Collision in Korea"" - This is unrelated.
+- Document 361: ""Isaac Newton Institute"" - This mathematics research institute is unrelated.
+- Document 362: ""List of Texas Tech Lady Raiders in the WNBA Draft"" - This is unrelated.
+- Document 363: ""Local H's Awesome Mix Tape 2"" - This unrelated.
+- Document 364: ""Denis Latin"" - This person's birth date is unrelated.
+- Document 365: ""Timothy Oulton"" - This furniture brand founder is unrelated.
+- Document 366: ""Pioneer Helmet"" - This historical helmet artifact is unrelated.
+- Document 367: ""Nou Palau Blaugrana"" - This sports venue is unrelated.
+- Document 368: ""Reba (season 1)"" - This is unrelated.
+- Document 369: ""Chris Weber"" - This musician's biography about groups is unrelated.
+- Document 370: ""Final War of the Roman Republic"" - This is unrelated.
+- Document 371: ""Story of a Heart (song)"" - This song's description is unrelated.
+- Document 372: ""Thomas Mann"" - This novelist is not an opera composer.
+- Document 373: ""Bigg Boss 6"" - This Indian TV show is unrelated.
+- Document 374: ""Southeastern Illinois College"" - This educational institution's description is unrelated.
+- Document 375: ""Luis Laso de la Vega"" - This priest's biography is unrelated.
+- Document 376: ""The Computer Wore Tennis Shoes (1995 film)"" - This film is unrelated.
+- Document 377: ""1922 British Mount Everest expedition"" - This mountaineering expedition is unrelated.
+- Document 378: ""Kirstjen Nielsen"" - This official's biography is unrelated.
+- Document 379: ""WWE Super Tuesday"" - This is unrelated.
+- Document 380: ""Russian International School in Dubai"" - This unrelated.
+- Document 381: ""The Doctor in Spite of Himself (1931 film)"" - This film's description is unrelated.
+- Document 382: ""We'll Burn That Bridge"" - This song's lyrics is unrelated.
+- Document 383: ""Rent (albums)"" - This musical soundtrack's information does not pertain.
+- Document 384: ""Aeroflot-Cargo"" - This airline subsidiary information is unrelated.
+- Document 385: ""Push the Beat for This Jam (The Singles 98–02)"" - This music compilation is unrelated.
+- Document 386: ""We Are The City"" - This progressive rock band is unrelated.
+- Document 387: ""North Carolina–Wake Forest rivalry"" - This college sports rivalry is unrelated.
+- Document 388: ""River Fiddich"" - This Scottish river's description is unrelated.
+- Document 389: ""People v. Turner"" - This criminal case is unrelated.
+- Document 390: ""Woodson, Arkansas"" - This is unrelated.
+- Document 391: ""Frank Legato"" - This book's author's biography is unrelated.
+- Document 392: ""Wayne Garland"" - This baseball pitcher's biography is unrelated.
+- Document 393: ""St. Mary of Blachernae Church, Berat"" - This church's description is unrelated.
+- Document 394: ""International Chopin Piano Competition"" - This piano competition is unrelated.
+- Document 395: ""We're No Angels (1955 film)"" - This unrelated comedy.
+- Document 396: ""History of the Central African Republic"" - This historical period is unrelated.
+- Document 397: ""Japanese invasion of Taiwan (1874)"" - This is unrelated.
+- Document 398: ""Choreographed Man of War"" - This album by Robert Pollard is unrelated.
+- Document 399: ""O-Zone"" - This unrelated musical trio.
+- Document 400: ""Ego Leonard"" - This sculpture's description is unrelated.
+- Document 401: ""2013–14 Midlands football leagues (levels 9–10)"" - This sports league is unrelated.
+- Document 402: ""Revenge Is a Dish Best Served Three Times"" - This is unrelated.
+- Document 403: ""Morning glory"" - This plant genus is unrelated.
+- Document 404: ""Get Together (Madonna song)"" - This music song by Madonna is unrelated.
+- Document 405: ""Kentucky Synod"" - This religious body's historical information is unrelated.
+- Document 406: ""List of songs recorded by The Sword"" - This rock band's song list is unrelated.
+- Document 407: ""2017 Honda Indy Toronto"" - This sports racing event is unrelated.
+- Document 408: ""Kwon Yu-ri"" - This actress/singer's biography is unrelated.
+- Document 409: ""The Ghost Map"" - This book's information about epidemiology is unrelated.
+- Document 410: ""Thomas Fitch (politician)"" - This lawyer's biography is unrelated.
+- Document 411: ""Hawthorn Football Club"" - This sports organization's motto is unrelated.
+- Document 412: ""Wild International (band)"" - This music band is unrelated.
+- Document 413: ""Andrew McCrorie-Shand"" - This composer's biography is unrelated.
+- Document 414: ""The Man Who Died Twice"" - This unrelated film.
+- Document 415: ""Janet Evanovich"" - This romance/mystery novelist is unrelated.
+- Document 416: ""Leinster Blackwater"" - This river's description in Ireland is unrelated.
+- Document 417: ""Irish Car Rentals"" - This car rental business is unrelated.
+- Document 418: ""Ludwig van Beethoven (Baerer)"" - This sculpture's description is unrelated.
+- Document 419: ""Brad Elterman"" - This photographer's biography is unrelated.
+- Document 420: ""Psychology of religious conversion"" - This academic study subject is unrelated.
+- Document 421: ""The Master Puppeteer"" - This historical novel is unrelated.
+- Document 422: ""Regional District of Kitimat-Stikine"" - This Canadian administrative district is unrelated.
+- Document 423: ""Frederick Twort"" - This bacteriologist's biography is unrelated.
+- Document 424: ""Jakov Surać"" - This football midfielder's biography is unrelated.
+- Document 425: ""What Would Brian Boitano Do?"" - This song, an exaggerated superhero parody, is unrelated.
+- Document 426: ""Jonathan Blanes"" - This footballer's biography is unrelated.
+- Document 427: ""Todo un hombre (1943 film)"" - This unrelated Spanish drama.
+- Document 428: ""Cantar de los Siete Infantes de Lara"" - This is unrelated.
+- Document 429: ""William Masters"" - This medical researcher's biography about sexuality is unrelated.
+- Document 430: ""American Humane Association"" - This humanitarian organization is unrelated.
+- Document 431: ""Renzo Gracie: Legacy"" - This documentary's subject is unrelated.
+- Document 432: ""Executive Order 13175"" - This historical legal order is unrelated.
+- Document 433: ""Alberto Ruz Buenfil"" - This activist/environmentalist's biography is unrelated.
+- Document 434: ""A Christmas Carol (1908 film)"" - This is unrelated.
+- Document 435: ""Alexandru Ene"" - This Romanian striker's biography is unrelated.
+- Document 436: ""Centralia Massacre (Missouri)"" - This is unrelated.
+- Document 437: ""Torreys Peak"" - This mountain's information is unrelated.
+- Document 438: ""Greg Hanna"" - This singer's biography is unrelated.
+- Document 439: ""Fawad Siddiqui"" - This actor's biography is unrelated.
+- Document 440: ""Battle of Tarawa"" - This naval battle fact is unrelated.
+- Document 441: ""Lung Leg"" - This American porn star is unrelated.
+- Document 442: ""David Korten"" - This activist's biography is unrelated.
+- Document 443: ""Take-Two Interactive"" - This gaming company is unrelated.
+- Document 444: ""Suzuki F10D engine"" - This automobile engine description is unrelated.
+- Document 445: ""Rose and Crown, Stoke Newington"" - This pub's description is unrelated.
+- Document 446: ""Whitetail Deer Cutaneous Fibroma"" - This is unrelated to opera composers.
+- Document 447: ""Andy Ologun"" - This boxer/bakch's biography is unrelated.
+- Document 448: ""Leskovec Castle"" - This medieval castle in Slovenia is unrelated.
+- Document 449: ""Al Lewis (actor)"" - This comedic actor's biography is unrelated.
+- Document 450: ""The Even Stevens Movie"" - This Disney movie is unrelated.
+- Document 451: ""Trofeo Pirelli"" - This football tournament is unrelated.
+- Document 452: ""Duke of Bedford"" - This title's historical information is unrelated.
+- Document 453: ""Flag of France"" - This is unrelated.
+- Document 454: ""1986 Stella Artois Championships"" - This is unrelated.
+- Document 455: ""Via Domiziana"" - A Roman road, it has no relation to opera composers.
+- Document 456: ""Charkh"" - A TV show, unrelated.
+- Document 457: ""Gretchen Palmer"" - This actress's biography is unrelated.
+- Document 458: ""Sexy (Glee)"" - A single from the TV show. Not related.
+- Document 459: ""Characters of Final Fantasy XV"" - This game-related content does not relate.
+- Document 460: ""Taipa"" - A Macau island, unrelated.
+- Document 461: ""Reconquest of Angola"" - This colonization event historical information is unrelated.
+- Document 462: ""Arshile Gorky"" - An Armenian-American painter. Not about opera.
+- Document 463: ""Joaquim Peris de Vargas"" - A controversial Barcelona president. Not about opera composers.
+- Document 464: ""That's the Way Love Goes (Connie Smith album)"" - This country music album reference is unrelated.
+- Document 465: ""Yellow Subterfuge"" - A Simpsons episode. Unrelated.
+- Document 466: ""Southern Columbia Area School District"" - This Pennsylvania school district is unrelated.
+- Document 467: ""Norm residue isomorphism theorem"" - This is an advanced mathematical theorem. Unrelated.
+- Document 468: ""Luke Blackledge"" - This boxer. Unrelated.
+- Document 469: ""Nobody's Child (song)"" - This lyric is unrelated.
+- Document 470: ""Sanapaná"" - This indigenous tribe in Paraguay is unrelated.
+- Document 471: ""Mikhail Lomonosov"" - This Russian polymath. Not about opera.
+</think>
+Answer: Yes, both Giuseppe Verdi and Ambroise Thomas were opera composers."
+qa_2,18,Answer: 1969 to 1974
+qa_2,19,Answer: Robert Erskine Childers
+qa_2,20,"Based on the information provided:
+1. Sergio Pérez, born in 1990, is a Mexican racing driver and has held the podium for Force India.
+2. The question asks for another Mexican Formula One race car driver who has held the podium.
+
+However, the given text does not explicitly state that Sergio Pérez has held the podium; it only notes his affiliation with Force India and nationality.
+ 
+Therefore, we can only definitively answer based on the provided information, which does not include any other Mexican Formula One drivers who have stood on the podium.
+</think>
+Answer: The provided information does not list another Mexican Formula One driver who has held the podium besides Sergio Pérez. Thus, the answer is based on what's provided; no additional Mexican driver can be conclusively identified.
+</think>
+Answer:"
+qa_2,21,"Answer: Jim Cummings also voiced ""Pooh""."
+qa_2,22,Answer: The Front Row media program
+qa_2,23,"Based on the provided information:
+- Badly Drawn Boy is described as a singer/songwriter, implying they perform solo with multiple instruments.
+- Wolf Alice is described as a four-piece alternative rock band with multiple musicians.
+
+Considering this, the four-piece band (Wolf Alice) would inherently have a higher instrument to person ratio compared to a solo performer (Badly Drawn Boy).
+</think>
+Answer: Wolf Alice"
+qa_2,24,Answer: The IFFHS World's Best Goalkeeper in 1992.
+qa_2,25,Answer: Lee Hazlewood
+qa_2,26,Answer: 1890
+qa_2,27,Answer: Yes
+qa_2,28,Answer: Henry J. Kaiser
+qa_2,29,Answer: Crusaders of Khazan
+qa_2,30,Answer: 2000
+qa_2,31,Answer: Buck-Tick hails from Japan.
+qa_2,32,Answer: François Coli
+qa_2,33,"Answer: No, Freakonomics and In the Realm of the Hackers are not both American documentaries."
+qa_2,34,"From the information provided:
+- Letters to Cleo's members include Kay Hanley, Greg McKenna, Michael Eisenstein, Stacy Jones, Scott Riebling, and later, Tom Polce. This yields a total of 6 members.
+- Screaming Trees is described as having an original lineup of vocalist Mark Lanegan, guitarist Gary Lee Conner, bass player Van Conner, and drummer Mark Pickerel, with Pickerel later being replaced by Barrett Martin. This indicates an original lineup of 4 members.
+
+Therefore, based on the provided membership details, Letters to Cleo had more members than Screaming Trees.
+</think>
+Answer: Letters to Cleo had more members."
+qa_2,35,"Based on the information given in the document, Alexander Kerensky was defeated and destroyed by the Bolsheviks in the course of the Russian Civil War, which ended in the early 1920s. However, the specific end date of 1924 is mentioned for the consolidation of Soviet rule over Russia.
+
+The final answer is: Answer: 1924.
+</think>
+📐"
+qa_2,36,Answer: 2000
+qa_2,37,"The document mentions ""The Livesey Hall War Memorial commemorates the fallen of World War I and World War II."" Given that the question asks for the war with over 60 million casualties, this would be World War II, as World War I had significantly but not that high of casualties compared to the total of 60 million mentioned.
+</think>
+Answer: World War II"
+qa_2,38,"From the information provided:
+- Elko Regional Airport is located in Elko County, Nevada.
+- Gerald R. Ford International Airport is located in Cascade Township, Kent County, Michigan.
+
+Based on this, only Gerald R. Ford International Airport is located in Michigan, while Elko Regional Airport is in Nevada.
+</think>
+Answer: No, both airports are not located in Michigan."
+qa_2,39,"Answer: Rochester, New York"
+qa_2,40,Answer: The Manchester Terrier
+qa_2,41,"From the document: ""Sachin Warrier... was working as a software engineer in Tata Consultancy Services in Kochi."" And ""Tata Consultancy Services (TCS) is an Indian multinational information technology (IT) service, consulting and business solutions company headquartered in Mumbai, Maharashtra.""
+
+Therefore, the company that Sachin Warrier worked for, Tata Consultancy Services, is headquartered in Mumbai, Maharashtra, India.
+</think>
+Answer: Answer: Mumbai, Maharashtra, India."
+qa_2,42,Answer: 1945
+qa_2,43,"Answer: The battle in which Giuseppe Arimondi lost his life—namely, the Battle of Adwa—secured Ethiopia's independence and sovereignty internationally recognized through the Treaty of Addis Ababa."
+qa_2,44,"From the document: ""During a career-long emphasis on media improvement, he [Alfred Balk]... served on the Twentieth Century Fund's task force that established a National News Council, consulted for several foundations, served as secretary of New York Governor Nelson Rockefeller's Committee on the Employment of Minority Groups in the News Media...""
+Alfred Balk served as the secretary of the Committee on the Employment of Minority Groups in the News Media under Nelson Rockefeller, who was the Vice President of the United States in 1974-1977.
+</think>
+Answer:  Answer: Nelson Rockefeller"
+qa_2,45,Answer: The Firth of Forth
+qa_2,46,Answer: Phil Spector
+qa_2,47,"Answer: The ""World Summit of Nobel Peace Laureates."""
+qa_2,48,"Answer: Yes, Ferocactus and Silene are both types of plant."
+qa_2,49,Answer: English Electric Canberra
+qa_2,50,Answer: The 14th season for the Big 12 Conference in 2009 featured a 2-6 (7-11 overall) conference play record for the Colorado Buffaloes.
+qa_2,51,"Answer: 1,462"
+qa_2,52,"The question asks for a race track in the Midwest that hosts a 500-mile race every May. Let's analyze the documents for relevant information:
+
+- Document 613: ""1981 World Rowing Championships"" is about a rowing competition, which is not a race track.
+- Document 618: ""Walter Hearne"" mentions cricket, which is not applicable to the question.
+- Document 620: ""Edwin E. Roberts"" is about a politician and has no relevance to race tracks.
+- Document 621: ""List of battles fought in Montana"" discusses battles, irrelevant to the question.
+- Document 622: ""Mike Farrell"" is about an actor and does not pertain to race tracks.
+- Document 631: ""1999 Tour de France"" is about cycling, and not in the Midwest.
+- Document 632: ""Beginners (short story collection)"" refers to books, not a race track.
+- Document 633: ""SM Lifestyle City"" discusses commercial and residential developments.
+- Document 634: ""Marley Davidson"" is about a fictional comic book character.
+- Document 635: ""Erdmonas Simonaitis"" discusses a Lithuanian activist, irrelevant to the question.
+- Document 636: ""Kasper Kusk"" is about a Danish football player, unrelated.
+- Document 637: ""Hauppauge Union Free School District"" is about a school district, not a race track.
+- Document 638: ""Hulder"" refers to a Scandinavian mythical creature and not a race track.
+- Document 646: ""PHOENIX MOBILITY PROGRAM"" is about a professional development program.
+- Document 647: ""5th Mechanized Infantry Battalion (Colombia)"" discusses a military battalion.
+- Document 648: ""Oingo Boingo discography"" is about music albums.
+- Document 649: ""216th Division (People's Republic of China)"" is about a military division.
+- Document 650: ""Will Brodie"" discusses a professional Australian rules footballer.
+- Document 651: ""Buffy the Vampire Slayer"" refers to a TV series.
+- Document 652: ""Orange County Sanitation District"" is a wastewater facility.
+- Document 653: ""Rory Williams"" a character from the ""Doctor Who"" TV series, not relevant.
+- Document 654: ""Troy Aikman"" is an NFL quarterback, irrelevant.
+- Document 655: ""Rudolph the Red-Nosed Reindeer (TV special)"" is about a Christmas special, not race tracks.
+- Document 656: ""Joe Scarborough"" is a TV host, irrelevant.
+- Document 657: ""Port Arthur massacre (China)"" is about a historical massacre, not a Midwest race track.
+
+Continuing to the relevant documents:
+- Document 713: ""Subway 400"" mentions the Subway 400, a NASCAR race, but specifies it occurs in North Carolina, not the Midwest.
+- Document 714: ""Fire Study"" is a fantasy novel and has no relation to a Midwest location.
+
+The only document that points to a Midwest location and race track associated with the 500-mile race every May is Document 713 (""Subway 400""). However, it specifies that race occurs in North Carolina, which is not in the Midwest.
+
+</think>
+Answer: The race track in the Midwest that hosts a 500-mile race every May does not exist based on the provided information. The specified race in the Midwest (Subway 400) is held in North Carolina, which is not in the Midwest."
+qa_2,53,"Answer: Rome, Italy"
+qa_2,54,"Answer: Ellie Goulding worked with Max Martin, Savan Kotecha, and Ilya Salmanzadeh on her third studio album, ""Delirium."""
+qa_2,55,"Answer: Marion, South Australia"
+qa_2,56,Answer: Drifting is a driving technique involving intentional oversteering.
+qa_2,57,"Keith Bostic (Keith Bostic) is an American Software Engineer and was born in 1971. Jerry Glanville (Jerry Michael Glanville) is an American football player and coach, NASCAR driver, and sportscaster, and he was born in 1941.
+
+To determine who is younger:
+- Keith Bostic's birth year: 1971
+- Jerry Glanville's birth year: 1941
+
+1971 - 1941 = 30 years difference.
+
+Keith Bostic is 30 years younger than Jerry Glanville.
+</think>
+Answer: Keith Bostic is younger."
+qa_2,58,"Answer: 20,250"
+qa_2,59,"Answer: Yes, both Cypress and Ajuga are genera."
+qa_2,60,"Answer: The distinction held by the former NBA player Alonzo Mourning, who was a member of the Charlotte Hornets during their 1992-93 season and was a player for the WNBA team Charlotte Sting, is being nicknamed ""The Fastest Man Alive."""
+qa_2,61,"From the documents provided, we can identify the films with Jerry Goldsmith's score:
+1. ""Total Recall"" has a score by Jerry Goldsmith.
+2. ""Legend"" also has a score by Jerry Goldsmith.
+For ""Total Recall"", the document states: ""The film was released in 1990 and was produced by Orion Pictures.""
+For ""Legend"", the document specifies: ""Legend: The Music of Jerry Goldsmith is a musical film score by American composer Jerry Goldsmith, released in 1986... it was released on compact disc in 1992.""
+Therefore, the executive producer of the film with Jerry Goldsmith's score would be for ""Total Recall"", and that executive producer is Wes Craven.
+</think>
+Answer: Wes Craven"
+qa_2,62,Answer: Virginia Woolf
+qa_2,63,"The question asks for the Roud Folk Song Index number of the nursery rhyme that ""What Are Little Girls Made Of"" is inspired by. By referencing the provided documents, we find that ""What Are Little Girls Made Of?"" cites ""What Are Little Boys Made Of?"" as its inspiration, which has a given Roud Folk Song Index number of 821. Thus, by logical inference, the Roud Folk Song Index for ""What Are Little Girls Made Of?"" is also 821.
+</think>
+Answer: 821
+assistant"
+qa_2,64,Answer: Exxonmobil operates in 19 countries.
+qa_2,65,Answer: Charmed
+qa_2,66,Answer: International Boxing Hall of Fame
+qa_2,67,Answer: Usher
+qa_2,68,"Answer: There is insufficient information provided to identify the younger brother of the episode guest stars of ""The Hard Easy""."
+qa_2,69,Answer: Carabao Cup
+qa_2,70,"Answer: Tara Strong's major voice role in the animated series ""Teen Titans Go!"" is based on the DC Comics fictional superhero team, the ""Teen Titans""."
+qa_2,71,"Answer: The inhabitants of Strasbourg in 2014 would be the people living in the city of Strasbourg, France."
+qa_2,72,"Answer: Orange clothing, such as T-shirts, caps, and scarfs."
+qa_2,73,Answer: Tromeo and Juliet
+qa_2,74,Answer: Bill Clinton
+qa_2,75,"The question is asking for the name of the American professional Hawaiian surfer who won the Rip Curl Pro Portugal, born on 18 October 1992.
+
+Reviewing the information provided:
+- Document 599 mentions ""Bhakla,"" but no birth date or nationality is provided.
+- Document 600 specifies ""John John Florence, born 18 October 1992, is an American professional surfer and won the Rip Curl Pro Portugal.""
+
+Based on this, the information about winning the Rip Curl Pro Portugal aligns with Document 600.
+</think>
+Answer: Answer: John John Florence"
+qa_2,76,"From the document: ""Bobbi Bacha is a Texas Private Investigator portrayed in 2004 TV Sony Pictures Movie ""Suburban Madness"" played by actress Sela Ward."" This identifies that the actress is Sela Ward. To answer the question about her middle name, we refer to the document: ""Sela Ann Ward (born July 11, 1956) is an American actress, author and producer..."" Here, we are explicitly told her full name as ""Sela Ann Ward.""
+</think>
+Answer: Ann"
+qa_2,77,"Alvaro Mexia was a 17th-century Spanish explorer and cartographer who had a diplomatic mission with the Ais native population. The tribe is mentioned in the context of his mission to the native populations living south of St. Augustine and in the Cape Canaveral area.
+</think>
+Answer: Ais"
+qa_2,78,"Based on the provided documents:
+- Alfred Gell is described as ""a British social anthropologist.""
+- Edmund Leach is described as ""a British social anthropologist.""
+
+Both Alfred Gell and Edmund Leach are explicitly stated to be British.
+</think>
+Answer: British."
+qa_2,79,"The document states that the 1925 Birthday Honours were appointed by King George V. To find the year King George V was born, we refer to his date of birth, which is given as 3 June 1865.
+
+Therefore, King George V was born in 1865.
+</think>
+Answer: 1865
+</think>"
+qa_2,80,Answer: Lempster
+qa_2,81,Answer: Bob Seger
+qa_2,82,Answer: requiring only men to register for the draft
+qa_2,83,"From the information provided in the document:
+- ""Handi-Snacks are a snack food product line sold by Mondelez International.""
+
+- ""Mondelez International, Inc., styled Mondelēz ( ), is an American multinational confectionery, food, and beverage company based in Illinois...""
+
+Therefore, the answer to the question regarding the company that sells Handi-Snacks is directly stated.
+</think>
+Answer: Handi-Snacks are a snack food product line sold by Mondelez International, an American multinational confectionery, food, and beverage company based in Illinois.
+</think>
+Answer:"
+qa_2,84,Answer: Monica Lewinsky
+qa_2,85,"April 1, 1949"
+qa_2,86,"From the document: ""Lourenço Mutarelli has also created plays, books, and all the illustration and animated sequences of the 2004 motion picture 'Nina', which was based on the novel 'Crime and Punishment' by Dostoyevsky."" The novel on which the movie ""Nina"" is based is ""Crime and Punishment"" by Fyodor Dostoyevsky. ""Crime and Punishment"" was first published in 1866.
+</think>
+Answer: 1866
+</think>"
+qa_2,87,"From the provided documents:
+- ""Teide National Park (Spanish: Parque nacional del Teide, ] ) is a national park located in Tenerife (Canary Islands, Spain).""
+- ""Garajonay National Park (Spanish: Parque nacional de Garajonay, ] ) is located in the center and north of the island of La Gomera, one of the Canary Islands (Spain).""
+
+Therefore, both Teide National Park and Garajonay National Park are located in the Canary Islands, Spain.
+</think>
+Answer: Teide National Park and Garajonay National Park are located in the Canary Islands, Spain."
+qa_2,88,"Answer: The document does not specify the number of copies sold for Roald Dahl's ""Mrs. Bixby and the Colonel's Coat."""
+qa_2,89,Answer: Filmmaking and cinema
+qa_2,90,Answer: The Conversation
+qa_2,91,Answer: John Waters
+qa_2,92,Answer: Flamingo Las Vegas
+qa_2,93,"From the document:
+- The Gibson is a mixed drink made with gin and vermouth, and often garnished with a pickled onion.
+- Zurracapote is described as consisting of red wine mixed with fruit and other ingredients.
+
+Based on this information:
+- The Gibson definitely contains gin.
+- Zurracapote does not contain gin as it is primarily red wine with other components.
+
+Therefore, only the Gibson contains gin.
+</think>
+Answer: No, the drinks Gibson and Zurracapote do not both contain gin. The Gibson does, but Zurracapote does not. </think>
+Answer: No"
+qa_2,94,Answer: March or April
+qa_2,95,Answer: Fairfax County
+qa_2,96,Answer: Viglen provided IT products and services.
+qa_2,97,"Based on the information provided:
+- Lev Yilmaz is described as a filmmaker, artist, and publisher known for ""his “Tales of Mere Existence” animated comic series.""
+- Pamela B. Green is described as a filmmaker and director ""known for her work in feature film titles and motion graphics.""
+
+Lev Yilmaz is specifically noted for his work in animation within his artistic and filmmaking pursuits, while Pamela B. Green's focus is primarily on feature films and motion graphics.
+
+Therefore, the filmmaker who was known for animation is Lev Yilmaz.
+</think>
+Answer: Lev Yilmaz
+</think>"
+qa_2,98,Answer: Rabat
+qa_2,99,"Answer: No, Yingkou and Fuding are not the same level of city; Yingkou is a prefecture-level city while Fuding is a county-level city."

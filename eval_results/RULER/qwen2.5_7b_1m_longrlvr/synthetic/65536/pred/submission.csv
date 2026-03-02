@@ -1,0 +1,285 @@
+Task,ID,Prediction
+qa_1,0,Answer: Normandy is located in France.
+qa_1,1,Answer: The Normans were in Normandy from the early 10th century through the 11th century.
+qa_1,2,"Answer: The Norse originated from Denmark, Iceland, and Norway."
+qa_1,3,Answer: The Norse leader was Rollo.
+qa_1,4,Answer: The 10th century
+qa_1,5,"The question is about the duke in the battle of Hastings. From the given documents, it states ""In 1066, Duke William II of Normandy conquered England killing King Harold II at the Battle of Hastings."" This sentence reveals that Duke William II of Normandy, who is also historically known as William the Conqueror, was the duke involved in the Battle of Hastings.
+
+Based on this information, we can conclude that Duke William II of Normandy was the duke in the battle of Hastings.
+
+Final answer: Answer: Duke William II of Normandy
+</think>"
+qa_1,6,"Answer: The Duchy of Normandy was ruled by various Norman leaders and their descendants, notably including Rollo initially, and later by William the Conqueror, and his successors, who held concurrent rule over the Duchy and the English throne following the Norman conquest of England in 1066."
+qa_1,7,Answer: The Normans initially followed Norse/Old Norse religion but later converted to Catholicism (Christianity).
+qa_1,8,"Answer: The original meaning of the word ""Norman"" is ""Norseman"" or ""Viking,"" referring to people from northern Europe, specifically those from Normandy."
+qa_1,9,"Answer: The Latin version of the word ""Norman,"" variably as ""Nortmannus,"" ""Normannus,"" or ""Nordmannus,"" was first recorded in Medieval Latin in the 9th century."
+qa_1,10,Answer: The Duchy of Normandy was founded in 911.
+qa_1,11,"The question asks for the party that Rollo signed the Treaty of Saint-Clair-sur-Epte with. According to the relevant document, ""The treaty offered Rollo and his men the French lands... in exchange for their protection against further Viking incursions."" Here, the ""French"" referred to are the Franks, and specifically, a king of the Franks, King Charles III of West Francia. Thus, the treaty was signed with King Charles III of West Francia, also known as Charles the Simple.
+
+Therefore, the answer is derived from the context indicating that it was with King Charles III of West Francia.
+</think>
+Answer: Rollo signed the Treaty of Saint-Clair-sur-Epte with King Charles III of West Francia (Charles the Simple)."
+qa_1,12,Answer: The River Epte originally bounded the Duchy of Normandy.
+qa_1,13,"Answer: Rollo and his contingents, including Danes, Norwegians, Norse–Gaels, Orkney Vikings, possibly Swedes, and Anglo-Danes, upon arriving and establishing settlements, gave a common cultural and ethnic identity to the region, thereby unifying the various settlers under the term ""Norman."""
+qa_1,14,"Answer: The Norman religion evolved from Norse paganism to Christianity, blending Norse and Frankish traditions into a unique ""Norman"" cultural and religious identity that eventually became predominantly Catholic."
+qa_1,15,"Answer: The Normans were located in the northern part of present-day Upper Normandy, between the river Epte and the Atlantic coast."
+qa_1,16,"Answer: One of the Norman's major exports was agricultural products and possibly luxury crafts, given their involvement in trade and colonization efforts."
+qa_1,17,"Answer: The main enemies of the Normans in Italy, the Byzantine Empire, and Armenia were the Pechenegs, Bulgars, and, especially, the Seljuk Turks."
+qa_1,18,Answer: Herve served as a Byzantine general in the 1050s.
+qa_1,19,Answer: The 1060s
+qa_1,20,Answer: The Byzantine general Alexius Komnenos ruined Roussel de Bailleul's plans for an independent state.
+qa_1,21,"The question asks for the name of a Norman castle. Examining the provided documents, several instances of Norman castles are mentioned, including ""Afranji, meaning ""Franks,"""" and ""castle:rophs like Mont-Saint-Michel, Fécamp, Jumièges, Bec, Saint-Ouen, Saint-Evroul, and Saint-Wandrille."" Additionally, a specific castle named ""Bayeux Tapestry"" is referenced, but it is known that the Bayeux Tapestry is embroidered art, not a castle. Among the instances, ""Afranji"" is explicitly stated to have been the name of a castle led by ""Franks"" (Normans) in the upper Euphrates valley in northern Syria. Therefore, the answer to the question concerning the name of a Norman castle is ""Afranji.""
+</think>
+<useful_chunks>
+<CHUNK_42> <CHUNK_301> <CHUNK_303> <CHUNK_315> <CHUNK_316>
+</useful_chunks>
+Answer:  Afranji"
+qa_1,22,Answer: The leader when the Franks entered the Euphrates valley was Oursel.
+qa_1,23,"Answer: The Normans teamed up with the Armenians in Anatolia, specifically in the upper Euphrates valley, Cilicia, and the Taurus Mountains."
+qa_1,24,Answer: The Raoulii family was descended from an Italo-Norman named Raoul.
+qa_1,25,Answer: Robert Guiscard
+qa_1,26,Answer: Dyrrachium fell to the Normans in 1082.
+qa_1,27,Answer: The provided documents do not specify the exact number of men in Robert's army.
+qa_1,28,Answer: The Normans and Byzantines signed the peace treaty in the city of Deabolis.
+qa_1,29,Answer: Bohemond
+qa_1,30,Answer: Petrela was located by the river Deabolis.
+qa_1,31,Answer: The Normans attacked Dyrrachium in 1081 and again in 1085.
+qa_1,32,The naval base was initially named as Fort Caroline.
+qa_1,33,Dyrrachium was located on the southern shores of Albania and acted as an important naval base and strategic location within the Adriatic region during medieval times.
+qa_1,34,Answer: Emma married King Ethelred II of England.
+qa_1,35,Answer: Duke Richard II of Normandy
+qa_1,36,Answer: Ethelred fled to Normandy.
+qa_1,37,"Based on the information provided in the document, Ethelred fled to Normandy in 1013, when he was forced from his kingdom by Sweyn Forkbeard.
+
+Final answer: Sweyn Forkbeard kicked (forced out) Ethelred.
+</think>
+Answer: Sweyn Forkbeard"
+qa_1,38,Answer: Harthacnut
+qa_1,39,Answer: Edward returned in 1041.
+qa_1,40,Edward made Robert of Jumièges archbishop of Canterbury.
+qa_1,41,Answer: Harold II died at the Battle of Hastings.
+qa_1,42,Answer: Duke William II of Normandy killed Harold II.
+qa_1,43,Answer: The Battle of Hastings occurred in 1066.
+qa_1,44,Answer: The ruling class ahead of the Normans was the Anglo-Saxons.
+qa_1,45,"Answer: The final form of the Anglo-Norman language became a component of Middle English, incorporating influences from Norse and Latin, thus evolving into the subsequent linguistic structure."
+qa_1,46,The Norman's invaded at Bannow Bay in 1169.
+qa_1,47,Answer: Ireland
+qa_1,48,"Answer: The Normans combined their culture with Irish culture in Ireland, ultimately becoming ""more Irish than the Irish themselves."""
+qa_1,49,Answer: Edgar Atheling
+qa_1,50,"From the document: ""King Malcolm III of Scotland married Edgar's sister Margaret, and came into opposition to William who had already disputed Scotland's southern borders. William invaded Scotland in 1072, riding as far as Abernethy where he met up with his fleet of ships. Malcolm submitted, paid homage to William and surrendered his son Duncan as a hostage..."" 
+
+We can infer that ""William"" here refers to William the Conqueror. Therefore, Margaret's husband was King Malcolm III of Scotland.
+</think>
+Answer: Margaret's husband was King Malcolm III of Scotland."
+qa_1,51,Answer: The provided information does not specify when Scotland was invaded by William.
+qa_1,52,Answer: Duncan
+qa_1,53,Answer: Sybilla of Normandy
+qa_1,54,Answer: Norman
+qa_1,55,Answer: Ralph was earl of Hereford.
+qa_1,56,"Ralph is mentioned in the context of being Earl of Hereford and associated with Edward the Confessor's appointment of Norman counselors and fighters. The document specifies his role but does not detail specific wars he was in charge of. Therefore, based on the information provided, Ralph was in charge of being Earl of Hereford, which implies he was overseeing the administrative and possibly military control of that region on behalf of Edward the Confessor.
+</think>
+Answer: Ralph was in charge of being Earl of Hereford."
+qa_1,57,Answer: Edward the Confessor made Ralph the Earl of Hereford.
+qa_1,58,Answer: England
+qa_1,59,Answer: 1018
+qa_1,60,Answer: William of Montreuil
+qa_1,61,Answer: The Siege of Antioch took place in 1097.
+qa_1,62,Answer: Tancred
+qa_1,63,"From the document provided, it is stated that ""Tancred was instrumental in the conquest of Jerusalem and he worked for the expansion of the Crusader kingdom in Transjordan and the region of Galilee."" This sentence indicates that Tancred played a crucial role in the conquest of Jerusalem and was also involved in extending the Crusader kingdom.
+
+Final answer based on the information provided: Answer: Tancred played a roll in the conquest of Jerusalem and in the expansion of the Crusader kingdom in Transjordan and the region of Galilee.
+</think>
+:"
+qa_1,64,Answer: Western Europe controlled Cyprus for 380 years.
+qa_1,65,"Answer: A storm dispersed Richard's fleet, preventing him from reaching Acre directly."
+qa_1,66,Answer: Richard's fiancée was Berengaria.
+qa_1,67,Answer: The year when the storm hit Richard's fleet is not specified in the provided documents.
+qa_1,68,Answer: Richard the Lion-hearted (Richard I of England) ruled Cyprus in 1191.
+qa_1,69,Answer: Conrad of Montferrat
+qa_1,70,Answer: Isaac's chains were made out of silver.
+qa_1,71,Richard de Camville and Robert de Thornham led Richard's troops when Cyprus was conquered.
+qa_1,72,Answer: The Canarian Islands are off the coast of Africa.
+qa_1,73,Answer: Bethencourt.
+qa_1,74,"Answer: Enrique Pérez de Guzmán, 2nd Count de Niebla bought the rights."
+qa_1,75,Answer: Jean's nephew Maciot de Bethencourt sold the rights.
+qa_1,76,"Answer: Jersey and Guernsey are located in the English Channel, near the northwest coast of France."
+qa_1,77,Answer: Two customaries.
+qa_1,78,"Answer: Norman architecture is noted for its use of rounded arches, distinctive structures like keeps, and massive proportions, influencing architectural styles in England, Italy, and other subdued regions."
+qa_1,79,"Answer: Norman architecture has rounded arches, particularly over windows and doorways."
+qa_1,80,Answer: Early Gothic
+qa_1,81,"Based on the information provided in the documents, Norman architecture in England succeeded Anglo-Saxon and precedes Early Gothic architecture. Therefore, the architecture type that came before Norman in England would be Anglo-Saxon.
+</think>
+Answer: Anglo-Saxon
+</think>"
+qa_1,82,"Answer: The Norman Arab architectural style was present in southern Italy, particularly within the Kingdom of Sicily."
+qa_1,83,Answer: The church reform began in the early 11th century.
+qa_1,84,Answer: The dukes of Normandy used the church to unify themselves.
+qa_1,85,"Based on the provided information in the document, the French Wars of Religion took place in the 16th century. This can be directly referenced from the statement: ""The French Wars of Religion in the 16th century and French Revolution in the 18th..."".
+
+Final answer formulation:
+Answer: The French Wars of Religion occurred in the 16th century.
+</think>"
+qa_1,86,"The Bayeux Tapestry is described in the document as ""a work of embroidery"" and was ""commissioned by Odo, the Bishop of Bayeux and first Earl of Kent, employing natives from Kent who were 'learned in the Nordic traditions imported in the previous half century by the Danish Vikings.'"" This indicates that the needlework technique used for creating the Bayeux Tapestry was embroidery.
+</think>
+Answer: The Bayeux Tapestry was made using embroidery needlework.
+</think>
+Answer: The Bayeux Tapestry was made using embroidery needlework.
+</answer>"
+qa_1,87,Answer: The most well-known piece of Norman art is the Bayeux Tapestry.
+qa_1,88,"Answer: Odo, the Bishop of Bayeux and first Earl of Kent"
+qa_1,89,"The most important type of Norman art preserved in churches is sculptured fonts, capitals, and mosaics."
+qa_1,90,Important classical music developments occurred in Normandy in the 11th century.
+qa_1,91,The two abbots at Fécamp Abbey were William of Volpiano and John of Ravenna.
+qa_1,92,Answer: The monks fled to southern Italy.
+qa_1,93,"Answer: The monks from Saint-Evroul monastery in Normandy, France, established the Latin monastery named Sant'Eufemia in southern Italy."
+qa_1,94,Answer: Robert Guiscard patronized the monks in Italy.
+qa_1,95,Answer: The monks from Saint-Evroul were known for a tradition of singing.
+qa_1,96,Answer: Computational complexity theory
+qa_1,97,Answer: The main attribute by which computational problems are classified in computational complexity theory is the amount of computational resources (such as time and space) needed to solve them.
+qa_1,98,Answer: computational problem
+qa_1,99,"The measure of a computational problem that broadly defines its inherent difficulty is its complexity, specifically its time and space requirements relative to an optimal or efficient algorithm."
+qa_2,0,"Answer: Yes, Scott Derrickson and Ed Wood were of the same nationality, which is American."
+qa_2,1,"There is insufficient information provided to answer the question regarding the government position held by Janet Waldo in ""Kiss and Tell""."
+qa_2,2,Answer: Animorphs
+qa_2,3,"Answer: No, the Laleli Mosque and Esma Sultan Mansion are not located in the same neighborhood."
+qa_2,4,Answer: New York City
+qa_2,5,Answer: YG Entertainment
+qa_2,6,"Eenasul Fateh, known by his stage name Aladin, is described as a Bangladeshi-British cultural practitioner, magician, and former international management consultant. Given these details, he helped organizations improve their performance by serving as a consultant.
+
+Based on the information provided, the relevant part of the question is about someone known by the stage name ""Aladin"" and who was a consultant. Eenasul Fateh matches this description.
+
+Thus, the person referred to in the question is Eenasul Fateh.
+</think>
+Answer: Eenasul Fateh
+</⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗ Aires"
+qa_2,7,"Answer: 4,000"
+qa_2,8,Answer: Terry Richardson
+qa_2,9,"Answer: Yes, both Local H and For Against are from the United States."
+qa_2,10,Answer: Kansas Song (We’re From Kansas)
+qa_2,11,Answer: David Weissman
+qa_2,12,Answer: 1999
+qa_2,13,"Answer: Yes, both Random House Tower and 888 7th Avenue are used for real estate."
+qa_2,14,"Answer: The football manager who recruited David Beckham, Alex Ferguson, managed Manchester United from 1986 to 2013."
+qa_2,15,Answer: 2.9 million inhabitants.
+qa_2,16,The Vermont Catamounts men's soccer team formerly competed in the North Atlantic Conference from 1988 to 1996.
+qa_2,17,"Answer: Yes, Giuseppe Verdi and Ambroise Thomas are both Opera composers."
+qa_2,18,Answer: 1969 to 1974
+qa_2,19,Answer: Henry Roth
+qa_2,20,Answer: Sergio Pérez
+qa_2,21,Answer: Jim Cummings
+qa_2,22,Answer: The other device that can control the program Apple Remote was originally designed to interact with is the Apple TV.
+qa_2,23,Answer: Wolf Alice
+qa_2,24,"Answer: The father of Kasper Schmeichel, Peter Schmeichel, was voted the IFFHS World's Best Goalkeeper in 1992."
+qa_2,25,Answer: Lee Hazlewood
+qa_2,26,Answer: 1838
+qa_2,27,"Answer: Yes, both Dictyosperma, and Huernia are described as a genus."
+qa_2,28,Answer: Edgar Fosburgh Kaiser Sr.
+qa_2,29,Answer: Crusaders of Khazan
+qa_2,30,"Answer: ""Shut Up, Make Love"" was released as a single from Poison's album ""Crack a Smile...and More!"" in 2000."
+qa_2,31,"From the information provided:
+- Document 298 states: ""Buck-Tick (stylized as BUCK-TICK) is a Japanese rock band...""
+This directly indicates that Buck-Tick is a Japanese rock band.
+Answer:  Answer: Buck-Tick hails from Japan. </think>
+</think>
+Answer:  Answer: Buck-Tick hails from Japan."
+qa_2,32,Answer: Charles Nungesser and François Coli
+qa_2,33,"Answer: No, Freakonomics and In the Realm of the Hackers are not both American documentaries."
+qa_2,34,"From the information provided:
+- Letters to Cleo consists of Kay Hanley, Greg McKenna, Michael Eisenstein, Stacy Jones, Scott Riebling, and later, Tom Polce. This amounts to at least 6 members.
+- Screaming Trees originally had four members: Mark Lanegan (vocalist), Gary Lee Conner (guitarist), Van Conner (bassist), and Mark Pickerel (drummer). Later, Barrett Martin replaced Pickerel as the drummer.
+
+Since Letters to Cleo has at least 6 members and Screaming Trees originally had 4, Letters to Cleo had more members.
+</think>
+Answer: Letters to Cleo"
+qa_2,35,Answer: The Russian Civil War ended in 1923 when Red control of the newly formed Soviet Union was now assured.
+qa_2,36,Answer: 2000
+qa_2,37,"Answer: The Livesey Hall War Memorial commemorates the fallen of World War II, which had over 60 million casualties."
+qa_2,38,"Answer: No, both Elko Regional Airport and Gerald R. Ford International Airport are not located in Michigan."
+qa_2,39,Answer: Ralph Hefferline was a psychology professor at a university located in New York City.
+qa_2,40,Answer: The Scotch Collie's ancestors include the Gordon and Irish Setters.
+qa_2,41,"Answer: Tata Consultancy Services is headquartered in Mumbai, Maharashtra."
+qa_2,42,Answer: 1962
+qa_2,43,"Answer: The battle in which Giuseppe Arimondi lost his life, the Second Battle of Agordat, secured a decisive military victory and strategic advantage for Ethiopia against the Italians during the First Italo-Ethiopian War."
+qa_2,44,Answer: Alfred Balk served as the secretary of the Committee on the Employment of Minority Groups in the News Media under United States Vice President Nelson Rockefeller.
+qa_2,45,"Answer: Dirleton Castle, situated within Yellowcraig, a coastal area, is bordered to the south by the Firth of Forth."
+qa_2,46,Answer: Phil Spector
+qa_2,47,Answer: The World Summit of Nobel Peace Laureates
+qa_2,48,"Answer: Yes, both Ferocactus and Silene are types of plant."
+qa_2,49,Answer: English Electric Canberra
+qa_2,50,"Answer: The 14th season for this conference, NCAA Division I-A, was in 1989, and the Colorado Buffaloes had a 2-6 record in Pac-12 play."
+qa_2,51,"Answer: 1,462"
+qa_2,52,Answer: Indianapolis Motor Speedway
+qa_2,53,"Answer: The ""Prince of tenors,"" Franco Corelli, starred in ""La bohème"" in the city of Rome, Italy."
+qa_2,54,"Answer: Ellie Goulding worked with Jonny Lattimer, Fraser T Smith, Richard Stannard, and Ash Howes on her third studio album, ""Delirium."""
+qa_2,55,Answer: Adelaide
+qa_2,56,Answer: Drifting
+qa_2,57,Answer: Keith Bostic
+qa_2,58,"Answer: 1,146"
+qa_2,59,"Answer: Yes, both Cypress and Ajuga are genera, as Cypress belongs to the genus within the Cupressaceae family and Ajuga is specifically described as a genus within the Lamiaceae family."
+qa_2,60,"Answer: The former NBA player, Alonzo Mourning, who was a member of the Charlotte Hornets during their 1992-93 season and head coach for the WNBA team Charlotte Sting, is distinguished for being the shortest NBA player to ever play in the league, standing only 5 ft tall."
+qa_2,61,"Answer: The executive producer of the film that has a score composed by Jerry Goldsmith is not directly stated in the provided documents for ""Alien,"" ""L.A. Confidential,"" ""Legend,"" and ""Rasputin, the Mad Monk."""
+qa_2,62,Answer: Virginia Woolf
+qa_2,63,"The question asks for the Roud Folk Song Index of the nursery rhyme that inspired ""What Are Little Girls Made Of?"".
+
+From the provided documents:
+- Document 221 states: ""What Are Little Girls Made Of?"" is episode seven of the television series """". It's noted that the title is taken ""from the fourth line of the 19th century nursery rhyme, 'What Are Little Boys Made Of?'.""
+- Document 298 states: ""Three Little Kittens"" is an English language nursery rhyme... It has a Roud Folk Song Index number of 16150. The title ""What Are Little Girls Made Of?"" is derived from the nursery rhyme ""What Are Little Boys Made Of?"", which is mentioned in the other document.
+
+Therefore, the Roud Folk Song Index of the nursery rhyme that inspired ""What Are Little Girls Made Of?"" is the one for ""What Are Little Boys Made Of?,"" which is 16150.
+</think>
+<useful_chunks>
+<CHUNK_41> <CHUNK_43> <CHUNK_48>
+</useful_chunks>
+Answer:  Answer: 16150"
+qa_2,64,Answer: more than 70
+qa_2,65,Answer: Charmed
+qa_2,66,Answer: Vince Phillips held a junior welterweight title by an organization recognized by the International Boxing Hall of Fame.
+qa_2,67,Answer: Usher
+qa_2,68,"There is insufficient information provided to identify the younger brother of the guest stars Brian Doyle-Murray or Jonathan Katz from ""The Hard Easy."""
+qa_2,69,Answer: Carabao Cup
+qa_2,70,Answer: Teen Titans
+qa_2,71,Answer: The inhabitant of the city where the 122nd SS-Standarte was formed is Strasbourgian or Strasbourgeois.
+qa_2,72,"Answer: People of the Netherlands wear orange-colored clothing such as T-shirts, caps, and scarfs during Oranjegekte and to celebrate the national holiday Koningsdag."
+qa_2,73,Answer: Tromeo and Juliet
+qa_2,74,Answer: Robert Suettinger was the national intelligence officer under Governor Bill Clinton of Arkansas.
+qa_2,75,Answer: John John Florence
+qa_2,76,Answer: Ann
+qa_2,77,Answer: The Ais tribe of indigenous people.
+qa_2,78,Answer: British
+qa_2,79,Answer: 1865
+qa_2,80,Answer: Newport
+qa_2,81,Answer: Bob Seger
+qa_2,82,Answer: The practice of requiring only men to register for the draft was held to be constitutional.
+qa_2,83,"Answer: Handi-Snacks are a snack food product line sold by Mondelez International, an American multinational confectionery, food, and beverage company that is based in Illinois."
+qa_2,84,Answer: Monica Lewinsky
+qa_2,85,Answer: 1949
+qa_2,86,Answer: 1866
+qa_2,87,"Answer: Teide National Park and Garajonay National Park are located in the Canary Islands, Spain."
+qa_2,88,Answer: It is not possible to determine from the provided information how many copies of Roald Dahl's variation on a popular anecdote were sold.
+qa_2,89,Answer: Film director
+qa_2,90,Answer: The Conversation
+qa_2,91,Answer: John Waters
+qa_2,92,"From the information provided:
+- Bill Cosby's third album ""Why Is There Air?"" was recorded at the Flamingo Hotel in Las Vegas, Nevada.
+- The Flamingo Hotel is located in Las Vegas.
+- Las Vegas is home to several hotels and casinos, but the specific one referred to would be the Flamingo Las Vegas, as it is mentioned explicitly.
+</think>
+<useful_chunks>
+<CHUNK_5></useful_chunks>
+Answer: The hotel and casino located where Bill Cosby's third album ""Why Is There Air?"" was recorded is the Flamingo Las Vegas.
+</think>"
+qa_2,93,"Answer: Yes, the drink Gibson contains gin, but the drink Zurracapote does not contain gin as one of its main alcoholic components."
+qa_2,94,Answer: The annual documentary film festival is held in the months of March and April.
+qa_2,95,Answer: Tysons Galleria is located in Fairfax County.
+qa_2,96,"Answer: Bordan Tkachuk was the CEO of a company that provided IT products and services, including storage systems, servers, workstations and data/voice communications equipment and services."
+qa_2,97,"From the information provided:
+- Lev Yilmaz is described as ""San Francisco based independent film maker, artist and publisher, best known for his “Tales of Mere Existence” animated comic series.""
+- Pamela B. Green is described as ""an American film producer and director known for her work in feature film titles and motion graphics. She is the director and producer of the documentary 'Be Natural: The Untold Story of Alice Guy-Blache'.""
+
+Based on these descriptions, Lev Yilmaz is known for animation, specifically his animated comic series, while Pamela B. Green is recognized for her work in film production and documentaries.
+</think>
+Answer: Lev Yilmaz
+</think>"
+qa_2,98,Answer: Rabat
+qa_2,99,"Answer: No, Yingkou and Fuding are not the same level of city; Yingkou is a prefecture-level city, whereas Fuding is a county-level city."

@@ -1,0 +1,282 @@
+Task,ID,Prediction
+qa_1,0,Answer: Normandy is located in France.
+qa_1,1,Answer: The Normans were in Normandy from around 911 after the Treaty of Saint-Clair-sur-Epte.
+qa_1,2,"Answer: The Norse originated from Denmark, Iceland, and Norway."
+qa_1,3,Answer: The Norse leader is Rollo.
+qa_1,4,Answer: The Normans first gained their separate identity in the 10th century.
+qa_1,5,Answer: Duke William II of Normandy
+qa_1,6,"Answer: The Duchy of Normandy was ruled by members of the Norman dynasty, including figures such as Duke Richard II of Normandy."
+qa_1,7,"Based on the information provided in the documents, the Normans originally came from Norse (Danish, Icelandic, and Norwegian) backgrounds and thus their religion was Norse paganism, or ""Old Norse religion"". Over time, as the Normans settled in Normandy and interacted with the Frankish and Catholic populations, they adopted Catholicism (Christianity). This transition can be seen in how they utilized the church as a unifying force and how religious practices and architecture were adapted to Catholic traditions.
+
+The key points from the chunks are:
+<CHUNK_163> - ""The distinct cultural and ethnic identity of the Normans emerged initially in the first half of the 10th century, and it continued to evolve over the succeeding centuries.""
+<CHUNK_16> - ""The Normans... became exponents of the Catholic orthodoxy into which they assimilated.""
+<CHUNK_30> - ""The church was utilised by the dukes as a unifying force for their disparate duchy.""
+</think>
+<useful_chunks>
+<CHUNK_163> <CHUNK_16> <CHUNK_30>
+</useful_chunks>
+Answer: The religion of the Normans evolved over time from Norse paganism or Old Norse religion to Catholicism (Christianity) as they assimilated and integrated with the local populations and cultures they encountered during their settlements and conquests.
+</answer>
+⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⚗⌂"
+qa_1,8,"Answer: The original meaning of the word ""Norman"" is derived from ""Nortmann"" in Old Norse, signifying ""Norseman"" or ""Viking."""
+qa_1,9,"Answer: The Latin version of the word ""Norman"" was first recorded in Medieval Latin in the 9th century."
+qa_1,10,Answer: The Duchy of Normandy was founded in 911 AD.
+qa_1,11,Answer: Rollo signed the Treaty of Saint-Clair-sur-Epte with King Charles III of West Francia.
+qa_1,12,Answer: The river Epte originally bounded the Duchy of Normandy to the east.
+qa_1,13,Answer: Rollo
+qa_1,14,Answer: The Norman religion later became Catholicism (Christianity) following the adoption and assimilation process with the Frankish people and culture.
+qa_1,15,"Answer: The Normans were located in the northern part of France, specifically in the region of Normandy."
+qa_1,16,Answer: Fighting horsemen.
+qa_1,17,"Answer: The main enemies of the Normans in Italy, the Byzantine Empire, and Armenia were the Byzantines and the Seljuk Turks."
+qa_1,18,Answer: Herve served as a Byzantine general in the 1050s.
+qa_1,19,"According to <CHUNK_33>, ""In the 1060s, Robert Crispin led the Normans of Edessa against the Turks.""
+<useful_chunks>
+<CHUNK_33>
+</useful_chunks>
+Answer: Robert Crispin went up against the Turks in the 1060s.
+</think>"
+qa_1,20,Answer: Roussel de Bailleul's plans for an independent state were ruined by the Byzantine general Alexius Komnenos.
+qa_1,21,Answer: Afranji
+qa_1,22,Answer: Oursel led the Franks into the upper Euphrates valley.
+qa_1,23,Answer: The Normans teamed up with the Armenians in Anatolia.
+qa_1,24,Answer: The Raoulii family originated from an Italo-Norman named Raoul.
+qa_1,25,Answer: Robert Guiscard
+qa_1,26,"Answer: Dyrrachium initially fell to the Normans in 1185, but it subsequently ""fell again to Byzantine hands."""
+qa_1,27,"Answer: 30,000 men"
+qa_1,28,Answer: The Normans and Byzantines signed the peace treaty in the city of Deabolis.
+qa_1,29,Answer: Robert's son was Bohemond.
+qa_1,30,Answer: The river Deabolis
+qa_1,31,Answer: The Normans attacked Dyrrachium in 1081.
+qa_1,32,Answer: Dyrrachium
+qa_1,33,Answer: Dyrrachium was located on the southern shores of Albania and was one of the most important naval bases of the Adriatic.
+qa_1,34,Answer: Emma married Ethelred II of England.
+qa_1,35,Answer: Ethelred II of England was Emma's brother.
+qa_1,36,Answer: Ethelred fled to Normandy.
+qa_1,37,Answer: Duke William II of Normandy kicked Ethelred out.
+qa_1,38,Answer: Edward the Confessor's half-brother was Harthacnut.
+qa_1,39,Answer: Edward returned in 1041.
+qa_1,40,Answer: Edward made Robert of Jumièges archbishop of Canterbury.
+qa_1,41,Answer: Harold II died during the Battle of Hastings.
+qa_1,42,Answer: Harold II was killed by Duke William II of Normandy at the Battle of Hastings in 1066.
+qa_1,43,Answer: The Battle of Hastings was in 1066.
+qa_1,44,"Answer: The ruling class ahead of the Normans in England was the Anglo-Saxons, and in Scotland, it was the indigenous populations."
+qa_1,45,Answer: The Anglo-Norman language evolved into and became part of the development of Middle English and ultimately led to the formation of Modern English.
+qa_1,46,Answer: 1169
+qa_1,47,Answer: Ireland
+qa_1,48,Answer: The Normans combined their own culture with Irish culture in Ireland.
+qa_1,49,Answer: Margaret's brother was Edgar Atheling.
+qa_1,50,Answer: Margaret's husband was William the Silent.
+qa_1,51,Answer: 1072
+qa_1,52,"Answer: Duncan, Malcolm III of Scotland's son."
+qa_1,53,Answer: Sybilla of Normandy
+qa_1,54,"Answer: The arrival of the Norman culture in Scotland is known as the ""Davidian Revolution."""
+qa_1,55,Answer: Ralph earl of Hereford.
+qa_1,56,Answer: Ralph was in charge of being at war with the Welsh.
+qa_1,57,Answer: Edward the Confessor made Ralph earl.
+qa_1,58,Answer: Wales was under the control of Norman barons.
+qa_1,59,Answer: 1018
+qa_1,60,Answer: William of Montreuil was in charge of the papal army in the War of Barbastro.
+qa_1,61,Answer: The Siege of Antioch took place in 1097.
+qa_1,62,Answer: Tancred
+qa_1,63,"Answer: Tancred played a roll in the Siege of Antioch, which was pivotal for the Crusaders in establishing their principality."
+qa_1,64,Answer: 380 years
+qa_1,65,"Answer: A storm dispersed Richard's fleet, thereby ruining his initial plans to reach Acre directly."
+qa_1,66,Answer: Richard's fiancée was Berengaria.
+qa_1,67,Answer: 1191
+qa_1,68,"Answer: Isaac, the despot of Cyprus, ruled Cyprus in 1191 until he surrendered to Richard the Lion-hearted."
+qa_1,69,Answer: Guy's Rival was Conrad of Montferrat.
+qa_1,70,Answer: Isaac's chains were made out of silver.
+qa_1,71,Answer: Richard led Richard's troops when Cyprus was conquered.
+qa_1,72,Answer: The Canarian Islands are off the coast of Africa.
+qa_1,73,"Answer: Jean's nephew (Maciot de Bethencourt) or a successor of the Bethencourt family became the King of the Canary Islands upon selling the rights to Enrique Pérez de Guzmán, 2nd Count de Niebla, as a vassal to Henry III of Castile."
+qa_1,74,Answer: BSkyB bought the rights.
+qa_1,75,"Answer: Jean de Bethencourt's nephew, Maciot de Bethencourt, sold the rights to the Canarian islands."
+qa_1,76,Jersey and Guernsey are located in the Channel Islands.
+qa_1,77,Answer: 2
+qa_1,78,"Answer: The Norman architecture idiom is distinguished by its characteristic use of rounded arches, particularly over windows and doorways, and massive proportions, marking it as a unique Romanesque style that transformed the architectural landscapes of subdued regions such as England and Italy."
+qa_1,79,"The type of arches that Norman architecture has are particularly rounded, especially characterized over windows and doorways."
+qa_1,80,Answer: The architecture type that came after Norman in England is Early Gothic.
+qa_1,81,Answer: Anglo-Saxon
+qa_1,82,Answer: The Kingdom of Sicily had the Norman Arab architectural style.
+qa_1,83,Answer: The church reform began in the early 11th century.
+qa_1,84,Answer: The dukes used the church to unify themselves.
+qa_1,85,Answer: The French Wars of Religion occurred in the 16th century.
+qa_1,86,Answer: The Bayeux Tapestry was created using embroidery as a form of needlework.
+qa_1,87,Answer: The most well-known piece of Norman art is the Bayeux Tapestry.
+qa_1,88,"Answer: The Bayeux Tapestry was commissioned by Odo, the Bishop of Bayeux and first Earl of Kent."
+qa_1,89,Answer: Mosaics are the most important type of Norman art preserved in churches.
+qa_1,90,Answer: The 11th century.
+qa_1,91,The two abbots at Fécamp Abbey were William of Volpiano and John of Ravenna.
+qa_1,92,Answer: The monks fled to southern Italy.
+qa_1,93,Answer: The monks from Saint-Evroul established the Latin monastery at Sant'Eufemia in Italy.
+qa_1,94,Answer: Robert Guiscard
+qa_1,95,Answer: The monks at Saint-Evroul were renowned for their singing tradition.
+qa_1,96,Answer: Computational complexity theory
+qa_1,97,"Answer: By their inherent difficulty, specifically in terms of the computational resources (such as time and space) required to solve them."
+qa_1,98,Answer: A computational problem
+qa_1,99,Answer: The measure of a computational problem that broadly defines the inherent difficulty of the solution is time complexity.
+qa_2,0,"Answer: Yes, Scott Derrickson and Ed Wood were of the same nationality."
+qa_2,1,Answer: Shirley Temple did not hold any government position; she was an actress portraying Corliss Archer.
+qa_2,2,"Answer: The science fantasy young adult series ""Animorphs,"" told in first person with main characters sharing perspectives, includes ""The Hork-Bajir Chronicles"" as a companion book detailing the narratives of enslaved worlds and alien species."
+qa_2,3,"Answer: No, the Laleli Mosque and Esma Sultan Mansion are not located in the same neighborhood."
+qa_2,4,Answer: Greenwich Village
+qa_2,5,"Answer: 2014 S/S is the debut album of a South Korean boy group, WINNER, that was formed by YG Entertainment."
+qa_2,6,Answer: Indriati Iskak (stage name Aladin)
+qa_2,7,"Answer: The arena where the Lewiston Maineiacs played their home games can seat 1,400 people."
+qa_2,8,Answer: Terry Richardson
+qa_2,9,Answer: Yes
+qa_2,10,Answer: Kansas Song (We’re From Kansas)
+qa_2,11,Answer: David Weissman
+qa_2,12,Answer: 1999
+qa_2,13,"Answer: Yes, both Random House Tower and 888 7th Avenue are used for real estate."
+qa_2,14,"Answer: Sir Alex Ferguson managed Manchester United between 1986 and 2013, during which time he recruited and managed David Beckham."
+qa_2,15,"Answer: The United States, with a population of approximately 331,449,281 inhabitants as of 2020."
+qa_2,16,"Answer: The Vermont Catamounts men's soccer team currently competes in the America East Conference, which was formerly known as the North Atlantic Conference from 1988 to 1996."
+qa_2,17,"Answer: Yes, both Giuseppe Verdi and Ambroise Thomas are opera composers."
+qa_2,18,"Answer: Roger O. Egeberg was Assistant Secretary for Health and Scientific Affairs during the administration of President Richard Nixon, who served from 1969 to 1974."
+qa_2,19,Answer: Robert Erskine Childers
+qa_2,20,Answer: Pedro Rodríguez
+qa_2,21,Answer: Jim Cummings also voiced Sonic the Hedgehog.
+qa_2,22,Answer: Apple TV
+qa_2,23,Answer: Wolf Alice
+qa_2,24,Answer: The IFFHS World's Best Goalkeeper in 1992 and 1993.
+qa_2,25,"Answer: These Boots Are Made for Walkin' was written by Lee Hazlewood, who died in 2007."
+qa_2,26,Answer: 1838
+qa_2,27,"Answer: Yes, both Dictyosperma, and Huernia are described as a genus."
+qa_2,28,Answer: Henry J. Kaiser
+qa_2,29,"The question asks for the name of an adventure in ""Tunnels and Trolls"", which is a game designed by Ken St. Andre. Going through the provided chunks, I find that <CHUNK_67> mentions ""Arena of Khazan"" as ""a 1979 role-playing game adventure for 'Tunnels & Trolls' published by Flying Buffalo."" This indicates that ""Arena of Khazan"" could be the adventure being referred to.
+</think>
+<useful_chunks>
+<CHUNK_67>
+</useful_chunks>
+Answer: The name for the adventure in ""Tunnels and Trolls"" is Arena of Khazan.
+</think>"
+qa_2,30,Answer: 2000
+qa_2,31,"Answer: Buck-Tick hails from Fujioka, Gunma, Japan."
+qa_2,32,Answer: Charles Nungesser and François Coli
+qa_2,33,"Answer: No, they are not both American documentaries."
+qa_2,34,Answer: Letters to Cleo had more members than Screaming Trees.
+qa_2,35,Answer: 1923
+qa_2,36,Answer: 2000
+qa_2,37,"Answer: The Livesey Hall War Memorial commemorates the fallen of World War II, which had over 60 million casualties."
+qa_2,38,"Answer: No, both Elko Regional Airport and Gerald R. Ford International Airport are not located in Michigan."
+qa_2,39,Answer: New York City
+qa_2,40,Answer: The Scotch Collie's ancestors include Gordon and Irish Setters.
+qa_2,41,"Answer: Tata Consultancy Services is headquartered in Mumbai, Maharashtra."
+qa_2,42,Answer: 1962
+qa_2,43,Answer: The Battle in which Giuseppe Arimondi lost his life (Battle of Adwa) secured Ethiopian sovereignty for Ethiopia.
+qa_2,44,Answer: Alfred Balk served as the secretary of the Committee on the Employment of Minority Groups in the News Media under United States Vice President Nelson Rockefeller.
+qa_2,45,"Answer: The medieval fortress in Dirleton, East Lothian, Scotland that borders on the south side of the coastal area is Dirleton Castle, which borders on the south side of the Firth of Forth."
+qa_2,46,Answer: Phil Spector
+qa_2,47,"Answer: The former Soviet statesman, Mikhail Gorbachev, initiated the World Summit of Nobel Peace Laureates, which is an international forum."
+qa_2,48,"Answer: Yes, both Ferocactus and Silene are types of plant."
+qa_2,49,"The document <CHUNK_29> mentions that ""The Italian cruiser 'San Marco' participated in the bombardment of Durazzo, Albania in late 1918,"" and ""During World War I, 'San Marco'... participated in the bombardment of Durazzo, Albania in late 1918."" However, this does not directly relate to a British bomber.
+
+The document <CHUNK_30> states, ""The 1953–54 DFB-Pokal was the 11th season of the annual German football cup competition."" This is unrelated to the question.
+
+The document <CHUNK_31> provides information about Eddie Hickey, an American football and basketball coach. This is unrelated.
+
+The document <CHUNK_34> discusses WFLD, a Fox-owned television station in Chicago, and does not pertain to bombers.
+
+The document <CHUNK_36> discusses ""Stout whiting,"" a marine fish, which is irrelevant.
+
+The document <CHUNK_37> refers to ""The Benwood Mine Disaster,"" a coal mining disaster, which is unrelated.
+
+The document <CHUNK_41> describes ""A Boy Scout Around the World,"" a travel narrative, which is also irrelevant.
+
+The document <CHUNK_62> talks about ""South West Pacific theatre of World War II,"" defining it as including the Philippines, the Dutch East Indies, and other locations, and then <CHUNK_12> confirms that the South West Pacific Area (SWPA) was a theater during WWII. 
+
+The document <CHUNK_29> provides information about an Italian cruiser, the San Marco, but this is not a bomber.
+
+The document <CHUNK_26> is about Maritime Broadband, an engineering company, and thus irrelevant.
+
+The document <CHUNK_29> also mentions the ""Italian cruiser 'San Marco'"" but does not specify its involvement in bombing campaigns.
+
+The document <CHUNK_33> describes ""Torc,"" a type of ancient jewelry, which has nothing to do with bombers.
+
+The document <CHUNK_36> describes ""Stout whiting,"" another non-relevant entry.
+
+The document <CHUNK_12> provides the relevant information ""The Asiatic-Pacific Theater (now known as the Pacific Ocean Areas) was the theater of operations of U.S. forces... and the South West Pacific Area (SWPA) was commanded by General Douglas MacArthur.""
+
+The document <CHUNK_29> discusses the ""Italian cruiser 'San Marco'"" but does not specify its involvement in bombing.
+
+The document <CHUNK_12> explains that ""South West Pacific Area (SWPA) was commanded by General Douglas MacArthur,"" indicating there were U.S. and Australian forces in the theater.
+
+The document <CHUNK_26> is not about bombers but about a communications company.
+
+Finally, the document <CHUNK_29> does not provide information about bombers.
+
+From these excerpts, the critical document is <CHUNK_29>, which states ""The Italian cruiser 'San Marco'... participated in the bombardment of Durazzo, Albania..."" 
+
+Therefore, the British first-generation jet-powered medium bomber used in the South West Pacific theatre of World War II is described in <CHUNK_29>, where it says ""The English Electric Canberra was developed during the mid-to-late 1940s in response to a 1944 Air Ministry requirement..."" and ""The Canberra was introduced to service with the Royal Air Force (RAF), the type's first operator, in May 1951, it became the service's first jet-powered bomber aircraft.""
+</think>
+<useful_chunks>
+<CHUNK_29> <CHUNK_12>
+</useful_chunks>
+Answer: The English Electric Canberra."
+qa_2,50,"Answer: The 14th season for the Big 12 Conference was in 2009, and the Colorado Buffaloes had a 2–6 record in Big 12 play that year."
+qa_2,51,"Answer: 1,462"
+qa_2,52,Answer: Indianapolis Motor Speedway
+qa_2,53,"From the information provided:
+- Franco Corelli was called ""the Prince of tenors.""
+- ""The Taming of the Shrew (1967 film)"" is a film based on the Shakespeare play, not an opera by Giacomo Puccini.
+- ""Gianni Schicchi"" is an opera by Giacomo Puccini to a libretto by Giovacchino Forzano.
+- In ""Gianni Schicchi,"" there is an aria ""O mio babbino caro,"" which is a famous aria and one of Puccini's best-known works. This opera was starred by Franco Corelli, as mentioned in the document.
+
+To find the city where he starred in a film based on an opera by Giacomo Puccini, we need to identify which opera and related film he starred in.
+
+Final answer: Franco Corelli starred in ""Gianni Schicchi,"" an opera by Giacomo Puccini, and it was directed and starred in a film named ""Gianni Schicchi"" (1917-18). The film was released in the United States.
+</think>
+<useful_chunks>
+<CHUNK_33> <CHUNK_34> <CHUNK_41>
+</useful_chunks>
+ Answer: The film based on the opera by Giacomo Puccini starring Franco Corelli was released and starred in the United States. </think>
+assistant
+ Answer: The Prince of tenors, Franco Corelli, starred in the film ""Gianni Schicchi"" based on an opera by Giacomo Puccini in the United States. </answer>"
+qa_2,54,"Answer: Ellie Goulding worked with writers and producers including Max Martin, Savan Kotecha, Ilya Salmanzadeh, and Tove Lo on her third studio album, ""Delirium."""
+qa_2,55,Answer: Adelaide
+qa_2,56,Answer: Drifting
+qa_2,57,Answer: Keith Bostic is younger than Jerry Glanville.
+qa_2,58,"Answer: According to the 2001 census, the population of the city in which Kirton End is located (Buenos Aires, Argentina) was approximately 10,715,000."
+qa_2,59,"Answer: Yes, both Cypress and Ajuga are genera, but they belong to different families: Cypress is in the Cupressaceae family, and Ajuga is in the Lamiaceae family."
+qa_2,60,Answer: Muggsy Bogues is famously noted as the shortest player ever to play in the National Basketball Association (NBA).
+qa_2,61,Answer: Francis Ford Coppola
+qa_2,62,Answer: Virginia Woolf
+qa_2,63,Answer: 821
+qa_2,64,Answer: 70 countries
+qa_2,65,Answer: Charmed
+qa_2,66,Answer: Vince Phillips held a junior welterweight title by an organization recognized by the International Boxing Hall of Fame (IBHOF).
+qa_2,67,Answer: Usher
+qa_2,68,Answer: Bill Murray
+qa_2,69,"The 2017–18 Wigan Athletic F.C. season will be a year in which the team competes in the league cup known as the ""First Citizens Cup"" for sponsorship reasons."
+qa_2,70,"Answer: Tara Strong's major voice role in animated series ""Teen Titans,"" which is based on the DC Comics fictional superhero team, ""Teen Titans,"" is as a character in that series."
+qa_2,71,"Answer: The inhabitants of the city where the 122nd SS-Standarte was formed in 1940 are primarily French citizens of Strasbourg, with influences from German and other EU backgrounds due to its historical context."
+qa_2,72,Answer: Orange clothing
+qa_2,73,Answer: Tromeo and Juliet
+qa_2,74,Answer: Bill Clinton
+qa_2,75,Answer: Coco Ho
+qa_2,76,Answer: Ann
+qa_2,77,Answer: Alvaro Mexia had a diplomatic mission with the Ais native population.
+qa_2,78,Answer: British
+qa_2,79,Answer: 1865
+qa_2,80,Answer: Lempster village
+qa_2,81,Answer: Bob Seger's stage name was Bob Seger.
+qa_2,82,Answer: requiring only men to register for the draft to fill vacancies in the armed forces.
+qa_2,83,"Answer: Handi-Snacks are a snack food product line sold by Mondelez International, an American multinational confectionery, food, and beverage company that is based in Illinois."
+qa_2,84,Answer: Monica Lewinsky
+qa_2,85,"Answer: April 1, 1949"
+qa_2,86,Answer: 1866
+qa_2,87,"Answer: Teide National Park and Garajonay National Park are located in the Canary Islands, Spain."
+qa_2,88,"Answer: The information regarding the number of copies sold for Roald Dahl's ""Mrs. Bixby and the Colonel's Coat"" is not provided in the given documents."
+qa_2,89,Answer: Cinematographer and film director
+qa_2,90,Answer: The Conversation
+qa_2,91,Answer: John Waters
+qa_2,92,Answer: The hotel and casino located in which Bill Cosby's third album was recorded is Flamingo Las Vegas.
+qa_2,93,"Answer: No, the drinks Gibson and Zurracapote do not both contain gin."
+qa_2,94,Answer: March or April
+qa_2,95,Answer: Fairfax County
+qa_2,96,"Answer: Bordan Tkachuk was the CEO of a company that provided IT products and services, including storage systems, servers, workstations and data/voice communications equipment and services."
+qa_2,97,Answer: Lev Yilmaz
+qa_2,98,"Answer: The ambassador of the Rabat-Salé-Kénitra administrative region to China is based in Rabat, Morocco."
+qa_2,99,"Answer: No, Yingkou and Fuding are not the same level of city. Yingkou is a prefecture-level city, whereas Fuding is a county-level city."

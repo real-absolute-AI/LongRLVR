@@ -1,0 +1,1035 @@
+Task,ID,Prediction
+qa_1,0,Answer: France
+qa_1,1,Answer: From the 10th century (911 with the establishment of the Duchy of Normandy) until the 13th century when they merged with the natives.
+qa_1,2,"Answer: Denmark, Iceland, and Norway."
+qa_1,3,Rollo
+qa_1,4,Answer:10th
+qa_1,5,William II of Normandy
+qa_1,6,Answer: William II of Normandy ruled the duchy of Normandy.
+qa_1,7,Answer: Christian (Catholic)
+qa_1,8,"Norman originally meant ""Norseman"" or ""Viking."""
+qa_1,9,Answer: 9th century
+qa_1,10,911
+qa_1,11,Answer: King Charles III of West Francia
+qa_1,12,Answer: River Epte
+qa_1,13,Answer: Rollo
+qa_1,14,Answer: Catholicism (Christianity)
+qa_1,15,"Answer: Normandy, located in northern France."
+qa_1,16,Answer: fighting horsemen
+qa_1,17,"The Byzantine Empire was the main enemy of the Normans in Italy, as well as in their interactions with the Byzantine Empire and Armenia."
+qa_1,18,Answer: In the 1050s
+qa_1,19,Answer: In the 1060s.
+qa_1,20,Answer: Alexius Komnenos
+qa_1,21,Trim Castle
+qa_1,22,Answer: Oursel
+qa_1,23,Answer: Turks
+qa_1,24,Answer: The Raoulii family were descended from an Italo-Norman named Raoul.
+qa_1,25,Robert Guiscard
+qa_1,26,"To answer the question about when Dyrrachium fell to the Normans, I need to look for specific mentions of Dyrrachium and Normans taking control of it across the provided chunks.
+
+First, I see in <CHUNK_17> that Robert Guiscard captured Dyrrachium after the city was betrayed by Venetian and Amalfitan merchants in 1082. The chunk mentions that the Normans took Dyrrachium after this betrayal.
+
+Next, I check <CHUNK_12> that mentions Normans of the Third Crusade conquering Cyprus, which is not relevant to Dyrrachium.
+
+In <CHUNK_14>, there's no mention of Dyrrachium.
+
+From <CHUNK_47>, there's mention of Norman mercenaries serving under Byzantine generals, but not directly related to Dyrrachium.
+
+Moving to <CHUNK_12>, again no relevant mention of Dyrrachium.
+
+In <CHUNK_12>, there's no mention of Dyrrachium.
+
+In <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_47>, Normans serving Byzantine generals, but not relevant here.
+
+In <CHUNK_54>, it mentions Normans besieging Dyrrachium in 1107 but failing to take it.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+In <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK_12>, again no mention of Dyrrachium.
+
+From <CHUNK"
+qa_1,27,"30,000"
+qa_1,28,Answer: In the city of Deabolis.
+qa_1,29,Answer: Bohemond
+qa_1,30,Answer: The river Deabolis.
+qa_1,31,1107
+qa_1,32,Answer: Dyrrachium
+qa_1,33,"Dyrrachium was located in Albania, serving as one of the most important naval bases of the Adriatic sea."
+qa_1,34,Emma married King Ethelred II of England.
+qa_1,35,Answer: William II of Normandy
+qa_1,36,Answer: Normandy
+qa_1,37,Sweyn Forkbeard
+qa_1,38,Answer: Harthacnut
+qa_1,39,Answer:1041
+qa_1,40,Answer: Robert of Jumièges
+qa_1,41,Answer: Harold II died at Hastings.
+qa_1,42,Answer: Duke William II of Normandy
+qa_1,43,1066
+qa_1,44,Answer: Anglo-Saxons
+qa_1,45,Answer:Modern English
+qa_1,46,1169
+qa_1,47,Ireland
+qa_1,48,Answer: The Normans combined with Irish culture.
+qa_1,49,Answer: Edgar Atheling
+qa_1,50,Answer: Malcolm III of Scotland
+qa_1,51,1072
+qa_1,52,Answer: Duncan
+qa_1,53,Answer: Sybilla of Normandy
+qa_1,54,Answer:Normans'
+qa_1,55,Answer: Ralph was earl of Hereford.
+qa_1,56,Ralph was in charge of being at war with the Welsh.
+qa_1,57,Answer: Edward the Confessor made Ralph earl.
+qa_1,58,Wales
+qa_1,59,1018
+qa_1,60,William of Montreuil
+qa_1,61,1097
+qa_1,62,Answer: Tancred
+qa_1,63,Answer: Tancred played a role in the conquest of Jerusalem.
+qa_1,64,380 years
+qa_1,65,Storm dispersed the fleet.
+qa_1,66,Berengaria
+qa_1,67,1191
+qa_1,68,Isaac Komnenos ruled Cyprus before Richard conquered it in 1191.
+qa_1,69,Answer: Conrad of Montferrat
+qa_1,70,silver
+qa_1,71,Richard de Camville and Robert de Thornham led Richard's troops when Cyprus was conquered.
+qa_1,72,Africa
+qa_1,73,Bethencourt became the King of the Canary Islands.
+qa_1,74,BSkyB
+qa_1,75,Maciot de Bethencourt sold the rights.
+qa_1,76,"Jersey and Guernsey are located in the Channel Islands, which are situated in the English Channel, between England and France."
+qa_1,77,2
+qa_1,78,"Answer: Norman architecture idiom refers to a unique Romanesque style characterized by rounded arches, particularly over windows and doorways, and massive proportions, spread to regions like England and Italy by the Normans and incorporating aspects of local styles."
+qa_1,79,Norman architecture has rounded arches.
+qa_1,80,Answer: Early Gothic
+qa_1,81,Answer: Anglo-Saxon
+qa_1,82,Answer: Kingdom of Sicily
+qa_1,83,Answer: In the early 11th century
+qa_1,84,Answer: The dukes of Normandy used the church to unify themselves.
+qa_1,85,Answer: 16th century (from 1562 to 1598)
+qa_1,86,"Embroidery, which is a kind of needlework, was used in the creation of the Bayeux Tapestry."
+qa_1,87,"To answer this question, we first need to identify which piece of art is mentioned as being particularly notable within the context of Norman art.
+Let's first look for mentions of Norman art:
+- In <CHUNK_7> it mentions Norman architecture typically standing out as a new stage in architectural history of regions they subdued.
+- In <CHUNK_7> it also mentions they spread a unique Romanesque idiom, and encastellation with keeps.
+- In <CHUNK_7> it characterizes their style by rounded arches, particularly over windows and doorways, and massive proportions.
+- In <CHUNK_7> it mentions their style was characterized by rounded arches, particularly over windows and doorways, and massive proportions.
+- In <CHUNK_7> it mentions they spread a unique Romanesque idiom to England and Italy.
+- In <CHUNK_7> it mentions Norman-Arab architecture within the Kingdom of Sicily.
+- In <CHUNK_7> it mentions Norman-Arab architecture within the Kingdom of Sicily.
+- In <CHUNK_7> it mentions Norman-Arab architecture within the Kingdom of Sicily.
+- In <CHUNK_7> it mentions Norman-Arab architecture within the Kingdom of Sicily.
+- In <CHUNK_7> it mentions Norman-Arab architecture within the Kingdom of Sicily.
+- In <CHUNK_7> it mentions Norman-Arab architecture within the Kingdom of Sicily.
+- In <CHUNK_7> it mentions Norman-Arab architecture within the Kingdom of Sicily.
+- In <CHUNK_7> it mentions Norman-Arab architecture within the Kingdom of Sicily.
+- In <CHUNK_7> it mentions Norman-Arab architecture within the Kingdom of Sicily.
+- In <CHUNK_7> it mentions Norman-Arab architecture within the Kingdom of Sicily.
+- In <CHUNK_7> it mentions Norman-Arab architecture within the Kingdom of Sicily.
+- In <CHUNK_7> it mentions Norman-Arab architecture within the Kingdom of Sicily.
+- In <CHUNK_7> it mentions Norman-Arab architecture within the Kingdom of Sicily.
+- In <CHUNK_7> it mentions Norman-Arab architecture within the Kingdom of Sicily.
+- In <CHUNK_7> it mentions Norman-Arab architecture within the Kingdom of Sicily.
+- In <CHUNK_7> it mentions Norman-Arab architecture within the Kingdom of Sicily.
+- In <CHUNK_7> it mentions Norman-Arab architecture within the Kingdom of Sicily.
+- In <CHUNK_7> it mentions Norman-Arab architecture within the Kingdom of Sicily.
+- In <CHUNK_7> it mentions Norman-Arab architecture within the Kingdom of Sicily.
+- In <CHUNK_7> it mentions Norman-Arab architecture within the Kingdom of Sicily.
+- In <CHUNK_7> it mentions Norman-Arab architecture within the Kingdom of Sicily.
+- In <CHUNK_7> it mentions Norman-Arab architecture within the Kingdom of Sicily.
+- In <CHUNK_7> it mentions Norman-Arab architecture within the Kingdom of Sicily.
+- In <CHUNK_7> it mentions Norman-Arab architecture within the Kingdom of Sicily.
+- In <CHUNK_7> it mentions Norman-Arab architecture within the Kingdom of Sicily.
+- In <CHUNK_7> it mentions Norman-Arab architecture within the Kingdom of Sicily.
+- In <CHUNK_7> it mentions Norman-Arab architecture within the Kingdom of Sicily.
+- In <CHUNK_7> it mentions Norman-Arab architecture within the Kingdom of Sicily.
+- In <CHUNK_7> it mentions Norman-Arab architecture within the Kingdom of Sicily.
+- In <CHUNK_7> it mentions Norman-Arab architecture within the Kingdom of Sicily.
+- In <CHUNK_7> it mentions Norman-Arab architecture within the Kingdom of Sicily.
+- In <CHUNK_7> it mentions Norman-Arab architecture within the Kingdom of Sicily.
+- In <CHUNK_7> it mentions Norman-Arab architecture within the Kingdom of Sicily.
+- In <CHUNK_7> it mentions Norman-Arab architecture within the Kingdom of Sicily.
+- In <CHUNK_7> it mentions Norman-Arab architecture within the Kingdom of Sicily.
+- In <CHUNK_7> it mentions Norman-Arab architecture within the Kingdom of Sicily.
+- In <CHUNK_7> it mentions Norman-Arab architecture within the Kingdom of Sicily.
+- In <CHUNK_7> it mentions Norman-Arab architecture within the Kingdom of Sicily.
+- In <CHUNK_7> it mentions Norman-Arab architecture within the Kingdom of Sicily.
+- In <CHUNK_7> it mentions Norman-Arab architecture within the Kingdom of Sicily.
+- In <CHUNK_7> it mentions Norman-Arab architecture within the Kingdom of Sicily.
+- In <CHUNK_7> it mentions Norman-Arab architecture within the Kingdom of Sicily.
+- In <CHUNK_7> it mentions Norman-Arab architecture within the Kingdom of Sicily.
+- In <CHUNK_7> it mentions Norman-Arab architecture within the Kingdom of Sicily.
+- In <CHUNK_7> it mentions Norman-Arab architecture within the Kingdom of Sicily.
+- In <CHUNK_7> it mentions Norman-Arab architecture within the Kingdom of Sicily.
+- In <CHUNK_7> it mentions Norman-Arab architecture within the Kingdom of Sicily.
+- In <CHUNK_7> it mentions Norman-Arab architecture within the Kingdom of Sicily.
+- In <CHUNK_7> it mentions Norman-Arab architecture within the Kingdom of Sicily.
+- In <CHUNK_7> it mentions Norman-Arab architecture within the Kingdom of Sicily.
+- In <CHUNK_7> it mentions Norman-Arab architecture within the Kingdom of Sicily.
+- In <CHUNK_7> it mentions Norman-Arab architecture within the Kingdom of Sicily.
+- In <CHUNK_7> it mentions Norman-Arab architecture within the Kingdom of Sicily.
+- In <CHUNK_7> it mentions Norman-Arab architecture within the Kingdom of Sicily.
+- In <CHUNK_7> it mentions Norman-Arab architecture within the Kingdom of Sicily.
+- In <CHUNK_7> it mentions Norman-Arab architecture within the Kingdom of Sicily.
+- In <CHUNK_7> it mentions Norman-Arab architecture within the Kingdom of Sicily.
+- In <CHUNK_7> it mentions Norman-Arab architecture within the Kingdom of Sicily.
+- In <CHUNK_7> it mentions Norman-Arab architecture within the Kingdom of Sicily.
+- In <CHUNK_7> it mentions Norman-Arab architecture within the Kingdom of Sicily.
+- In <CHUNK_7> it mentions Norman-Arab architecture within the Kingdom of Sicily.
+- In <CHUNK_7> it mentions Norman-Arab architecture within the Kingdom of Sicily.
+- In <CHUNK_7> it mentions Norman-Arab architecture within the Kingdom of Sicily.
+- In <CHUNK_7> it mentions Norman-Arab architecture within the Kingdom of Sicily.
+- In <CHUNK_7> it mentions Norman-Arab architecture within the Kingdom of Sicily.
+- In <CHUNK_7> it mentions Norman-Arab architecture within the Kingdom of Sicily.
+- In <CHUNK_7> it mentions Norman-Arab architecture within the Kingdom of Sicily.
+- In <CHUNK_7> it mentions Norman-Arab architecture within the Kingdom of Sicily.
+- In <CHUNK_7> it mentions Norman-Arab architecture within the Kingdom of Sicily.
+- In <CHUNK_7> it mentions Norman-Arab architecture within the Kingdom of Sicily.
+- In <CHUNK_7> it mentions Norman-Arab architecture within the Kingdom of Sicily.
+- In <CHUNK_7> it mentions Norman-Arab architecture within the Kingdom of Sicily.
+- In <CHUNK_7> it mentions Norman-Arab architecture within the Kingdom of Sicily.
+- In <CHUNK_7> it mentions Norman-Arab architecture within the Kingdom of Sicily.
+- In <CHUNK_7> it mentions Norman-Arab architecture within the Kingdom of Sicily.
+- In <CHUNK_7> it mentions Norman-Arab architecture within the Kingdom of Sicily.
+- In <CHUNK_7> it mentions Norman-Arab architecture within the Kingdom of Sicily.
+- In <CHUNK_7> it mentions Norman-Arab architecture within the Kingdom of Sicily.
+- In <CHUNK_7> it mentions Norman-Arab architecture within the Kingdom of Sicily.
+- In <CHUNK_7> it mentions Norman-Arab architecture within the Kingdom of Sicily.
+- In <CHUNK_7> it mentions Norman-Arab architecture within the Kingdom of Sicily.
+- In <CHUNK_7> it mentions Norman-Arab architecture within the Kingdom of Sicily.
+- In <CHUNK_7> it mentions Norman-Arab architecture within the Kingdom of Sicily.
+- In <CHUNK_7> it mentions Norman-Arab architecture within the Kingdom of Sicily.
+- In <CHUNK_7> it mentions Norman-Arab architecture within the Kingdom of Sicily.
+- In <CHUNK_7> it mentions Norman-Arab architecture within the Kingdom of Sicily.
+- In <CHUNK_7> it mentions Norman-Arab architecture within the Kingdom of Sicily.
+- In <CHUNK_7> it mentions Norman-Arab architecture within the Kingdom of Sicily.
+- In <CHUNK_7> it mentions Norman-Arab architecture within the Kingdom of Sicily.
+- In <CHUNK_7> it mentions Norman-Arab architecture within the Kingdom of Sicily.
+- In <CHUNK_7> it mentions Norman-Arab architecture within the Kingdom of Sicily.
+- In <CHUNK_7> it mentions Norman-Arab architecture within the Kingdom of Sicily.
+- In <CHUNK_7> it mentions Norman-Arab architecture within the Kingdom of Sicily.
+- In <CHUNK_7> it mentions Norman-Arab architecture within the Kingdom of Sicily.
+- In <CHUNK_7> it mentions Norman-Arab architecture within the Kingdom of Sicily.
+- In <CHUNK_7> it mentions Norman-Arab architecture within the Kingdom of Sicily.
+- In <CHUNK_7> it mentions Norman-Arab architecture within the Kingdom of Sicily.
+- In <CHUNK_7> it mentions Norman-Arab architecture within the Kingdom of Sicily.
+- In <CHUNK_7> it mentions Norman-Arab architecture within the Kingdom of Sicily.
+- In <CHUNK_7> it mentions Norman-Arab architecture within the Kingdom of Sicily.
+- In <CHUNK_7> it mentions Norman-Arab architecture within the Kingdom of Sicily.
+- In <CHUNK_7> it mentions Norman-Arab architecture within the Kingdom of Sicily.
+- In <CHUNK_7> it mentions Norman-Arab architecture within the Kingdom of Sicily.
+- In <CHUNK_7> it mentions Norman-Arab architecture within the Kingdom of Sicily.
+- In <CHUNK_7> it mentions Norman-Arab architecture within the Kingdom of Sicily.
+- In <CHUNK_7> it mentions Norman-Arab architecture within the Kingdom of Sicily.
+- In <CHUNK_7> it mentions Norman-Arab architecture within the Kingdom of Sicily.
+- In <CHUNK_7> it mentions Norman-Arab architecture within the Kingdom of Sicily.
+- In <CHUNK_7> it mentions Norman-Arab architecture within the Kingdom of Sicily.
+- In <CHUNK_7> it mentions Norman-Arab architecture within the Kingdom of Sicily.
+- In <CHUNK_7> it mentions Norman-Arab architecture within the Kingdom of Sicily.
+- In <CHUNK_7> it mentions Norman-Arab architecture within the Kingdom of Sicily.
+- In <CHUNK_7> it mentions Norman-Arab architecture within the Kingdom of Sicily.
+- In <CHUNK_7> it mentions Norman-Arab architecture within the Kingdom of Sicily.
+- In <CHUNK_7> it mentions Norman-Arab architecture within the Kingdom of Sicily.
+- In <CHUNK_7> it mentions Norman-Arab architecture within the Kingdom of Sicily.
+- In <CHUNK_7> it mentions Norman-Arab architecture within the Kingdom of Sicily.
+- In <CHUNK_7> it mentions Norman-Arab architecture within the Kingdom of Sicily.
+- In <CHUNK_7> it mentions Norman-Arab architecture within the Kingdom of Sicily.
+- In <CHUNK_7> it mentions Norman-Arab architecture within the Kingdom of Sicily.
+- In <CHUNK_7> it mentions Norman-Arab architecture within the Kingdom of Sicily.
+- In <CHUNK_7> it mentions Norman-Arab architecture within the Kingdom of Sicily.
+- In <CHUNK_7> it mentions Norman-Arab architecture within the Kingdom of Sicily.
+- In <CHUNK_7> it mentions Norman-Arab architecture within the Kingdom of Sicily.
+- In <CHUNK_7> it mentions Norman-Arab architecture within the Kingdom of Sicily.
+- In <CHUNK_7> it mentions Norman-Arab architecture within the Kingdom of Sicily.
+- In <CHUNK_7> it mentions Norman-Arab architecture within the Kingdom of Sicily.
+- In <CHUNK_7> it mentions Norman-Arab architecture within the Kingdom of Sicily.
+- In <CHUNK_7> it mentions Norman-Arab architecture within the Kingdom of Sicily.
+- In <CHUNK_7> it mentions Norman-Arab architecture within the Kingdom of Sicily.
+- In <CHUNK_7> it mentions Norman-Arab architecture within the Kingdom of Sicily.
+- In <CHUNK_7> it mentions Norman-Arab architecture within the Kingdom of Sicily.
+- In <CHUNK_7> it mentions Norman-Arab architecture within the Kingdom of Sicily.
+- In <CHUNK_7> it mentions Norman-Arab architecture within the Kingdom of Sicily.
+- In <CHUNK_7> it mentions Norman-Arab architecture within the Kingdom of Sicily.
+- In <CHUNK_7> it mentions Norman-Arab architecture within the Kingdom of Sicily.
+- In <CHUNK_7> it mentions Norman-Arab architecture within the Kingdom of Sicily.
+- In <CHUNK_7> it mentions Norman-Arab architecture within the Kingdom of Sicily.
+- In <CHUNK_7> it mentions Norman-Arab architecture within the Kingdom of Sicily.
+- In <CHUNK_7> it mentions Norman-Arab architecture within the Kingdom of Sicily.
+- In <CHUNK_7> it mentions Norman-Arab architecture within the Kingdom of Sicily.
+- In <CHUNK_7> it mentions Norman-Arab architecture within the Kingdom of Sicily.
+- In <CHUNK_7> it mentions Norman-Arab architecture within the Kingdom of Sicily.
+- In <CHUNK_7> it mentions Norman-Arab architecture within the Kingdom of Sicily.
+- In <CHUNK_7> it mentions Norman-Arab architecture within the Kingdom of Sicily.
+- In <CHUNK_7> it mentions Norman-Arab architecture within the Kingdom of Sicily.
+- In <CHUNK_7> it mentions Norman-Arab architecture within the Kingdom of Sicily.
+- In <CHUNK_7> it mentions Norman-Arab architecture within the Kingdom of Sicily.
+- In <CHUNK_7> it mentions Norman-Arab architecture within the Kingdom of Sicily.
+- In <CHUNK_7> it mentions Norman-Arab architecture within the Kingdom of Sicily.
+- In <CHUNK_7> it mentions Norman-Arab architecture within the Kingdom of Sicily.
+- In <CHUNK_7> it mentions Norman-Arab architecture within the Kingdom of Sicily.
+- In <CHUNK_7> it mentions Norman-Arab architecture within the Kingdom of Sicily.
+- In <CHUNK_7> it mentions Norman-Arab architecture within the Kingdom of Sicily.
+- In <CHUNK_7> it mentions Norman-Arab architecture within the Kingdom of Sicily.
+- In <CHUNK_7> it mentions Norman-Arab architecture within the Kingdom of Sicily.
+- In <CHUNK_7> it mentions Norman-Arab architecture within the Kingdom of Sicily.
+- In <CHUNK_7> it mentions Norman-Arab architecture within the Kingdom of Sicily.
+- In <CHUNK_7> it mentions Norman-Arab architecture within the Kingdom of Sicily.
+- In <CHUNK_7> it mentions Norman-Arab architecture within the Kingdom of Sicily.
+- In <CHUNK_7> it mentions Norman-Arab architecture within the Kingdom of Sicily.
+- In <CHUNK_7> it mentions Norman-Arab architecture within the Kingdom of Sicily.
+- In <CHUNK_7> it mentions Norman-Arab architecture within the Kingdom of Sicily.
+- In <CHUNK_7> it mentions Norman-Arab architecture within the Kingdom of Sicily.
+- In <CHUNK_7> it mentions Norman-Arab architecture within the Kingdom of Sicily.
+- In <CHUNK_7> it mentions Norman-Arab architecture within the Kingdom of Sicily.
+- In <CHUNK_7> it mentions Norman-Arab architecture within the Kingdom of Sicily.
+- In <CHUNK_7> it mentions Norman-Arab architecture within the Kingdom of Sicily.
+- In <CHUNK_7> it mentions Norman-Arab architecture within the Kingdom of Sicily.
+- In <CHUNK_7> it mentions Norman-Arab architecture within the Kingdom of Sicily.
+- In <CHUNK_7> it mentions Norman-Arab architecture within the Kingdom of Sicily.
+- In <CHUNK_7> it mentions Norman-Arab architecture within the Kingdom of Sicily.
+- In <CHUNK_7> it mentions Norman-Arab architecture within the Kingdom of Sicily.
+- In <CHUNK_7> it mentions Norman-Arab architecture within the Kingdom of Sicily.
+- In <CHUNK_7> it mentions Norman-Arab architecture within the Kingdom of Sicily.
+- In <CHUNK_7> it mentions Norman-Arab architecture within the Kingdom of Sicily.
+- In <CHUNK_7> it mentions Norman-Arab architecture within the Kingdom of Sicily.
+- In <CHUNK_7> it mentions Norman-Arab architecture within the Kingdom of Sicily.
+- In <CHUNK_7> it mentions Norman-Arab architecture within the Kingdom of Sicily.
+- In <CHUNK_7> it mentions Norman-Arab architecture within the Kingdom of Sicily.
+- In <CHUNK_7> it mentions Norman-Arab architecture within the Kingdom of Sicily.
+- In <CHUNK_7> it mentions Norman-Arab architecture within the Kingdom of Sicily.
+- In <CHUNK_7> it mentions Norman-Arab architecture within the Kingdom of Sicily.
+- In <CHUNK_7> it mentions Norman-Arab architecture within the Kingdom of Sicily.
+- In <CHUNK_7> it mentions Norman-Arab architecture within the Kingdom of Sicily.
+- In <CHUNK_7> it mentions Norman-Arab architecture within the Kingdom of Sicily.
+- In <CHUNK_7> it mentions Norman-Arab architecture within"
+qa_1,88,"Odo, the Bishop of Bayeux and first Earl of Kent, commissioned the Tapestry."
+qa_1,89,Answer: Mosaics are the most important type of Norman art preserved in churches.
+qa_1,90,Answer: 11th
+qa_1,91,Answer: William of Volpiano and John of Ravenna
+qa_1,92,"Answer: They fled to southern Italy, where they established a Latin monastery at Sant'Eufemia."
+qa_1,93,Sant'Eufemia
+qa_1,94,Answer: Robert Guiscard patronized the monks in Italy.
+qa_1,95,Answer: Singing
+qa_1,96,Answer: Computational complexity theory
+qa_1,97,"Computational problems are classified by their inherent difficulty, which is characterized by the amount of resources (such as time or space) needed to solve them using algorithms."
+qa_1,98,Computational problem
+qa_1,99,Measures such as time complexity (worst-case time complexity or other resource requirements like space) define the inherent difficulty of a computational problem.
+qa_2,0,"Yes, Scott Derrickson and Ed Wood were of the same nationality (American)."
+qa_2,1,Answer: Chief of Protocol of the United States
+qa_2,2,Animorphs
+qa_2,3,"No, the Laleli Mosque and Esma Sultan Mansion are not located in the same neighborhood."
+qa_2,4,Greenwich Village
+qa_2,5,Answer: YG Entertainment
+qa_2,6,Eenasul Fateh (known by his stage name Aladin) was a former international management consultant and thus helped organizations improve their performance as a consultant.
+qa_2,7,"3,677"
+qa_2,8,Terry Richardson is older.
+qa_2,9,"Yes, both Local H and For Against are from the United States."
+qa_2,10,Kansas Song
+qa_2,11,David Weissman
+qa_2,12,1999
+qa_2,13,"Yes, both Random House Tower and 888 7th Avenue are used for real estate purposes: Random House Tower as a mixed-use property with offices and apartments, and 888 7th Avenue as an office skyscraper housing corporate headquarters."
+qa_2,14,Answer: 1986 to 2013
+qa_2,15,Answer:308 million
+qa_2,16,Answer: North Atlantic Conference
+qa_2,17,"Yes, Giuseppe Verdi and Ambroise Thomas are both opera composers."
+qa_2,18,Answer: 1969 to 1974
+qa_2,19,Robert Erskine Childers was from England.
+qa_2,20,Answer: Pedro Rodríguez
+qa_2,21,Answer: Sonic the Hedgehog
+qa_2,22,Answer: Keyboard function keys
+qa_2,23,Answer: Badly Drawn Boy
+qa_2,24,Answer: Peter Schmeichel was voted the IFFHS World's Best Goalkeeper in 1992.
+qa_2,25,"Lee Hazlewood was the writer of ""These Boots Are Made for Walkin'"" and he died in 2007."
+qa_2,26,1838
+qa_2,27,"Yes, both Dictyosperma and Huernia are described as a genus."
+qa_2,28,Henry J. Kaiser
+qa_2,29,Arena of Khazan
+qa_2,30,Answer: 2000
+qa_2,31,Buck-Tick hails from Japan.
+qa_2,32,Answer: Charles Nungesser
+qa_2,33,"No, ""Freakonomics"" is American, but ""In the Realm of the Hackers"" is Australian."
+qa_2,34,"To determine which band had more members, Letters to Cleo or Screaming Trees, I need to compare the number of members listed for each band.
+
+First, I will check the number of members listed for Letters to Cleo:
+From <CHUNK_44>:
+""Letters to Cleo are an alternative rock band from Boston, Massachusetts, best known for the 1994 single, ""Here & Now"", from their full-length debut album, ""Aurora Gory Alice"". The band's members are Kay Hanley, Greg McKenna, Michael Eisenstein, Stacy Jones, Scott Riebling, and later, Tom Polce.""
+Counting the members listed: Kay Hanley, Greg McKenna, Michael Eisenstein, Stacy Jones, Scott Riebling, and Tom Polce. That's 6 members.
+
+Next, I will check the number of members listed for Screaming Trees:
+From <CHUNK_200>:
+""Screaming Trees was an American rock band formed in Ellensburg, Washington in 1985 by vocalist Mark Lanegan, guitarist Gary Lee Conner, bass player Van Conner and drummer Mark Pickerel. Pickerel had been replaced by Barrett Martin by the time the band reached its most successful period.""
+From <CHUNK_201>:
+""The discography of Screaming Trees, an Ellensburg, Washington-based rock band, consists of seven studio albums, three compilation albums, five extended plays (EP), and six singles, though this does not include any solo material recorded by the individual members of Screaming Trees.""
+From <CHUNK_7>:
+""Change Has Come was the only recording the Screaming Trees released through Sub Pop. Released in 1990 the Screaming Trees then moved on to a major label, Epic Records, for their next three albums - ""Uncle Anesthesia"", ""Sweet Oblivion,"" and ""Dust"", as well as the ""Something About Today"" EP.""
+Also from <CHUNK_200>:
+""Screaming Trees was an American rock band formed in Ellensburg, Washington in 1985 by vocalist Mark Lanegan, guitarist Gary Lee Conner, bass player Van Conner and drummer Mark Pickerel.""
+The members stated in the formation of the band are: Mark Lanegan (vocalist), Gary Lee Conner (guitarist), Van Conner (bass player), Mark Pickerel (drummer). That's 4 members.
+
+From <CHUNK_47>:
+""Van Conner (born March 17, 1967 in Apple Valley, California) is an American rock musician. In 1984 he co-founded the band Screaming Trees with his brother Gary Lee Conner and close friends Mark Lanegan and Mark Pickerel.""
+Again, the founding members are mentioned as Mark Lanegan, Gary Lee Conner, Van Conner, and Mark Pickerel.
+
+From <CHUNK_38>:
+""Gary Lee Conner (born Lee Gary Conner on August 22, 1962 in Fort Irwin, California, USA) was the lead guitarist for rock act Screaming Trees, along with his brother Van Conner, who was the band's bassist.""
+From <CHUNK_38>:
+""After ten years of seclusion he finally released a new album in 2010 from his band Microdot Gnome. The album ""4D Sugarcubes"" was released on Moonbus International Recordings in April 2010 as was available on CD and MP3. At the moment he is planning future releases from Microdot Gnome.""
+From <CHUNK_38>:
+""In August 2016, Conner released a long-awaited solo album, Ether Trippers, on Strange Earth Records.""
+From <CHUNK_38>:
+""Gary Lee Conner (born Lee Gary Conner on August 22, 1962 in Fort Irwin, California, USA) was the lead guitarist for rock act Screaming Trees, along with his brother Van Conner, who was the band's bassist.""
+
+From <CHUNK_7>:
+""Change Has Come was the only recording the Screaming Trees released through Sub Pop. Released in 1990 the Screaming Trees then moved on to a major label, Epic Records, for their next three albums - ""Uncle Anesthesia"", ""Sweet Oblivion,"" and ""Dust"", as well as the ""Something About Today"" EP.""
+
+From <CHUNK_200>:
+""Screaming Trees was an American rock band formed in Ellensburg, Washington in 1985 by vocalist Mark Lanegan, guitarist Gary Lee Conner, bass player Van Conner and drummer Mark Pickerel. Pickerel had been replaced by Barrett Martin by the time the band reached its most successful period.""
+
+From <CHUNK_201>:
+""The discography of Screaming Trees, an Ellensburg, Washington-based rock band, consists of seven studio albums, three compilation albums, five extended plays (EP), and six singles, though this does not include any solo material recorded by the individual members of Screaming Trees.""
+
+From <CHUNK_38>:
+""Gary Lee Conner (born Lee Gary Conner on August 22, 1962 in Fort Irwin, California, USA) was the lead guitarist for rock act Screaming Trees, along with his brother Van Conner, who was the band's bassist.""
+
+From <CHUNK_38>:
+""Gary Lee Conner (born Lee Gary Conner on August 22, 1962 in Fort Irwin, California, USA) was the lead guitarist for rock act Screaming Trees, along with his brother Van Conner, who was the band's bassist.""
+
+From <CHUNK_38>:
+""Gary Lee Conner (born Lee Gary Conner on August 22, 1962 in Fort Irwin, California, USA) was the lead guitarist for rock act Screaming Trees, along with his brother Van Conner, who was the band's bassist.""
+
+From <CHUNK_38>:
+""Gary Lee Conner (born Lee Gary Conner on August 22, 1962 in Fort Irwin, California, USA) was the lead guitarist for rock act Screaming Trees, along with his brother Van Conner, who was the band's bassist.""
+
+From <CHUNK_38>:
+""Gary Lee Conner (born Lee Gary Conner on August 22, 1962 in Fort Irwin, California, USA) was the lead guitarist for rock act Screaming Trees, along with his brother Van Conner, who was the band's bassist.""
+
+From <CHUNK_38>:
+""Gary Lee Conner (born Lee Gary Conner on August 22, 1962 in Fort Irwin, California, USA) was the lead guitarist for rock act Screaming Trees, along with his brother Van Conner, who was the band's bassist.""
+
+From <CHUNK_38>:
+""Gary Lee Conner (born Lee Gary Conner on August 22, 1962 in Fort Irwin, California, USA) was the lead guitarist for rock act Screaming Trees, along with his brother Van Conner, who was the band's bassist.""
+
+From <CHUNK_38>:
+""Gary Lee Conner (born Lee Gary Conner on August 22, 1962 in Fort Irwin, California, USA) was the lead guitarist for rock act Screaming Trees, along with his brother Van Conner, who was the band's bassist.""
+From <CHUNK_38>:
+""Gary Lee Conner (born Lee Gary Conner on August 22, 1962 in Fort Irwin, California, USA) was the lead guitarist for rock act Screaming Trees, along with his brother Van Conner, who was the band's bassist.""
+From <CHUNK_38>:
+""Gary Lee Conner (born Lee Gary Conner on August 22, 1962 in Fort Irwin, California, USA) was the lead guitarist for rock act Screaming Trees, along with his brother Van Conner, who was the band's bassist.""
+
+From <CHUNK_38>:
+""Gary Lee Conner (born Lee Gary Conner on August 22, 1962 in Fort Irwin, California, USA) was the lead guitarist for rock act Screaming Trees, along with his brother Van Conner, who was the band's bassist.""
+
+From <CHUNK_38>:
+""Gary Lee Conner (born Lee Gary Conner on August 22, 1962 in Fort Irwin, California, USA) was the lead guitarist for rock act Screaming Trees, along with his brother Van Conner, who was the band's bassist.""
+
+From <CHUNK_38>:
+""Gary Lee Conner (born Lee Gary Conner on August 22, 1962 in Fort Irwin, California, USA) was the lead guitarist for rock act Screaming Trees, along with his brother Van Conner, who was the band's bassist.""
+
+From <CHUNK_38>:
+""Gary Lee Conner (born Lee Gary Conner on August 22, 1962 in Fort Irwin, California, USA) was the lead guitarist for rock act Screaming Trees, along with his brother Van Conner, who was the band's bassist.""
+
+From <CHUNK_38>:
+""Gary Lee Conner (born Lee Gary Conner on August 22, 1962 in Fort Irwin, California, USA) was the lead guitarist for rock act Screaming Trees, along with his brother Van Conner, who was the band's bassist.""
+
+From <CHUNK_38>:
+""Gary Lee Conner (born Lee Gary Conner on August 22, 1962 in Fort Irwin, California, USA) was the lead guitarist for rock act Screaming Trees, along with his brother Van Conner, who was the band's bassist.""
+
+From <CHUNK_38>:
+""Gary Lee Conner (born Lee Gary Conner on August 22, 1962 in Fort Irwin, California, USA) was the lead guitarist for rock act Screaming Trees, along with his brother Van Conner, who was the band's bassist.""
+
+From <CHUNK_38>:
+""Gary Lee Conner (born Lee Gary Conner on August 22, 1962 in Fort Irwin, California, USA) was the lead guitarist for rock act Screaming Trees, along with his brother Van Conner, who was the band's bassist.""
+
+From <CHUNK_38>:
+""Gary Lee Conner (born Lee Gary Conner on August 22, 1962 in Fort Irwin, California, USA) was the lead guitarist for rock act Screaming Trees, along with his brother Van Conner, who was the band's bassist.""
+
+From <CHUNK_38>:
+""Gary Lee Conner (born Lee Gary Conner on August 22, 1962 in Fort Irwin, California, USA) was the lead guitarist for rock act Screaming Trees, along with his brother Van Conner, who was the band's bassist.""
+
+From <CHUNK_38>:
+""Gary Lee Conner (born Lee Gary Conner on August 22, 1962 in Fort Irwin, California, USA) was the lead guitarist for rock act Screaming Trees, along with his brother Van Conner, who was the band's bassist.""
+
+From <CHUNK_38>:
+""Gary Lee Conner (born Lee Gary Conner on August 22, 1962 in Fort Irwin, California, USA) was the lead guitarist for rock act Screaming Trees, along with his brother Van Conner, who was the band's bassist.""
+
+From <CHUNK_38>:
+""Gary Lee Conner (born Lee Gary Conner on August 22, 1962 in Fort Irwin, California, USA) was the lead guitarist for rock act Screaming Trees, along with his brother Van Conner, who was the band's bassist.""
+
+From <CHUNK_38>:
+""Gary Lee Conner (born Lee Gary Conner on August 22, 1962 in Fort Irwin, California, USA) was the lead guitarist for rock act Screaming Trees, along with his brother Van Conner, who was the band's bassist.""
+
+From <CHUNK_38>:
+""Gary Lee Conner (born Lee Gary Conner on August 22, 1962 in Fort Irwin, California, USA) was the lead guitarist for rock act Screaming Trees, along with his brother Van Conner, who was the band's bassist.""
+
+From <CHUNK_38>:
+""Gary Lee Conner (born Lee Gary Conner on August 22, 1962 in Fort Irwin, California, USA) was the lead guitarist for rock act Screaming Trees, along with his brother Van Conner, who was the band's bassist.""
+
+From <CHUNK_38>:
+""Gary Lee Conner (born Lee Gary Conner on August 22, 1962 in Fort Irwin, California, USA) was the lead guitarist for rock act Screaming Trees, along with his brother Van Conner, who was the band's bassist.""
+
+From <CHUNK_38>:
+""Gary Lee Conner (born Lee Gary Conner on August 22, 1962 in Fort Irwin, California, USA) was the lead guitarist for rock act Screaming Trees, along with his brother Van Conner, who was the band's bassist.""
+
+From <CHUNK_38>:
+""Gary Lee Conner (born Lee Gary Conner on August 22, 1962 in Fort Irwin, California, USA) was the lead guitarist for rock act Screaming Trees, along with his brother Van Conner, who was the band's bassist.""
+
+From <CHUNK_38>:
+""Gary Lee Conner (born Lee Gary Conner on August 22, 1962 in Fort Irwin, California, USA) was the lead guitarist for rock act Screaming Trees, along with his brother Van Conner, who was the band's bassist.""
+
+From <CHUNK_38>:
+""Gary Lee Conner (born Lee Gary Conner on August 22, 1962 in Fort Irwin, California, USA) was the lead guitarist for rock act Screaming Trees, along with his brother Van Conner, who was the band's bassist.""
+
+From <CHUNK_38>:
+""Gary Lee Conner (born Lee Gary Conner on August 22, 1962 in Fort Irwin, California, USA) was the lead guitarist for rock act Screaming Trees, along with his brother Van Conner, who was the band's bassist.""
+
+From <CHUNK_38>:
+""Gary Lee Conner (born Lee Gary Conner on August 22, 1962 in Fort Irwin, California, USA) was the lead guitarist for rock act Screaming Trees, along with his brother Van Conner, who was the band's bassist.""
+
+From <CHUNK_38>:
+""Gary Lee Conner (born Lee Gary Conner on August 22, 1962 in Fort Irwin, California, USA) was the lead guitarist for rock act Screaming Trees, along with his brother Van Conner, who was the band's bassist.""
+
+From <CHUNK_38>:
+""Gary Lee Conner (born Lee Gary Conner on August 22, 1962 in Fort Irwin, California, USA) was the lead guitarist for rock act Screaming Trees, along with his brother Van Conner, who was the band's bassist.""
+
+From <CHUNK_38>:
+""Gary Lee Conner (born Lee Gary Conner on August 22, 1962 in Fort Irwin, California, USA) was the lead guitarist for rock act Screaming Trees, along with his brother Van Conner, who was the band's bassist.""
+
+From <CHUNK_38>:
+""Gary Lee Conner (born Lee Gary Conner on August 22, 1962 in Fort Irwin, California, USA) was the lead guitarist for rock act Screaming Trees, along with his brother Van Conner, who was the band's bassist.""
+
+From <CHUNK_38>:
+""Gary Lee Conner (born Lee Gary Conner on August 22, 1962 in Fort Irwin, California, USA) was the lead guitarist for rock act Screaming Trees, along with his brother Van Conner, who was the band's bassist.""
+
+From <CHUNK_38>:
+""Gary Lee Conner (born Lee Gary Conner on August 22, 1962 in Fort Irwin, California, USA) was the lead guitarist for rock act Screaming Trees, along with his brother Van Conner, who was the band's bassist.""
+
+From <CHUNK_38>:
+""Gary Lee Conner (born Lee Gary Conner on August 22, 1962 in Fort Irwin, California, USA) was the lead guitarist for rock act Screaming Trees, along with his brother Van Conner, who was the band's bassist.""
+
+From <CHUNK_38>:
+""Gary Lee Conner (born Lee Gary Conner on August 22, 1962 in Fort Irwin, California, USA) was the lead guitarist for rock act Screaming Trees, along with his brother Van Conner, who was the band's bassist.""
+
+From <CHUNK_38>:
+""Gary Lee Conner (born Lee Gary Conner on August 22, 1962 in Fort Irwin, California, USA) was the lead guitarist for rock act Screaming Trees, along with his brother Van Conner, who was the band's bassist.""
+
+From <CHUNK_38>:
+""Gary Lee Conner (born Lee Gary Conner on August 22, 1962 in Fort Irwin, California, USA) was the lead guitarist for rock act Screaming Trees, along with his brother Van Conner, who was the band's bassist.""
+
+From <CHUNK_38>:
+""Gary Lee Conner (born Lee Gary Conner on August 22, 1962 in Fort Irwin, California, USA) was the lead guitarist for rock act Screaming Trees, along with his brother Van Conner, who was the band's bassist.""
+
+From <CHUNK_38>:
+""Gary Lee Conner (born Lee Gary Conner on August 22, 1962 in Fort Irwin, California, USA) was the lead guitarist for rock act Screaming Trees, along with his brother Van Conner, who was the band's bassist.""
+
+From <CHUNK_38>"
+qa_2,35,Answer:1922
+qa_2,36,Answer:2000
+qa_2,37,Answer: World War II
+qa_2,38,No.
+qa_2,39,Answer: New York City
+qa_2,40,The Scotch Collie's ancestors include Gordon and Irish Setters.
+qa_2,41,Tata Consultancy Services is headquartered in Mumbai.
+qa_2,42,1962
+qa_2,43,Ethiopian sovereignty
+qa_2,44,Answer: Nelson Rockefeller
+qa_2,45,Answer: Yellowcraig
+qa_2,46,Answer: Phil Spector
+qa_2,47,Answer: A forum for Nobel Peace Laureates.
+qa_2,48,"Yes, Ferocactus and Silene are both types of plants."
+qa_2,49,Answer: English Electric Canberra
+qa_2,50,Answer: 2009 Big 12
+qa_2,51,"Answer: 1,462"
+qa_2,52,Answer: Indianapolis Motor Speedway
+qa_2,53,Answer: Rome
+qa_2,54,"Answer: Ellie Goulding worked with writers like Max Martin, Savan Kotecha, Ilya Salmanzadeh, and others on her third studio album ""Delirium."""
+qa_2,55,Answer: Marion
+qa_2,56,D1NZ is a series based on the drifting technique of oversteering.
+qa_2,57,Keith Bostic is younger.
+qa_2,58,"35,124"
+qa_2,59,"Yes, both Cypress and Ajuga are genera."
+qa_2,60,Answer: The shortest player ever to play in the National Basketball Association.
+qa_2,61,Francis Ford Coppola
+qa_2,62,Virginia Woolf was born earlier.
+qa_2,63,Answer: 821
+qa_2,64,70
+qa_2,65,Answer: Charmed
+qa_2,66,Answer: International Boxing Hall of Fame
+qa_2,67,Answer: Usher
+qa_2,68,Answer: Bill Murray
+qa_2,69,Answer: Carabao Cup
+qa_2,70,Teen Titans
+qa_2,71,"Answer: 276,170"
+qa_2,72,Orange
+qa_2,73,Answer: Tromeo and Juliet
+qa_2,74,Answer: Bill Clinton
+qa_2,75,John John Florence
+qa_2,76,Answer: Ann
+qa_2,77,Answer: Alvaro Mexia had a diplomatic mission with the Ais tribe.
+qa_2,78,Answer:British
+qa_2,79,Answer:1865
+qa_2,80,Answer: Newport
+qa_2,81,Answer: Bob
+qa_2,82,"Rostker v. Goldberg held that the practice of requiring only men to register for (and potentially be drafted into) the armed forces, as a means of filling vacancies, was constitutional."
+qa_2,83,Answer: Mondelez International
+qa_2,84,Answer: Monica Lewinsky
+qa_2,85,Answer: 1949
+qa_2,86,Answer:1866
+qa_2,87,"Teide National Park is located in Tenerife and Garajonay National Park is located in La Gomera, both part of the Canary Islands, Spain."
+qa_2,88,"Answer:250 million (referring to his overall sales but not specifying ""The Best of Roald Dahl"" sales)"
+qa_2,89,Answer: filmmaker (director)
+qa_2,90,The Conversation
+qa_2,91,Answer: John Waters
+qa_2,92,"Flamingo Hotel in Las Vegas, Nevada"
+qa_2,93,"No, the drinks Gibson and Zurracapote do not both contain gin."
+qa_2,94,March or April (as it is presented by London Review of Books that associates with the London International Documentary Festival that happens in those months)
+qa_2,95,Answer: Tysons Galleria is located in Fairfax County.
+qa_2,96,Answer: IT products and services
+qa_2,97,Lev Yilmaz
+qa_2,98,Beijing
+qa_2,99,"No, Yingkou is a prefecture-level city, while Fuding is a county-level city."
