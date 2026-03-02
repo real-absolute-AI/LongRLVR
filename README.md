@@ -91,10 +91,10 @@ model = AutoModelForCausalLM.from_pretrained(
 
 # Example document that has been split into chunks
 document_chunks = [
-    "[Chunk 0] Marie Curie was born in Warsaw, Poland...",
-    "[Chunk 1] The Curies' early research was inspired by Henri Becquerel's 1896 discovery...",
+    "<Chunk_0> Marie Curie was born in Warsaw, Poland...</Chunk_0>",
+    "<Chunk_1> The Curies' early research was inspired by Henri Becquerel's 1896 discovery...</Chunk_1>",
     # ... more chunks ...
-    "[Chunk 5] In December 1898, they announced the discovery of a second element, 'radium'..."
+    "<Chunk_5> In December 1898, they announced the discovery of a second element, 'radium'...</Chunk_0\5>"
 ]
 context = "\n".join(document_chunks)
 
