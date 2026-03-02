@@ -24,14 +24,19 @@ Reinforcement Learning with Verifiable Rewards (RLVR) has significantly advanced
 We formally prove that the outcome-only reward leads to significant vanishing gradients for the context grounding process. **LongRLVR** addresses this by augmenting the sparse answer reward with a **dense, verifiable context reward** that directly incentivizes correct evidence selection, providing a robust learning gradient that solves the underlying optimization challenge.
 
 ### Key takeaways
+<!-- <p align="center"> -->
+  <img width="80%" alt="image" src="https://github.com/user-attachments/assets/d2d60b30-4755-481f-ad50-3f33d39917bf" />
+<!-- </p> -->
+
 - **Diagnosis:** Outcome-only RLVR leads to a vanishing learning signal for contextual grounding in long sequences.
 - **Method:** Add a *verifiable context reward* (based on grounding chunk identifiers) alongside answer correctness.
 - **Result:** Consistently and significantly improve long-context performance across Qwen and LLaMA models.
 
 ### Results
-LongRLVR consistently and significantly outperforms the standard RLVR across all models and benchmarks. Example gains for **Qwen2.5-14B**:
-- **73.17 → 88.90** (RULER-QA)
-- **39.8 → 46.5** (LongBench v2)
+LongRLVR consistently and significantly outperforms the standard RLVR across all models and benchmarks.
+<!-- <p align="center"> -->
+<img width="80%" alt="image" src="https://github.com/user-attachments/assets/d0b72eb6-a3a7-438d-82b6-5f8c6b14af0b" />
+<!-- </p> -->
 
 ---
 
