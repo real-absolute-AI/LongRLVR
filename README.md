@@ -1,4 +1,4 @@
-# LongRLVR
+# LongRLVR: Long-Context Reinforcement Learning Requires Verifiable Context Rewards
 
 <p align="center">
   <a href="#">
