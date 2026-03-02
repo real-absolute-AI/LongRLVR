@@ -79,7 +79,7 @@ For a step-by-step tutorial on generating your own data, please see the [data_ge
 ### Training
 We provide example scripts for training. Training is built on `verl` and uses `Ray` for distributed execution and `vLLM` / `sglang` for fast generation.
 
-1. **Setup your environment:** Ensure you have the necessary dependencies installed (e.g., PyTorch, Ray, vLLM/sglang, and other dependencies required by `verl`).
+1. **Setup your environment:** Ensure you have the necessary dependencies installed (e.g., PyTorch, Ray, vLLM/sglang, and other dependencies required by `verl`). We use official docker image `verlai/verl:app-verl0.4-sglang0.4.6.post5-vllm0.8.5-mcore0.12.2-te2.2`. Feel free to use latest `verl` to access new features.
 2. **Run training:**
 You can use `run_longrl.sh` as a template. Set the required environment variables:
 
@@ -92,11 +92,7 @@ export CKPT_SAVE_PATH="./ckpts/longrlvr_run"
 bash run_longrl.sh
 ```
 
-### Important Hyperparameters
-Inside `run_longrl.sh`, you can configure sequence lengths and other parameters:
-- `data.max_prompt_length=65536`: Maximum prompt length for long-context tasks.
-- `actor_rollout_ref.rollout.name=sglang`: Generation backend used during rollout.
-- `algorithm.adv_estimator=grpo`: RL Algorithm choice.
+
 
 ---
 
@@ -105,14 +101,15 @@ Inside `run_longrl.sh`, you can configure sequence lengths and other parameters:
 If you find LongRLVR useful for your research, please cite our paper:
 
 ```bibtex
-@inproceedings{chen2026longrlvr,
-  title     = {LongRLVR: Long-Context Reinforcement Learning Requires Verifiable Context Rewards},
-  author    = {Chen, Guanzheng and Shieh, Michael Qizhe and Bing, Lidong},
-  booktitle = {International Conference on Learning Representations (ICLR)},
-  year      = {2026},
-  url       = {TBD}
+@inproceedings{
+  chen2026longrlvr,
+  title={Long{RLVR}: Long-Context Reinforcement Learning Requires Verifiable Context Rewards},
+  author={Guanzheng Chen and Michael Qizhe Shieh and Lidong Bing},
+  booktitle={The Fourteenth International Conference on Learning Representations},
+  year={2026},
+  url={https://openreview.net/forum?id=omVhYvyTPJ}
 }
 ```
 
 ## 🤝 Acknowledgements
-This project utilizes the [verl](https://github.com/volcengine/verl) framework for scalable RLHF training.
+This project utilizes the [verl](https://github.com/volcengine/verl) framework for scalable RL training.

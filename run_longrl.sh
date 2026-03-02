@@ -71,7 +71,7 @@ python3 -m recipe.dapo.main_dapo \
     actor_rollout_ref.ref.ulysses_sequence_parallel_size=4 \
     actor_rollout_ref.ref.fsdp_config.param_offload=True \
     actor_rollout_ref.ref.log_prob_use_dynamic_bsz=True \
-    reward_model.reward_manager=longrl_async \
+    reward_model.reward_manager=longrl \
     algorithm.use_kl_in_reward=False \
     algorithm.kl_ctrl.kl_coef=0.0 \
     algorithm.filter_groups.enable=True \
