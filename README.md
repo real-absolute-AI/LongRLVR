@@ -42,16 +42,16 @@ We release LongRLVR-trained models based on LLaMA and Qwen:
 
 | Model | Hugging Face Repo |
 |---|---|
-| LLaMA-3.1-8B-LongRLVR | `https://huggingface.co/Guanzheng/LLaMA-3.1-8B-LongRLVR` |
-| Qwen2.5-7B-LongRLVR | `https://huggingface.co/Guanzheng/Qwen2.5-7B-LongRLVR` |
-| Qwen2.5-14B-LongRLVR | `https://huggingface.co/Guanzheng/Qwen2.5-14B-LongRLVR` |
+| LLaMA-3.1-8B-LongRLVR | https://huggingface.co/Guanzheng/LLaMA-3.1-8B-LongRLVR |
+| Qwen2.5-7B-LongRLVR | https://huggingface.co/Guanzheng/Qwen2.5-7B-LongRLVR |
+| Qwen2.5-14B-LongRLVR | https://huggingface.co/Guanzheng/Qwen2.5-14B-LongRLVR |
 
 ### Dataset
 Our training dataset containing 46K high-quality synthetic QA pairs is available on Hugging Face:
 
 | Dataset | Hugging Face Repo |
 |---|---|
-| LongRLVR-Data | `https://huggingface.co/datasets/Guanzheng/LongRLVR-Data` |
+| LongRLVR-Data | https://huggingface.co/datasets/Guanzheng/LongRLVR-Data |
 
 ---
 
