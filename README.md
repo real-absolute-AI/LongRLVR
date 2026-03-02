@@ -4,10 +4,10 @@
   <a href="#">
     <img src="https://img.shields.io/badge/arXiv-TBD-b31b1b?logo=arXiv" alt="arXiv">
   </a>
-  <a href="#">
+  <a href="https://huggingface.co/Guanzheng/Qwen2.5-7B-LongRLVR">
     <img src="https://img.shields.io/badge/HuggingFace-Models-yellow?logo=huggingface" alt="HF Models">
   </a>
-  <a href="#">
+  <a href="https://huggingface.co/datasets/Guanzheng/LongRLVR-Data">
     <img src="https://img.shields.io/badge/HuggingFace-Dataset-yellow?logo=huggingface" alt="Dataset">
   </a>
 </p>
