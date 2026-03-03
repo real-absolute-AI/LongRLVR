@@ -152,7 +152,8 @@ export CKPT_SAVE_PATH="./ckpts/longrlvr_run"
 bash run_longrl.sh
 ```
 
-
+### Evaluation
+We release the evaluation results on LongBench v2, LongReason, and RULER-QA under `eval_results` folder.
 
 ---
 
